@@ -1,0 +1,3 @@
+[submodule "new_code"]
+	path = new_code
+	url = https://github.com/nossa-y/Mistral_hackathon.git
