@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144856" date-produced="20240105" kind="A1" doc-number="3137278" country="FR" id="2206515" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137278</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144856">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206515</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206515</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Composition comprenant un sel peroxyg&#xE9;n&#xE9;, un corps gras dans une teneur particuli&#xE8;re, un compos&#xE9; de type aminoacide et un (poly)acide carboxylique.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'OREAL</orgname>
+            <iid>632012100</iid>
+            <address>
+              <address-1>14, rue Royale</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DORIE</last-name>
+            <first-name>Hugo</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LUCET-LEVANNIER</last-name>
+            <first-name>Karine</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>NODARI</last-name>
+            <first-name>Laurent</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'OREAL</orgname>
+          <iid>632012100</iid>
+          <address>
+            <address-1>14, rue Royale</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/22        20220101AFI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/92        20220101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K   8/44        20220101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61K   8/36        20220101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>A61Q   5/10        20220101ALI20220902BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Composition comprenant un corps gras dans une teneur particuli&#xE8;re, un sel peroxyg&#xE9;n&#xE9;, un compos&#xE9; de type aminoacide et un (poly)acide carboxylique
+    L&#x2019;invention concerne une composition d&#x2019;&#xE9;claircissement des fibres k&#xE9;ratiniques, et en particulier des fibres k&#xE9;ratiniques humaines telles que les cheveux, comprenant un ou plusieurs sels peroxyg&#xE9;n&#xE9;s, un ou plusieurs corps gras dans une teneur sup&#xE9;rieure &#xE0; 10% en poids, un ou plusieurs compos&#xE9;(s) de type aminoacides et un ou plusieurs (poly)acides carboxyliques diff&#xE9;rents des compos&#xE9;(s) de type aminoacides, la composition &#xE9;tant exempte de peroxyde d&#x2019;hydrog&#xE8;ne.
+    L&#x2019;invention concerne &#xE9;galement un proc&#xE9;d&#xE9; d&#x2019;&#xE9;claircissement des fibres k&#xE9;ratiniques, de pr&#xE9;f&#xE9;rence humaines, notamment des cheveux, comprenant l&#x2019;application sur lesdites fibres k&#xE9;ratiniques de la composition.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2022/062142 A1 (HENRY DEREK [US])
+3 mars 2022 (2022-03-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2022062142-A1</doc-number>
+            <date>20220303</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 10 561 594 B2 (HENKEL AG &amp; CO KGAA
+[DE]) 18 f&#xE9;vrier 2020 (2020-02-18)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-10561594-B2</doc-number>
+            <date>20200218</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2021/346261 A1 (DEGEORGE MICHAEL [US]
+ET AL) 11 novembre 2021 (2021-11-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021346261-A1</doc-number>
+            <date>20211111</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2017/340553 A1 (ANDERHEGGEN BERND [DE]
+ET AL) 30 novembre 2017 (2017-11-30)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2017340553-A1</doc-number>
+            <date>20171130</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2020 209041 A1 (HENKEL AG &amp; CO KGAA
+[DE]) 20 janvier 2022 (2022-01-20)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102020209041-A1</doc-number>
+            <date>20220120</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 6 703 004 B2 (REVLON CONSUMER PROD CORP
+[US]) 9 mars 2004 (2004-03-09)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-6703004-B2</doc-number>
+            <date>20040309</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230510</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

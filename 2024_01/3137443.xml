@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145081" date-produced="20240105" kind="A1" doc-number="3137443" country="FR" id="2206786" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137443</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145081">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206786</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206786</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">&#xC9;CHANGEUR DE CHALEUR &#xC0; TUBE DE CIRCULATION DE FLUIDE ET PROTECTION CONTRE LES MICROM&#xC9;T&#xC9;ORITES.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>LIEBHERR-AEROSPACE TOULOUSE SAS</orgname>
+            <iid>552016834</iid>
+            <address>
+              <address-1>408 Avenue des Etats-Unis BP 52010</address-1>
+              <city>TOULOUSE CEDEX 2</city>
+              <postcode>31016</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ROBERT</last-name>
+            <first-name>Julien</first-name>
+            <address>
+              <address-1/>
+              <city>TOULOUSE CEDEX 2</city>
+              <postcode>31016</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>MEUNIER</last-name>
+            <first-name>St&#xE9;phane</first-name>
+            <address>
+              <address-1/>
+              <city>TOULOUSE CEDEX 2</city>
+              <postcode>31016</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>RAMOUSSE</last-name>
+            <first-name>Arnaud</first-name>
+            <address>
+              <address-1/>
+              <city>TOULOUSE CEDEX 2</city>
+              <postcode>31016</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>BRINGER IP</orgname>
+            <address>
+              <address-1>1 Place du Pr&#xE9;sident Thomas Wilson</address-1>
+              <city>TOULOUSE</city>
+              <postcode>31000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>LIEBHERR-AEROSPACE TOULOUSE SAS</orgname>
+          <iid>552016834</iid>
+          <address>
+            <address-1>408 Avenue des Etats-Unis BP 52010</address-1>
+            <city>TOULOUSE CEDEX 2</city>
+            <postcode>31016</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F28D  21/00        20220101AFI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B23K 101/14        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    &#xC9;CHANGEUR DE CHALEUR &#xC0; TUBE DE CIRCULATION DE FLUIDE ET PROTECTION CONTRE LES MICROM&#xC9;T&#xC9;ORITES.
+    L&#x2019;invention concerne un &#xE9;changeur de chaleur comprenant un tube (14) de circulation d&#x2019;un fluide et configur&#xE9; pour permettre un &#xE9;change de chaleur entre le fluide circulant dans le tube et une enveloppe entourant le tube et form&#xE9;e de deux barreaux (112a, 112b) profil&#xE9;s configur&#xE9;s pour entourer le tube (14) dans au moins une partie de sa longueur, comprenant chacun&#xA0;un &#xE9;videment (16a, 16b) destin&#xE9; &#xE0; recevoir le tube, et une surface (18a, 18b) de jonction configur&#xE9;e pour former une jonction avec l&#x2019;autre barreau profil&#xE9;, et en ce que les surfaces (18a, 18b) de jonctions des barreaux profil&#xE9;s forment un interstice (20) entre elles, et les surfaces (18a, 18b) de jonctions des barreaux profil&#xE9;s sont agenc&#xE9;es selon des plans diff&#xE9;rents de sorte &#xE0; ce que ledit interstice forme au moins une chicane (24a, 24b) de chaque c&#xF4;t&#xE9; du tube (14).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: figure 1 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 9 897 383 B2 (YESIN BERK [CH]; AGOSTINI
+BRUNO [CH]; ABB RESEARCH LTD [CH])
+20 f&#xE9;vrier 2018 (2018-02-20)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-9897383-B2</doc-number>
+            <date>20180220</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2015 201808 A1 (MODINE MFG CO [US])
+13 ao&#xFB;t 2015 (2015-08-13)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102015201808-A1</doc-number>
+            <date>20150813</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 9 103 604 B2 (DENOUAL CHRISTOPHE [FR];
+VALEO SYSTEMES THERMIQUES [FR])
+11 ao&#xFB;t 2015 (2015-08-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-9103604-B2</doc-number>
+            <date>20150811</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2014/041227 A1 (LINDELL ERIC [US] ET
+AL) 13 f&#xE9;vrier 2014 (2014-02-13)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014041227-A1</doc-number>
+            <date>20140213</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 066 012 A1 (VALEO SYSTEMES THERMIQUES
+[FR]) 9 novembre 2018 (2018-11-09)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3066012-A1</doc-number>
+            <date>20181109</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230721</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

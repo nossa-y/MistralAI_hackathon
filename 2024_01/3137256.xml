@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145027" date-produced="20240105" kind="A1" doc-number="3137256" country="FR" id="2206721" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137256</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145027">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206721</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206721</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Robinetterie automatique &#xE0; flotteur, notamment pour un abreuvoir pour animaux d&#x2019;&#xE9;levage, comportant un dispositif anti-oscillations</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>LA BUVETTE</orgname>
+            <iid>785720012</iid>
+            <address>
+              <address-1>Parc d'activit&#xE9;s Ardennes Emeraude</address-1>
+              <city>TOURNES</city>
+              <postcode>08090</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>BOUSQUET</last-name>
+            <first-name>Jean-Philippe</first-name>
+            <address>
+              <address-1/>
+              <city>BELVAL-SOUS-CHATILLON</city>
+              <postcode>51480</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Cabinet Bl&#xE9;ger-Rhein-Poupon</orgname>
+            <address>
+              <address-1>4a rue de l'Industrie</address-1>
+              <city>MUNDOLSHEIM</city>
+              <postcode>67450</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>LA BUVETTE</orgname>
+          <iid>785720012</iid>
+          <address>
+            <address-1>Parc d'activit&#xE9;s Ardennes Emeraude</address-1>
+            <city>TOURNES</city>
+            <postcode>08090</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A01K   7/04        20220101AFI20220902BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Robinetterie automatique &#xE0; flotteur, notamment pour un abreuvoir pour animaux d&#x2019;&#xE9;levage, comportant un dispositif anti-oscillations 
+    L&#x2019;invention concerne une robinetterie (1) automatique pour abreuvoir comprenant une cuve (2) destin&#xE9;e &#xE0; &#xEA;tre remplie d&#x2019;eau, ladite robinetterie comprenant un gicleur (3) raccord&#xE9; &#xE0; l&#x2019;arriv&#xE9;e d&#x2019;eau et comportant un corps (31) recevant un si&#xE8;ge de clapet (32) sur lequel se referme un clapet (41) sous l&#x2019;action d&#x2019;un porte-clapet (4) mont&#xE9; mobile sur le corps du gicleur entre une position d&#x2019;ouverture (42) et une position d&#x2019;obturation (43) du clapet, sous l&#x2019;action du niveau d&#x2019;eau dans la cuve sur un flotteur (7) solidaire d&#x2019;un bras (5) que comporte le porte-clapet &#xE9;quip&#xE9; dudit clapet.
+    Ladite robinetterie comporte un dispositif anti-oscillations (9) du clapet comprenant au moins un moyen de freinage coop&#xE9;rant avec ledit porte-clapet pour cr&#xE9;er une r&#xE9;sistance au d&#xE9;placement de ce dernier, au moins &#xE0; l&#x2019;obturation dudit clapet.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 2 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 3 091 253 A (AUSTIN JOHN J)
+28 mai 1963 (1963-05-28)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-3091253-A</doc-number>
+            <date>19630528</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 339 119 A1 (CROCQ JEAN CLAUDE [FR])
+19 ao&#xFB;t 1977 (1977-08-19)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2339119-A1</doc-number>
+            <date>19770819</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2019/098867 A1 (SIEVERDING ERIC DAVID
+[US] ET AL) 4 avril 2019 (2019-04-04)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2019098867-A1</doc-number>
+            <date>20190404</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230713</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

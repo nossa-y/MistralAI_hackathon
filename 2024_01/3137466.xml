@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144906" date-produced="20240105" kind="A1" doc-number="3137466" country="FR" id="2206570" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137466</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144906">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206570</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206570</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">PROCEDE DE GESTION D&#x2019;UN COMPTEUR COMMUNICANT</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SAGEMCOM ENERGY &amp; TELECOM</orgname>
+            <address>
+              <address-1>250 Route de l"Empereur</address-1>
+              <city>RUEIL MALMAISON</city>
+              <postcode>92500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>SABRAOUI</last-name>
+            <first-name>Abbas</first-name>
+            <address>
+              <address-1/>
+              <city>RUEIL MALMAISON</city>
+              <postcode>92500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BASTURK</last-name>
+            <first-name>Ahmet Samet</first-name>
+            <address>
+              <address-1/>
+              <city>RUEIL MALMAISON</city>
+              <postcode>92500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>ABID</last-name>
+            <first-name>Oussama</first-name>
+            <address>
+              <address-1/>
+              <city>RUEIL MALMAISON</city>
+              <postcode>92500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET LE GUEN &amp; ASSOCIES</orgname>
+            <address>
+              <address-1>3 Impasse de la Vigie CS 71840</address-1>
+              <city>SAINT-MALO Cedex</city>
+              <postcode>35418</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SAGEMCOM ENERGY &amp; TELECOM</orgname>
+          <address>
+            <address-1>250 Route de l"Empereur</address-1>
+            <city>RUEIL MALMAISON</city>
+            <postcode>92500</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G06F   1/26        20220101AFI20220926BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G01F   1/00        20220101ALI20220926BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Un proc&#xE9;d&#xE9; (100) de gestion d'un compteur (1) communicant, pour mesurer une consommation d'un fluide, le compteur (1) comportant une unit&#xE9; de mesure (4) pour acqu&#xE9;rir des mesures de consommation du fluide &#xE0; une fr&#xE9;quence param&#xE9;trable. Le proc&#xE9;d&#xE9; est ex&#xE9;cut&#xE9; par le compteur (1) communicant et le proc&#xE9;d&#xE9; comporte les &#xE9;tapes suivantes&#xA0;:(a) effectuer une acquisition d&#x2019;au moins une valeur du d&#xE9;bit (d(t)) de consommation du fluide &#xE0; une fr&#xE9;quence param&#xE9;trable active ,(e) mettre &#xE0; jour la fr&#xE9;quence param&#xE9;trable active  au moins en fonction de la valeur du d&#xE9;bit (d(t)) acquise, d&#x2019;au moins une autre valeur de d&#xE9;bit pr&#xE9;c&#xE9;demment acquise et d&#x2019;une fr&#xE9;quence d&#xE9;termin&#xE9;e &#xE0; partir d&#x2019;une probabilit&#xE9; non-nulle (p(t)) d&#x2019;une variation de d&#xE9;bit de consommation du fluide sup&#xE9;rieure &#xE0; un seuil de variation de d&#xE9;bit et r&#xE9;ex&#xE9;cution du proc&#xE9;d&#xE9; avec la fr&#xE9;quence param&#xE9;trable active mise &#xE0; jour
+    Figure &#xE0; publier avec l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

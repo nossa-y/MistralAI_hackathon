@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144847" date-produced="20240105" kind="A1" doc-number="3137276" country="FR" id="2206505" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137276</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144847">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206505</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206505</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Composition comprenant un sel peroxyg&#xE9;n&#xE9;, un corps gras dans une teneur particuli&#xE8;re, un polym&#xE8;re associatif et un polysaccharide non associatif.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'OREAL</orgname>
+            <iid>632012100</iid>
+            <address>
+              <address-1>14, rue Royale</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>LUCET-LEVANNIER</last-name>
+            <first-name>Karine</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>AUBERT</last-name>
+            <first-name>Fabien</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>NODARI</last-name>
+            <first-name>Laurent</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>BOCHE</last-name>
+            <first-name>Benoit</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'OREAL</orgname>
+          <iid>632012100</iid>
+          <address>
+            <address-1>14, rue Royale</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/22        20220101AFI20220921BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/31        20220101ALI20220921BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K   8/73        20220101ALI20220921BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61Q   5/10        20220101ALI20220921BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Composition comprenant un sel peroxyg&#xE9;n&#xE9;, un corps gras dans une teneur particuli&#xE8;re, un polym&#xE8;re associatif et un polysaccharide non associatif.
+    L&#x2019;invention concerne une composition d&#x2019;&#xE9;claircissement des fibres k&#xE9;ratiniques, et en particulier des fibres k&#xE9;ratiniques humaines telles que les cheveux, comprenant un ou plusieurs sels peroxyg&#xE9;n&#xE9;s, un ou plusieurs corps gras dans une teneur sup&#xE9;rieure ou &#xE9;gale &#xE0; 20% en poids, un ou plusieurs polym&#xE8;re(s) associatif(s) et un ou plusieurs polysaccharide(s) non associatif(s).
+    L&#x2019;invention concerne &#xE9;galement un proc&#xE9;d&#xE9; d&#x2019;&#xE9;claircissement des fibres k&#xE9;ratiniques, de pr&#xE9;f&#xE9;rence humaines, notamment des cheveux, comprenant l&#x2019;application sur lesdites fibres k&#xE9;ratiniques de la composition.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 4 327 751 A (EVANS EVELYN)
+4 mai 1982 (1982-05-04)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4327751-A</doc-number>
+            <date>19820504</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 10 159 854 B2 (OREAL [FR])
+25 d&#xE9;cembre 2018 (2018-12-25)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-10159854-B2</doc-number>
+            <date>20181225</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 852 834 B1 (OREAL [FR])
+15 f&#xE9;vrier 2008 (2008-02-15)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2852834-B1</doc-number>
+            <date>20080215</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 5 888 484 A (SCHMITT MANFRED [DE] ET
+AL) 30 mars 1999 (1999-03-30)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-5888484-A</doc-number>
+            <date>19990330</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 7 074 393 B2 (WELLA AG [DE])
+11 juillet 2006 (2006-07-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-7074393-B2</doc-number>
+            <date>20060711</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 3 572 126 A2 (OBSHCHESTVO S
+OGRANICHENNOJ OTVETSTVENNOSTYU
+YUNIKOSMETIK [RU])
+27 novembre 2019 (2019-11-27)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3572126-A2</doc-number>
+            <date>20191127</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230510</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

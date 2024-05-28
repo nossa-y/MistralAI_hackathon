@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144901" date-produced="20240105" kind="A1" doc-number="3137492" country="FR" id="2206564" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137492</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144901">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206564</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206564</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif opto&#xE9;lectronique</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ALEDIA</orgname>
+            <address>
+              <address-1>Parc d&#x2019;Entreprises Sud Galaxie 10 Rue des M&#xE9;ridiens</address-1>
+              <city>ECHIROLLES</city>
+              <postcode>38130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>LEE</last-name>
+            <first-name>Jaehoon</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>MERCIER</last-name>
+            <first-name>Fr&#xE9;d&#xE9;ric</first-name>
+            <address>
+              <address-1/>
+              <city>COUBLEVIE</city>
+              <postcode>38500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>PETKOV</last-name>
+            <first-name>Ivan</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT MARTIN D'HERES</city>
+              <postcode>38400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET BEAUMONT</orgname>
+            <address>
+              <address-1>4 Place Robert Schuman B.P. 1529</address-1>
+              <city>GRENOBLE CEDEX 1</city>
+              <postcode>38025</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>ALEDIA</orgname>
+          <address>
+            <address-1>Parc d&#x2019;Entreprises Sud Galaxie 10 Rue des M&#xE9;ridiens</address-1>
+            <city>ECHIROLLES</city>
+            <postcode>38130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01L  21/70        20220101AFI20221024BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01L  27/00        20220101ALI20221024BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Dispositif opto&#xE9;lectronique
+    La pr&#xE9;sente description concerne une puce comprenant&#xA0;:    
+    -    quatre plots de connexion recevant respectivement une tension d'alimentation, une tension de r&#xE9;f&#xE9;rence, un premier signal de donn&#xE9;es (ROW) et un deuxi&#xE8;me signal de donn&#xE9;es (COL)&#xA0;;    
+    -    au moins deux pixels&#xA0;;     
+    -    au moins deux circuits de commande, chaque circuit de commande &#xE9;tant configur&#xE9; pour commander un des pixels, les circuits de commande &#xE9;tant reli&#xE9;s en s&#xE9;rie&#xA0;;     
+    chaque circuit de commande comprenant une premi&#xE8;re entr&#xE9;e et une premi&#xE8;re sortie, la premi&#xE8;re sortie de chaque circuit de commande &#xE9;tant reli&#xE9;e &#xE0; la premi&#xE8;re entr&#xE9;e du circuit de commande suivant dans la s&#xE9;rie, chaque circuit de commande &#xE9;tant configur&#xE9;, dans une &#xE9;tape de programmation, pour &#xEA;tre programm&#xE9; en stockant des donn&#xE9;es num&#xE9;riques &#xE0; partir du deuxi&#xE8;me signal de donn&#xE9;es, et, dans une &#xE9;tape d'affichage, pour commander un des pixels &#xE0; partir des donn&#xE9;es num&#xE9;riques stock&#xE9;es et &#xE0; partir du premier signal de donn&#xE9;es (ROW).
+    Figure pour l'abr&#xE9;g&#xE9;&#xA0;: Fig. 4
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 3 069 379 A1 (ALEDIA [FR])
+25 janvier 2019 (2019-01-25)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3069379-A1</doc-number>
+            <date>20190125</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 069 378 A1 (ALEDIA [FR])
+25 janvier 2019 (2019-01-25)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3069378-A1</doc-number>
+            <date>20190125</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2017/188427 A1 (COK RONALD S [US] ET
+AL) 29 juin 2017 (2017-06-29)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2017188427-A1</doc-number>
+            <date>20170629</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 1 227 468 A2 (EASTMAN KODAK CO [US])
+31 juillet 2002 (2002-07-31)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-1227468-A2</doc-number>
+            <date>20020731</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230620</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

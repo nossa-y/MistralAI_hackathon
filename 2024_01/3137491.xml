@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144959" date-produced="20240105" kind="A1" doc-number="3137491" country="FR" id="2206643" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137491</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144959">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206643</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206643</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de fabrication d&#x2019;une structure pav&#xE9;e</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Commissariat &#xE0; l'Energie Atomique et aux Energies Alternatives</orgname>
+            <iid>775685019</iid>
+            <address>
+              <address-1>25 rue Leblanc Bat Le Ponant</address-1>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MONTMEAT</last-name>
+            <first-name>Pierre</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE Cedex 9</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>FOURNEL</last-name>
+            <first-name>Frank</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE Cedex 9</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>World Trade Center  5 place Robert Schuman</address-1>
+              <city>GRENOBLE</city>
+              <postcode>38025</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Commissariat &#xE0; l'Energie Atomique et aux Energies Alternatives</orgname>
+          <iid>775685019</iid>
+          <address>
+            <address-1>25 rue Leblanc Bat Le Ponant</address-1>
+            <city>PARIS</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01L  21/08        20220101AFI20221025BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01L  21/027       20220101ALI20221025BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Proc&#xE9;d&#xE9; de fabrication d&#x2019;une structure pav&#xE9;e (100) comprenant :
+    a) fourniture d&#x2019;une structure vignet&#xE9;e (50) comprenant un cadre rigide (4), des vignettes (1) coll&#xE9;es de mani&#xE8;re espac&#xE9;es sur le cadre rigide (4) pourvu d&#x2019;un film adh&#xE9;sif (5) sensible aux UV,b) collage des vignettes (1) &#xE0; un substrat support (S3) par l&#x2019;interm&#xE9;diaire d&#x2019;une p&#xE2;te &#xE0; base min&#xE9;rale (6) de sorte &#xE0; former un empilement (7), c) application d&#x2019;une pression sur l&#x2019;empilement (7) de sorte que la p&#xE2;te &#xE0; base min&#xE9;rale (6) remplisse l&#x2019;espace (3) entre les vignettes (1),d) insolation du film adh&#xE9;sif (5) sensible aux UV, e) s&#xE9;paration du cadre rigide (4) et des vignettes (1) solidaires du substrat support (S3)), etf) application d&#x2019;un traitement thermique de sorte transformer la p&#xE2;te &#xE0; base min&#xE9;rale (6) en un mat&#xE9;riau min&#xE9;ral coh&#xE9;sif (6&#x2019;) pour obtenir la structure pav&#xE9;e (100).
+    Figure 5 pour l&#x2019;abr&#xE9;g&#xE9;
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2018/182661 A1 (GHYSELEN BRUNO [FR])
+28 juin 2018 (2018-06-28)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2018182661-A1</doc-number>
+            <date>20180628</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2005/178495 A1 (ASPAR BERNARD [FR] ET
+AL) 18 ao&#xFB;t 2005 (2005-08-18)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2005178495-A1</doc-number>
+            <date>20050818</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2022/148911 A1 (LANDRU DIDIER [FR] ET
+AL) 12 mai 2022 (2022-05-12)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2022148911-A1</doc-number>
+            <date>20220512</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2014/051232 A1 (BURGHOUT WILLIAM F [US]
+ET AL) 20 f&#xE9;vrier 2014 (2014-02-20)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014051232-A1</doc-number>
+            <date>20140220</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 6 562 127 B1 (KUD FRANCIS [US] ET AL)
+13 mai 2003 (2003-05-13)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-6562127-B1</doc-number>
+            <date>20030513</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 8 084 282 B2 (HECK JOHN [US]; JONES
+RICHARD [US] ET AL.)
+27 d&#xE9;cembre 2011 (2011-12-27)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-8084282-B2</doc-number>
+            <date>20111227</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230623</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

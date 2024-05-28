@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145087" date-produced="20240105" kind="A1" doc-number="3137379" country="FR" id="2206792" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137379</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145087">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206792</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206792</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">S&#xE9;parateur de sels comprenant une structure poreuse d&#xE9;formable formant un support de pr&#xE9;cipitation et d&#x2019;&#xE9;vacuation de sels, Installation de gaz&#xE9;ification de biomasse associ&#xE9;e.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>COMMISSARIAT A L'ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES</orgname>
+            <iid>775685019</iid>
+            <address>
+              <address-1>B&#xE2;timent Le Ponant 25 rue Leblanc</address-1>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>RATEL</last-name>
+            <first-name>Gilles</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>DEMEY CEDENO</last-name>
+            <first-name>Hary</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>DUCROS</last-name>
+            <first-name>Fr&#xE9;d&#xE9;ric</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Cabinet NONY</orgname>
+            <address>
+              <address-1>11 rue Saint-Georges</address-1>
+              <city>PARIS</city>
+              <postcode>75009</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>COMMISSARIAT A L'ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES</orgname>
+          <iid>775685019</iid>
+          <address>
+            <address-1>B&#xE2;timent Le Ponant 25 rue Leblanc</address-1>
+            <city>PARIS</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>C02F   1/02        20220101AFI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B01J   3/00        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B01J  19/18        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    S&#xE9;parateur de sels comprenant une structure poreuse d&#xE9;formable formant un support de pr&#xE9;cipitation et d&#x2019;&#xE9;vacuation de sels, Installation de gaz&#xE9;ification de biomasse associ&#xE9;e.
+    L&#x2019;invention concerne un s&#xE9;parateur de sels contenus dans une solution qui est port&#xE9;e dans des conditions supercritiques pour pr&#xE9;cipiter les sels qu&#x2019;elle contient au sein d&#x2019;une structure poreuse d&#xE9;formable.
+    La porosit&#xE9; ouverte des pores de la structure d&#xE9;finit une tr&#xE8;s grande surface de d&#xE9;p&#xF4;t/pr&#xE9;cipitation des sels. 
+    La solution est inject&#xE9;e dans l&#x2019;enceinte du s&#xE9;parateur par un tube pouvant atteindre l&#x2019;int&#xE9;rieur de la chambre et p&#xE9;n&#xE9;trer au sein de la structure d&#xE9;formable, m&#xEA;me dans son &#xE9;tat le plus d&#xE9;form&#xE9;.
+    La structure poreuse est chauff&#xE9;e par le biais de la paroi lat&#xE9;rale de l&#x2019;enceinte &#xE0; une temp&#xE9;rature comprise entre 300&#xB0;C et 1000 &#xB0;C. Les sels inorganiques contenus dans la solution sont pi&#xE9;g&#xE9;s/pr&#xE9;cipit&#xE9;s au contact de la structure poreuse chauff&#xE9;e qui est dans son &#xE9;tat d&#xE9;form&#xE9;. Le flux de la solution appauvri en sels est &#xE9;vacu&#xE9; par l&#x2019;orifice de sortie d&#xE9;di&#xE9;.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9; : fig. 3 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 3 839 405 A1 (COMMISSARIAT ENERGIE
+ATOMIQUE [FR]) 23 juin 2021 (2021-06-23)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3839405-A1</doc-number>
+            <date>20210623</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 4 891 190 A (CARTER DON E [US] ET AL)
+2 janvier 1990 (1990-01-02)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4891190-A</doc-number>
+            <date>19900102</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 10 003 095 B2 (L3 OPEN WATER POWER INC
+[US]) 19 juin 2018 (2018-06-19)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-10003095-B2</doc-number>
+            <date>20180619</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 111 533 227 A (BEIJING LUCENCY ENVIRO
+TECH CO LTD) 14 ao&#xFB;t 2020 (2020-08-14)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-111533227-A</doc-number>
+            <date>20200814</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230724</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

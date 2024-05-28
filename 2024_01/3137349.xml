@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145005" date-produced="20240105" kind="A1" doc-number="3137349" country="FR" id="2206695" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137349</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145005">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206695</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206695</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif de nettoyage d&#x2019;une surface optique</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Valeo Syst&#xE8;mes d&#x2019;Essuyage</orgname>
+            <address>
+              <address-1>8 Rue Louis Lormand CS 90581 La Verri&#xE8;re</address-1>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78322</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>BAUDOUIN</last-name>
+            <first-name>Maxime</first-name>
+            <address>
+              <address-1/>
+              <city>ISSOIRE</city>
+              <postcode>63500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>TERRASSE</last-name>
+            <first-name>William</first-name>
+            <address>
+              <address-1/>
+              <city>ISSOIRE</city>
+              <postcode>63500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>BRETAGNOL</last-name>
+            <first-name>Fr&#xE9;d&#xE9;ric</first-name>
+            <address>
+              <address-1/>
+              <city>ISSOIRE</city>
+              <postcode>63500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Valeo Syst&#xE8;mes d&#x2019;Essuyage</orgname>
+          <address>
+            <address-1>8 Rue Louis Lormand CS 90581 La Verri&#xE8;re</address-1>
+            <city>LE MESNIL SAINT DENIS</city>
+            <postcode>78322</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60S   1/56        20220101AFI20221208BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Dispositif de nettoyage d&#x2019;une surface optique
+    La pr&#xE9;sente invention concerne un dispositif de nettoyage (4) d&#x2019;un capteur (2) optique comprenant un dispositif de g&#xE9;n&#xE9;ration d&#x2019;un flux d&#x2019;air (28) reli&#xE9; fluidiquement &#xE0; un ensemble d&#x2019;au moins deux conduits d&#x2019;air (30) distincts l&#x2019;un de l&#x2019;autre, chacun des conduits d&#x2019;air (30) comprenant un corps (36) allong&#xE9; d&#xE9;limit&#xE9; par une bouche d&#x2019;entr&#xE9;e (32), communiquant avec le dispositif de g&#xE9;n&#xE9;ration du flux d&#x2019;air (28), et par une bouche de sortie (38), les bouches de sortie (38) de chacun des conduits d&#x2019;air (30) &#xE9;tant fluidiquement distinctes l&#x2019;une de l&#x2019;autre et configur&#xE9;es pour distribuer une partie du flux d&#x2019;air mis sous pression par le dispositif de g&#xE9;n&#xE9;ration d&#x2019;un flux d&#x2019;air (28) vers au moins une surface optique du capteur (2) optique, les conduits d&#x2019;air (30) &#xE9;tant configur&#xE9;s pour distribuer le flux d&#x2019;air vers au moins deux zones (22) distinctes d&#x2019;un conduit &#xE0; l&#x2019;autre. 
+    (figure 1)
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 3 104 039 A1 (VALEO SYSTEMES D'ESSUYAGE
+[FR]) 11 juin 2021 (2021-06-11)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3104039-A1</doc-number>
+            <date>20210611</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2018/017395 A1 (UBER TECHNOLOGIES INC
+[US]) 25 janvier 2018 (2018-01-25)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2018017395-A1</doc-number>
+            <date>20180125</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2018/265049 A1 (SCHMIDT DAVID [US] ET
+AL) 20 septembre 2018 (2018-09-20)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2018265049-A1</doc-number>
+            <date>20180920</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2020 213746 A1 (BOSCH GMBH ROBERT
+[DE]) 5 mai 2022 (2022-05-05)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102020213746-A1</doc-number>
+            <date>20220505</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

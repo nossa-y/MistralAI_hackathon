@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145024" date-produced="20240105" kind="A1" doc-number="3137361" country="FR" id="2206718" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137361</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145024">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206718</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206718</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Tricycle pliant &#xE9;quip&#xE9; d&#x2019;un dispositif de motorisation</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SEB S.A.</orgname>
+            <iid>300349636</iid>
+            <address>
+              <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+              <city>ECULLY</city>
+              <postcode>69130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN</orgname>
+            <iid>855200887</iid>
+            <address>
+              <address-1>23 place des Carmes D&#xE9;chaux</address-1>
+              <city>CLERMONT-FERRAND</city>
+              <postcode>63000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>PELISSE</last-name>
+            <first-name>Matthieu</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>POTIN</last-name>
+            <first-name>Yves</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SEB S.A.</orgname>
+          <iid>300349636</iid>
+          <address>
+            <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+            <city>ECULLY</city>
+            <postcode>69130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN</orgname>
+          <iid>855200887</iid>
+          <address>
+            <address-1>23 place des Carmes D&#xE9;chaux</address-1>
+            <city>CLERMONT-FERRAND</city>
+            <postcode>63000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B62K   5/06        20220101AFI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B62K  15/00        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un v&#xE9;hicule comprenant un cadre (12), une roue avant, une premi&#xE8;re roue arri&#xE8;re (3), une deuxi&#xE8;me roue arri&#xE8;re (4), un support de roues arri&#xE8;re (17) comprenant un premier bras (18) supportant la premi&#xE8;re roue arri&#xE8;re (3) et un deuxi&#xE8;me bras (19) supportant la deuxi&#xE8;me roue arri&#xE8;re (4), et un dispositif de motorisation comprenant un arbre d&#x2019;entra&#xEE;nement, un moteur (22) et des moyens de transmission de mouvement configur&#xE9;s pour transmettre un mouvement de rotation de l&#x2019;arbre d&#x2019;entra&#xEE;nement &#xE0; la premi&#xE8;re roue arri&#xE8;re (3) et &#xE0; la deuxi&#xE8;me roue arri&#xE8;re (4), les moyens de transmission de mouvement comprenant une premi&#xE8;re roue libre (23) mont&#xE9;e sur la premi&#xE8;re roue arri&#xE8;re (3) et une deuxi&#xE8;me roue libre (24) mont&#xE9;e sur la deuxi&#xE8;me roue arri&#xE8;re (4), et le support de roues arri&#xE8;re (17) comprenant une partie de liaison (20) reliant le premier bras (18) et le deuxi&#xE8;me bras (19) en les maintenant solidaires en mouvement l&#x2019;un par rapport &#xE0; l&#x2019;autre. 
+    Figure 4
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2017/076783 A1 (ARMEC MECH AG [CH])
+11 mai 2017 (2017-05-11)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2017076783-A1</doc-number>
+            <date>20170511</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 6 104 154 A (HARADA TOMITARO [JP] ET
+AL) 15 ao&#xFB;t 2000 (2000-08-15)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-6104154-A</doc-number>
+            <date>20000815</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 107 054 529 A (SUZHOU KENDA PREC
+MACHINERY CO LTD)
+18 ao&#xFB;t 2017 (2017-08-18)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-107054529-A</doc-number>
+            <date>20170818</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 534 543 A1 (DEVAUX PIERRE [FR])
+20 avril 1984 (1984-04-20)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2534543-A1</doc-number>
+            <date>19840420</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>Mark Sharon:  "Di Blasi R32 Folding
+Tricycle Demo",
+,
+27 ao&#xFB;t 2013 (2013-08-27), XP093017473,
+Extrait de l'Internet:
+URL:https://www.youtube.com/watch?v=m8pKTK
+8csbE
+[extrait le 2023-01-25]</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20230731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

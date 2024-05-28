@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144955" date-produced="20240105" kind="A1" doc-number="3137352" country="FR" id="2206639" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137352</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144955">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206639</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206639</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; et dispositif de contr&#xF4;le d&#x2019;un syst&#xE8;me d&#x2019;aide &#xE0; la conduite d&#x2019;un v&#xE9;hicule circulant dans un environnement routier comprenant une intersection</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>PSA AUTOMOBILES SA</orgname>
+            <iid>542065479</iid>
+            <address>
+              <address-1>2-10 Boulevard de l'Europe</address-1>
+              <city>Poissy</city>
+              <postcode>78300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>NID BOUHOU</last-name>
+            <first-name>SOUMIA</first-name>
+            <address>
+              <address-1/>
+              <city>CASABLANCA</city>
+              <postcode>20580</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>RAJI</last-name>
+            <first-name>ZINEB</first-name>
+            <address>
+              <address-1/>
+              <city>Marrakech</city>
+              <postcode>40100</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STELLANTIS AUTO SAS</orgname>
+          <iid>542065479</iid>
+          <address>
+            <address-1>2-10 boulevard de l'Europe</address-1>
+            <city>POISSY</city>
+            <postcode>78300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60W  30/14        20230101AFI20220901BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B60W  30/18        20230101ALI20220901BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>G05D   1/43        20230101ALI20220901BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention concerne un proc&#xE9;d&#xE9; et un dispositif de contr&#xF4;le d&#x2019;un syst&#xE8;me ADAS d&#x2019;un v&#xE9;hicule (10) circulant sur une premi&#xE8;re portion de route (101) en approche d&#x2019;une intersection avec une deuxi&#xE8;me portion de route (102). A cet effet, des donn&#xE9;es de cartographies de l&#x2019;environnement routier (1) sont re&#xE7;ues, ces donn&#xE9;es de cartographie comprenant des donn&#xE9;es d&#x2019;intersection entre la premi&#xE8;re et la deuxi&#xE8;me portion de route (101, 102). Des donn&#xE9;es d&#x2019;intersection sont &#xE9;galement obtenues &#xE0; partir de donn&#xE9;es re&#xE7;ues d&#x2019;une cam&#xE9;ra embarqu&#xE9;e. La comparaison des donn&#xE9;es d&#x2019;intersections obtenues des donn&#xE9;es de cartographie et des donn&#xE9;es cam&#xE9;ras permet de d&#xE9;terminer un niveau de confiance des donn&#xE9;es de cartographie. Le syst&#xE8;me ADAS est contr&#xF4;l&#xE9; &#xE0; partir des donn&#xE9;es d&#x2019;intersection en fonction du niveau de confiance.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2018/134286 A1 (YI CHUHO [KR] ET AL)
+17 mai 2018 (2018-05-17)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2018134286-A1</doc-number>
+            <date>20180517</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 097 186 A1 (PSA AUTOMOBILES SA [FR])
+18 d&#xE9;cembre 2020 (2020-12-18)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3097186-A1</doc-number>
+            <date>20201218</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2022/176957 A1 (TAMILARASAN SANTHOSH
+[US] ET AL) 9 juin 2022 (2022-06-09)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2022176957-A1</doc-number>
+            <date>20220609</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

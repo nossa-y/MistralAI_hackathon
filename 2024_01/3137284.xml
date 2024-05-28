@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144876" date-produced="20240105" kind="A1" doc-number="3137284" country="FR" id="2206538" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137284</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144876">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206538</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206538</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">COMPOSITION POUR LA PREVENTION ET LE TRAITEMENT DE L&#x2019;HYPERPIGMENTATION DE LA PEAU A BASE DE NIACINAMIDE OU DE L&#x2019;UN DE SES DERIVES ET D&#x2019;UN EXTRAIT D&#x2019;ALGUE CYSTOSEIRA</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>LABORATOIRES NIGY</orgname>
+            <iid>582072773</iid>
+            <address>
+              <address-1>240, rue Louis Charles Vernin</address-1>
+              <city>DAMMARIE-LES-LYS</city>
+              <postcode>77190</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>HALIMI</last-name>
+            <first-name>Aurore</first-name>
+            <address>
+              <address-1/>
+              <city>VERT LE GRAND</city>
+              <postcode>91810</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BAQUE</last-name>
+            <first-name>Magali</first-name>
+            <address>
+              <address-1/>
+              <city>DAMMARIE LES LYS</city>
+              <postcode>77190</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>BOISYVON</last-name>
+            <first-name>Doroth&#xE9;e</first-name>
+            <address>
+              <address-1/>
+              <city>DAMMARIE LES LYS</city>
+              <postcode>77190</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Casalonga</orgname>
+            <address>
+              <address-1>31 Rue de Fleurus</address-1>
+              <city>PARIS-6E-ARRONDISSEMENT</city>
+              <postcode>75006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>LABORATOIRES NIGY</orgname>
+          <iid>582072773</iid>
+          <address>
+            <address-1>240, rue Louis Charles Vernin</address-1>
+            <city>DAMMARIE-LES-LYS</city>
+            <postcode>77190</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/42        20220101AFI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/9711      20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K  31/165       20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61K  36/03        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>A61P  17/00        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>A61Q  19/02        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention concerne une composition pour la pr&#xE9;vention et/ou le traitement de l'apparition d'une hyperpigmentation de la peau et/ou des phan&#xE8;res, comprenant la combinaison du niacinamide ou de l&#x2019;un de ses d&#xE9;riv&#xE9;s avec un extrait d&#x2019;algue de genre Cystoseira.
+    L&#x2019;invention porte &#xE9;galement sur les utilisations cosm&#xE9;tiques et dermatologiques de la composition selon l&#x2019;invention, ainsi qu&#x2019;un proc&#xE9;d&#xE9; de pr&#xE9;vention et/ou de traitement de l'apparition d'une hyperpigmentation de la peau et/ou des phan&#xE8;res.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 8 747 926 B2 (MARY KAY INC [US])
+10 juin 2014 (2014-06-10)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-8747926-B2</doc-number>
+            <date>20140610</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 074 045 A1 (SOC DE COURTAGE ET DE
+DIFFUSION [FR]) 31 mai 2019 (2019-05-31)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3074045-A1</doc-number>
+            <date>20190531</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2020/306172 A1 (MONTCRIOL FRANCOIS [FR]
+ET AL) 1 octobre 2020 (2020-10-01)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2020306172-A1</doc-number>
+            <date>20201001</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 100 129 A1 (LABORATOIRE PROMICEA
+[FR]) 5 mars 2021 (2021-03-05)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3100129-A1</doc-number>
+            <date>20210305</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2010/055059 A1 (CRITON MARC [FR] ET AL)
+4 mars 2010 (2010-03-04)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2010055059-A1</doc-number>
+            <date>20100304</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE WPI
+Week 2021006
+Thomson Scientific, London, GB;
+AN 2021-72550L
+XP002808717,
+&amp; CN 112 933 011 A (JIYUANSHI GUANGDONG
+SKIN MANAGEMENT TECH)
+11 juin 2021 (2021-06-11)</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+23 octobre 2020 (2020-10-23),
+anonymous: "L'Absolu Corrects &amp; Prevents
+Double Serum Dark Spot Corrector",
+XP093027086,
+Database accession no. 8183747</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230329</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

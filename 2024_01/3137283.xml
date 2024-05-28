@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144958" date-produced="20240105" kind="A1" doc-number="3137283" country="FR" id="2206642" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137283</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144958">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206642</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206642</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Utilisation d&#x2019;une composition comprenant un carbonate d&#x2019;alkyle ou d&#x2019;alkyl&#xE8;ne pour retirer la couleur des fibres k&#xE9;ratiniques capillaires pr&#xE9;alablement color&#xE9;es sans endommager les fibres k&#xE9;ratiniques capillaires</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'OREAL</orgname>
+            <iid>632012100</iid>
+            <address>
+              <address-1>14, Rue Royale</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>CARDONNEL</last-name>
+            <first-name>Fanny</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LIARD</last-name>
+            <first-name>Alexis</first-name>
+            <address>
+              <address-1/>
+              <city>ST OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Casalonga</orgname>
+            <address>
+              <address-1>31 rue de Fleurus</address-1>
+              <city>PARIS</city>
+              <postcode>75006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'OREAL</orgname>
+          <iid>632012100</iid>
+          <address>
+            <address-1>14, Rue Royale</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/38        20220101AFI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/43        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61Q   5/08        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention porte sur l&#x2019;utilisation d&#x2019;une composition comprenant au moins un carbonate d&#x2019;alkyle ou d&#x2019;alkyl&#xE8;ne pour retirer la couleur des fibres k&#xE9;ratiniques capillaires pr&#xE9;alablement color&#xE9;es &#xE0; l&#x2019;aide d&#x2019;au moins une composition de coloration des fibres k&#xE9;ratiniques capillaires comprenant&#xA0;:
+    - au moins un compos&#xE9; (poly)carbodiimide ; et
+    - au moins un agent colorant choisi parmi les pigments, les colorants directs, et leurs m&#xE9;langes,
+    sans endommager les fibres k&#xE9;ratiniques capillaires.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>JP 2002 308736 A (HOYU KK)
+23 octobre 2002 (2002-10-23)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2002308736-A</doc-number>
+            <date>20021023</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 6 619 295 B1 (OKABE HIROKO [JP] ET AL)
+16 septembre 2003 (2003-09-16)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-6619295-B1</doc-number>
+            <date>20030916</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2021/028095 A1 (HENKEL AG &amp; CO KGAA
+[DE]) 18 f&#xE9;vrier 2021 (2021-02-18)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2021028095-A1</doc-number>
+            <date>20210218</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2003 081810 A (KANEBO LTD)
+19 mars 2003 (2003-03-19)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2003081810-A</doc-number>
+            <date>20030319</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2015/088126 A1 (LG HOUSEHOLD &amp; HEALTH
+CARE LTD [KR]) 18 juin 2015 (2015-06-18)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2015088126-A1</doc-number>
+            <date>20150618</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2017/117522 A1 (OREAL [FR]; GOGINENI
+ADITI [US] ET AL.)
+6 juillet 2017 (2017-07-06)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2017117522-A1</doc-number>
+            <date>20170706</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2013 133445 A (NIPPON PAINT CO LTD)
+8 juillet 2013 (2013-07-08)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2013133445-A</doc-number>
+            <date>20130708</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230510</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145036" date-produced="20240105" kind="A1" doc-number="3137500" country="FR" id="2206732" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137500</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145036">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206732</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206732</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Ensemble et proc&#xE9;d&#xE9; de fabrication correspondant</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SAFT</orgname>
+            <iid>383703873</iid>
+            <address>
+              <address-1>26 Quai Charles Pasqua</address-1>
+              <city>LEVALLOIS PERRET</city>
+              <postcode>92300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DUPUY</last-name>
+            <first-name>Christian</first-name>
+            <address>
+              <address-1/>
+              <city>NERSAC</city>
+              <postcode>16440</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>PUISSESSEAU</last-name>
+            <first-name>William</first-name>
+            <address>
+              <address-1/>
+              <city>SMARVES</city>
+              <postcode>86240</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>TERROCHAIRE</last-name>
+            <first-name>Patrice</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT BENOIT</city>
+              <postcode>86280</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>LEPILLER</last-name>
+            <first-name>Catherine</first-name>
+            <address>
+              <address-1/>
+              <city>MIGNE-AUXANCES</city>
+              <postcode>86440</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Lavoix</orgname>
+            <address>
+              <address-1>2, place d'Estienne d'Orves</address-1>
+              <city>PARIS CEDEX 09</city>
+              <postcode>75441</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SAFT</orgname>
+          <iid>383703873</iid>
+          <address>
+            <address-1>26 Quai Charles Pasqua</address-1>
+            <city>LEVALLOIS PERRET</city>
+            <postcode>92300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01M  16/00        20220101AFI20221021BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01M   6/00        20220101ALI20221021BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H01M  10/00        20220101ALI20221021BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>H01M  50/20        20220101ALI20221021BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Ensemble et proc&#xE9;d&#xE9; de fabrication correspondant
+    Cet ensemble (2) comprend un &#xE9;l&#xE9;ment &#xE9;lectrochimique primaire (4), un &#xE9;l&#xE9;ment &#xE9;lectrique rechargeable (6) connect&#xE9; &#xE9;lectriquement en parall&#xE8;le &#xE0; l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrochimique primaire, et un &#xE9;l&#xE9;ment de maintien (14) de l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrochimique primaire et de l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrique rechargeable l&#x2019;un par rapport &#xE0; l&#x2019;autre. L&#x2019;&#xE9;l&#xE9;ment de maintien maintient l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrochimique primaire et l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrique rechargeable l&#x2019;un par rapport &#xE0; l&#x2019;autre dans une configuration spatiale pr&#xE9;d&#xE9;finie. L&#x2019;&#xE9;l&#xE9;ment de maintien comprend des surfaces de positionnement d&#xE9;finissant la configuration spatiale pr&#xE9;d&#xE9;finie. Les surfaces de positionnement comprennent des premi&#xE8;res surfaces de positionnement (30), qui sont des surfaces de positionnement de l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrochimique primaire, et des secondes surfaces de positionnement (32), qui sont des surfaces de positionnement de l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrique rechargeable. Les premi&#xE8;res et secondes surfaces de positionnement (30, 32) d&#xE9;finissent la configuration spatiale pr&#xE9;d&#xE9;finie en pr&#xE9;sence et en l&#x2019;absence de contact de l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrochimique primaire et de l&#x2019;&#xE9;l&#xE9;ment &#xE9;lectrique rechargeable avec ces surfaces de positionnement.
+    Figure pour l'abr&#xE9;g&#xE9; : 2
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>JP H02 44642 A (FUJI PHOTO FILM CO LTD)
+14 f&#xE9;vrier 1990 (1990-02-14)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-H0244642-A</doc-number>
+            <date>19900214</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 5 909 062 A (KRIETZMAN MARK HOWARD
+[US]) 1 juin 1999 (1999-06-01)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-5909062-A</doc-number>
+            <date>19990601</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2010/310911 A1 (YAMAMOTO TAKERU [JP] ET
+AL) 9 d&#xE9;cembre 2010 (2010-12-09)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2010310911-A1</doc-number>
+            <date>20101209</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2015/194642 A1 (YAMAMOTO TAKERU [JP] ET
+AL) 9 juillet 2015 (2015-07-09)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2015194642-A1</doc-number>
+            <date>20150709</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 6 380 713 B2 (SANYO ELECTRIC CO [JP])
+30 avril 2002 (2002-04-30)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-6380713-B2</doc-number>
+            <date>20020430</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 5 401 591 A (BISHAY JON M [US] ET AL)
+28 mars 1995 (1995-03-28)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-5401591-A</doc-number>
+            <date>19950328</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230612</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

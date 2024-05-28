@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145052" date-produced="20240105" kind="A1" doc-number="3137397" country="FR" id="2206749" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137397</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145052">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206749</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206749</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Appareil de d&#xE9;froissage</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SEB S.A.</orgname>
+            <iid>300349636</iid>
+            <address>
+              <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+              <city>ECULLY</city>
+              <postcode>69130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DELHOM</last-name>
+            <first-name>J&#xE9;r&#xE9;my</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>FUIN</last-name>
+            <first-name>Matthieu</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>PREBET</last-name>
+            <first-name>Jonathan</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>REGIMBEAU</orgname>
+            <address>
+              <address-1>20, rue de Chazelles</address-1>
+              <city>PARIS CEDEX 17</city>
+              <postcode>75847</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SEB S.A.</orgname>
+          <iid>300349636</iid>
+          <address>
+            <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+            <city>ECULLY</city>
+            <postcode>69130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>D06F  73/00        20220101AFI20220907BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>D06F  87/00        20220101ALI20220907BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Appareil de d&#xE9;froissage (1) comprenant une poign&#xE9;e (4) et une t&#xEA;te de d&#xE9;froissage (2) reli&#xE9;e &#xE0; la poign&#xE9;e (4), l&#x2019;appareil comprenant en outre :- un circuit de vapeur comprenant un g&#xE9;n&#xE9;rateur de vapeur (61) ;- un circuit d&#x2019;aspiration d&#x2019;air comprenant un ventilateur destin&#xE9; &#xE0; &#xEA;tre entrain&#xE9; en rotation par un moteur (23) ;dans lequel la t&#xEA;te de d&#xE9;froissage (2) comprend une face de traitement (20) destin&#xE9;e &#xE0; venir en regard d&#x2019;une pi&#xE8;ce textile &#xE0; d&#xE9;froisser et une face arri&#xE8;re oppos&#xE9;e &#xE0; la face de traitement (20), la t&#xEA;te de d&#xE9;froissage (2) s&#x2019;&#xE9;tendant selon une direction longitudinale entre la face de traitement (20) et la face arri&#xE8;re, la face de traitement (20) comprenant au moins un orifice de sortie de vapeur (24) reli&#xE9; au circuit de vapeur et au moins un orifice d&#x2019;aspiration (22) reli&#xE9; au circuit d&#x2019;aspiration d&#x2019;air,dans lequel la face de traitement (20) est non-plane et o&#xF9; un plan externe orthogonal &#xE0; la direction longitudinale et passant par un point le plus externe de la face de traitement (20) par rapport &#xE0; la direction longitudinale est distant d&#x2019;au moins 1 mm par rapport &#xE0; un plan interne parall&#xE8;le au plan externe et passant par l&#x2019;au moins un orifice d&#x2019;aspiration (22) de la face de traitement (20).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 2.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2021/185572 A1 (SEB SA [FR])
+23 septembre 2021 (2021-09-23)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2021185572-A1</doc-number>
+            <date>20210923</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2012/066473 A2 (KONINKL PHILIPS
+ELECTRONICS NV [NL]; JIANG YONG [SG] ET
+AL.) 24 mai 2012 (2012-05-24)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2012066473-A2</doc-number>
+            <date>20120524</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 216 040 330 U (SHANGHAI FEIKEE
+ELECTRICAL EQUIPMENT CO LTD)
+15 mars 2022 (2022-03-15)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-216040330-U</doc-number>
+            <date>20220315</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 107 534 A1 (SEB SA [FR])
+27 ao&#xFB;t 2021 (2021-08-27)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3107534-A1</doc-number>
+            <date>20210827</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230727</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

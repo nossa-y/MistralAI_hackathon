@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144949" date-produced="20240105" kind="A1" doc-number="3137318" country="FR" id="2206631" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137318</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144949">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206631</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206631</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">BOITIER ASSEMBL&#xC9; PAR SOUDURE LASER DISCONTINUE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Hitachi Astemo France</orgname>
+            <iid>529268393</iid>
+            <address>
+              <address-1>126 rue de Stalingrad</address-1>
+              <city>DRANCY</city>
+              <postcode>93700</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>GRAFTIAUX</last-name>
+            <first-name>Geoffroy</first-name>
+            <address>
+              <address-1/>
+              <city>NESLES-LA-VALLEE</city>
+              <postcode>95690</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>JEANNOT</last-name>
+            <first-name>Alexandre</first-name>
+            <address>
+              <address-1/>
+              <city>DRANCY</city>
+              <postcode>93700</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>ROUFFINEAU</last-name>
+            <first-name>Julien</first-name>
+            <address>
+              <address-1/>
+              <city>MAZE-MILON</city>
+              <postcode>49630</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ADELPHE IP</orgname>
+            <address>
+              <address-1>La Canop&#xE9;e 5bis avenue du Pr&#xE9; Closet ANNECY LE VIEUX</address-1>
+              <city>ANNECY</city>
+              <postcode>74940</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Hitachi Astemo France</orgname>
+          <iid>529268393</iid>
+          <address>
+            <address-1>126 rue de Stalingrad</address-1>
+            <city>DRANCY</city>
+            <postcode>93700</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B23K  26/21        20220101AFI20221014BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F16D  65/14        20220101ALI20221014BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Bo&#xEE;tier (B1) comportant un fond (2) et un couvercle (4) en mat&#xE9;riau thermofusible, le fond (2) comportant une extr&#xE9;mit&#xE9; ouverte entour&#xE9;e au moins en partie par une bride (10) et le couvercle (4) comportant une extr&#xE9;mit&#xE9; ouverte entour&#xE9;e au moins en partie par une bride (18), les deux brides (10, 18) &#xE9;tant en contact l&#x2019;une avec l&#x2019;autre. Les deux brides (10, 18) sont assembl&#xE9;es par une soudure laser qui assemble une partie des brides seulement, la soudure &#xE9;tant configur&#xE9;e pour assurer la robustesse d&#x2019;assemblage souhait&#xE9;e. Les brides (10, 18) pr&#xE9;sentent une largeur suffisante (L1, L2) pour que la largeur de la soudure assure la robustesse d&#x2019;assemblage souhait&#xE9;e.
+    [Fig.3] 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2005/184224 A1 (INOMATA MAKOTO [JP])
+25 ao&#xFB;t 2005 (2005-08-25)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2005184224-A1</doc-number>
+            <date>20050825</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2010/126305 A1 (KLIPPERT UWE [DE])
+27 mai 2010 (2010-05-27)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2010126305-A1</doc-number>
+            <date>20100527</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2012 240273 A (DAIKYONISHIKAWA CORP)
+10 d&#xE9;cembre 2012 (2012-12-10)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2012240273-A</doc-number>
+            <date>20121210</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2005 046558 A1 (MANN &amp; HUMMEL GMBH
+[DE]) 29 mars 2007 (2007-03-29)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102005046558-A1</doc-number>
+            <date>20070329</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2006 198810 A (KIORITZ CORP)
+3 ao&#xFB;t 2006 (2006-08-03)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2006198810-A</doc-number>
+            <date>20060803</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2011 016280 A (HAJIME SANGYO)
+27 janvier 2011 (2011-01-27)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2011016280-A</doc-number>
+            <date>20110127</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

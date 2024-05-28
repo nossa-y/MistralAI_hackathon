@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145062" date-produced="20240105" kind="A1" doc-number="3137508" country="FR" id="2206759" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137508</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145062">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206759</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206759</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Antenne passive incluant un cadre blind&#xE9;</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>TEKCEM</orgname>
+            <iid>512918764</iid>
+            <address>
+              <address-1>12 chemin des HAUTS de Clairefontaine</address-1>
+              <city>MAULE</city>
+              <postcode>78580</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>BROYDE</last-name>
+            <first-name>Fr&#xE9;d&#xE9;ric</first-name>
+            <address>
+              <address-1/>
+              <city>MAULE</city>
+              <postcode>78580</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>Clavelier</last-name>
+            <first-name>Evelyne</first-name>
+            <address>
+              <address-1/>
+              <city>MAULE</city>
+              <postcode>78580</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>TEKCEM</orgname>
+          <iid>512918764</iid>
+          <address>
+            <address-1>12 chemin des HAUTS de Clairefontaine</address-1>
+            <city>MAULE</city>
+            <postcode>78580</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01Q   7/00        20220101AFI20221011BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01Q  23/00        20220101ALI20221011BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+        L&#x2019;invention concerne une antenne passive comportant un cadre blind&#xE9;, par exemple une antenne pour produire un champ magn&#xE9;tique radio-fr&#xE9;quence connu dans un laboratoire.
+        Une antenne passive selon l&#x2019;invention comporte&#xA0;: un premier &#xE9;l&#xE9;ment (1), le premier &#xE9;l&#xE9;ment comportant un tube du premier &#xE9;l&#xE9;ment (11) et une ligne de transmission (12), la ligne de transmission ayant un conducteur interne, le premier &#xE9;l&#xE9;ment &#xE9;tant une partie d&#x2019;un cadre blind&#xE9;&#xA0;; un deuxi&#xE8;me &#xE9;l&#xE9;ment (2), le deuxi&#xE8;me &#xE9;l&#xE9;ment &#xE9;tant un conducteur &#xE9;lectrique, le deuxi&#xE8;me &#xE9;l&#xE9;ment &#xE9;tant une partie du cadre blind&#xE9;&#xA0;; une base (3)&#xA0;; un dispositif lin&#xE9;aire &#xE0; acc&#xE8;s unique (4) ayant une r&#xE9;sistance en courant continu, une premi&#xE8;re extr&#xE9;mit&#xE9; du deuxi&#xE8;me &#xE9;l&#xE9;ment &#xE9;tant indirectement coupl&#xE9;e &#xE0; une premi&#xE8;re extr&#xE9;mit&#xE9; du conducteur interne, &#xE0; travers le dispositif lin&#xE9;aire &#xE0; acc&#xE8;s unique&#xA0;; et un acc&#xE8;s de l&#x2019;antenne passive.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 4.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>JP S50 34142 A (CHIYODA-KU)
+2 avril 1975 (1975-04-02)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-S5034142-A</doc-number>
+            <date>19750402</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2 419 577 A (LIBBY LESTER L)
+29 avril 1947 (1947-04-29)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2419577-A</doc-number>
+            <date>19470429</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2 465 381 A (LIBBY LESTER L)
+29 mars 1949 (1949-03-29)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2465381-A</doc-number>
+            <date>19490329</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 21 36 423 A1 (PLATH NAUT ELEKTRON TECH)
+1 f&#xE9;vrier 1973 (1973-02-01)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-2136423-A1</doc-number>
+            <date>19730201</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230526</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

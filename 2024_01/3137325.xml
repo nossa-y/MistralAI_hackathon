@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144845" date-produced="20240105" kind="A1" doc-number="3137325" country="FR" id="2206502" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137325</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144845">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206502</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206502</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">VITRAGE DE VEHICULE ET UN VEHICULE AVEC UN TEL VITRAGE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SAINT-GOBAIN GLASS FRANCE</orgname>
+            <address>
+              <address-1>Tour SAINT-GOBAIN 12 Place de l'Iris</address-1>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MAILLAUD</last-name>
+            <first-name>Laurent</first-name>
+            <address>
+              <address-1/>
+              <city>AUBERVILLIERS</city>
+              <postcode>93300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>JAAFAR</last-name>
+            <first-name>Adil</first-name>
+            <address>
+              <address-1/>
+              <city>THOUROTTE</city>
+              <postcode>60150</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>DAVIS</last-name>
+            <first-name>Claire</first-name>
+            <address>
+              <address-1/>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SAINT-GOBAIN RECHERCHE</orgname>
+            <address>
+              <address-1>D&#xE9;partement Propri&#xE9;t&#xE9; Industrielle 39 Quai Lucien Lefranc</address-1>
+              <city>Aubervilliers</city>
+              <postcode>93300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SAINT-GOBAIN GLASS FRANCE</orgname>
+          <address>
+            <address-1>Tour SAINT-GOBAIN 12 Place de l'Iris</address-1>
+            <city>COURBEVOIE</city>
+            <postcode>92400</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B32B  17/10        20220101AFI20220923BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B60Q   3/208       20220101ALI20220923BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>G02B   6/00        20220101ALI20220923BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>F21V  33/00        20220101ALI20220923BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>F21V   8/00        20220101ALI20220923BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>G02B  27/00        20220101ALI20220923BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="7">
+        <text>F21W 106/00        20220101ALN20220923BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention a pour objet un vitrage feuillet&#xE9; lumineux et &#xE0; teinte variable de v&#xE9;hicule avec une couche isolateur optique entre la cellule et le guide de lumi&#xE8;re .
+    Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2015/118279 A1 (SAINT GOBAIN [FR])
+13 ao&#xFB;t 2015 (2015-08-13)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2015118279-A1</doc-number>
+            <date>20150813</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230630</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

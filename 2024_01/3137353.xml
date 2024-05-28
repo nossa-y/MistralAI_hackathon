@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144952" date-produced="20240105" kind="A1" doc-number="3137353" country="FR" id="2206634" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137353</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144952">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206634</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206634</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Adaptation de fonctions d&#x2019;assistance &#xE0; la conduite en fonction de l&#x2019;obstruction de capteurs</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>PSA AUTOMOBILES SA</orgname>
+            <iid>542065479</iid>
+            <address>
+              <address-1>2-10 Boulevard de l'Europe</address-1>
+              <city>Poissy</city>
+              <postcode>78300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ABOULISSANE</last-name>
+            <first-name>BADREDDINE</first-name>
+            <address>
+              <address-1/>
+              <city>TAROUDANT</city>
+              <postcode>83350</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>ABOUESSIRE</last-name>
+            <first-name>ISMAIL</first-name>
+            <address>
+              <address-1/>
+              <city>Marrakech</city>
+              <postcode>40160</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>AIT ALI</last-name>
+            <first-name>MERIEM</first-name>
+            <address>
+              <address-1/>
+              <city>Casablanca</city>
+              <postcode>20580</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STELLANTIS AUTO SAS</orgname>
+          <iid>542065479</iid>
+          <address>
+            <address-1>2-10 boulevard de l'Europe</address-1>
+            <city>POISSY</city>
+            <postcode>78300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60W  50/029       20220101AFI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B60W  50/02        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B60W  30/06        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>B60W  30/18        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>B60W  50/08        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>B60W  50/14        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un proc&#xE9;d&#xE9; d&#x2019;assistance &#xE0; la conduite d&#x2019;un &#xE9;go-v&#xE9;hicule comprenant un ensemble d&#x2019;au moins un capteur et un module d&#x2019;assistance &#xE0; la conduite, le module d&#x2019;assistance &#xE0; la conduite &#xE9;tant apte &#xE0; mettre en &#x153;uvre au moins une fonction d&#x2019;assistance &#xE0; la conduite sur la base de donn&#xE9;es issues de capteurs. Le proc&#xE9;d&#xE9; consiste &#xE0; d&#xE9;tecter (300) une fixation d&#x2019;un &#xE9;quipement sur l&#x2019;&#xE9;go-v&#xE9;hicule, d&#xE9;terminer (308&#xA0;; 309&#xA0;; 310&#xA0;; 314) un niveau d&#x2019;obstruction d&#x2019;au moins un capteur de l&#x2019;ensemble, parmi des niveaux d&#x2019;obstruction pr&#xE9;d&#xE9;termin&#xE9;s, puis adapter (306&#xA0;; 311&#xA0;; 312&#xA0;; 313&#xA0;; 316&#xA0;; 317&#xA0;; 318) la fonction d&#x2019;assistance &#xE0; la conduite sur la base du niveau d&#x2019;obstruction dudit au moins un capteur de l&#x2019;ensemble.
+    FIG. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 2 581 892 A1 (BOSCH GMBH ROBERT [DE])
+17 avril 2013 (2013-04-17)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-2581892-A1</doc-number>
+            <date>20130417</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2021/287548 A1 (LAI TING-YU [US] ET AL)
+16 septembre 2021 (2021-09-16)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021287548-A1</doc-number>
+            <date>20210916</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/101446 A1 (JAGUAR LAND ROVER LTD
+[GB]) 19 mai 2022 (2022-05-19)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022101446-A1</doc-number>
+            <date>20220519</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

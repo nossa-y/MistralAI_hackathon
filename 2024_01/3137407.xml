@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144927" date-produced="20240105" kind="A1" doc-number="3137407" country="FR" id="2206596" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137407</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144927">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206596</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206596</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">TURBOMACHINE COMPORTANT UN DISPOSITIF DE RECUPERATION D&#x2019;HUILE AMELIORE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SAFRAN AIRCRAFT ENGINES</orgname>
+            <iid>414815217</iid>
+            <address>
+              <address-1>2 boulevard du G&#xE9;n&#xE9;ral Martial Valin</address-1>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>GOYON,</last-name>
+            <first-name>Vincent</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LEUTARD,</last-name>
+            <first-name>Florence Ir&#xE8;ne No&#xEB;lle</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>GAUDUCHON,</last-name>
+            <first-name>Thomas Laurent Frederic</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>LURIN,</last-name>
+            <first-name>Antoine</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>FACHAT,</last-name>
+            <first-name>Thierry</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="6">
+          <addressbook lang="fr">
+            <last-name>OYHARCABAL,</last-name>
+            <first-name>Michael</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="7">
+          <addressbook lang="fr">
+            <last-name>BOLZER,</last-name>
+            <first-name>Kevin</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>GEVERS &amp; ORES</orgname>
+            <address>
+              <address-1>Immeuble Palatin 2 3 Cours du Triangle CS 80165</address-1>
+              <city>PARIS LA DEFENSE CEDEX</city>
+              <postcode>92939</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SAFRAN AIRCRAFT ENGINES</orgname>
+          <iid>414815217</iid>
+          <address>
+            <address-1>2 boulevard du G&#xE9;n&#xE9;ral Martial Valin</address-1>
+            <city>PARIS</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F01D  25/18        20220101AFI20220926BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F02C   7/06        20220101ALI20220926BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>F02C   7/36        20220101ALI20220926BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Turbomachine (10) comportant un dispositif de r&#xE9;cup&#xE9;ration d&#x2019;huile comportant, entre des premier et second organes (14, 16) tournants l&#x2019;un par rapport &#xE0; l&#x2019;autre, une languette tubulaire (54) du premier l&#x2019;organe (14) entour&#xE9;e par une extension (56) tubulaire d&#x2019;une virole (42) du second organe qui d&#xE9;finit avec une virole (44) du premier organe (14) une zone d&#x2019;interface, l&#x2019;extension tubulaire (56) comportant une gorge (60) externe oppos&#xE9;e &#xE0; la languette (54),
+    caract&#xE9;ris&#xE9;e en ce que l&#x2019;extension (56) entoure la languette tubulaire (54) axialement au-del&#xE0; d&#x2019;une demi-longueur axiale (l) de ladite languette (54), est d&#x2019;un diam&#xE8;tre int&#xE9;rieur (d72, d74, d76) &#xE9;gal &#xE0; un diam&#xE8;tre int&#xE9;rieur (d42) de la virole ext&#xE9;rieure (42) du second organe (16) et d&#x2019;un diam&#xE8;tre ext&#xE9;rieur (D72, D74, D76) inf&#xE9;rieur ou &#xE9;gal &#xE0; un diam&#xE8;tre ext&#xE9;rieur (D42) de la virole ext&#xE9;rieure (42), et en ce que sa gorge annulaire est de section rectangulaire.
+    Figure pour l'abr&#xE9;g&#xE9;&#xA0;: Figure 4.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2014/199083 A1 (SNECMA [FR])
+18 d&#xE9;cembre 2014 (2014-12-18)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2014199083-A1</doc-number>
+            <date>20141218</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 2 090 764 A1 (SNECMA [FR])
+19 ao&#xFB;t 2009 (2009-08-19)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-2090764-A1</doc-number>
+            <date>20090819</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 3 462 000 A1 (SAFRAN AIRCRAFT ENGINES
+[FR]) 3 avril 2019 (2019-04-03)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3462000-A1</doc-number>
+            <date>20190403</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 075 866 A1 (SAFRAN AIRCRAFT ENGINES
+[FR]) 28 juin 2019 (2019-06-28)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3075866-A1</doc-number>
+            <date>20190628</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

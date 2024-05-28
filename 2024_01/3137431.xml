@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144920" date-produced="20240105" kind="A1" doc-number="3137431" country="FR" id="2206588" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137431</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144920">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206588</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206588</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de piquage de tubes</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>NAVAL GROUP</orgname>
+            <iid>441133808</iid>
+            <address>
+              <address-1>40-42 rue du Docteur Finlay</address-1>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>KELLER</last-name>
+            <first-name>Delphine</first-name>
+            <address>
+              <address-1/>
+              <city>BOUGUENAIS</city>
+              <postcode>44340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>DELOUCHE</last-name>
+            <first-name>Tony</first-name>
+            <address>
+              <address-1/>
+              <city>BOUGUENAIS</city>
+              <postcode>44340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>DABIN</last-name>
+            <first-name>L&#xE9;onard</first-name>
+            <address>
+              <address-1/>
+              <city>BOUGUENAIS</city>
+              <postcode>44340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Lavoix</orgname>
+            <address>
+              <address-1>2, place d'Estienne d'Orves</address-1>
+              <city>PARIS CEDEX 09</city>
+              <postcode>75441</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>NAVAL GROUP</orgname>
+          <iid>441133808</iid>
+          <address>
+            <address-1>40-42 rue du Docteur Finlay</address-1>
+            <city>PARIS</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F16L  41/08        20220101AFI20221103BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B23P  11/00        20220101ALI20221103BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B25J   9/00        20220101ALI20221103BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Proc&#xE9;d&#xE9; de piquage de tube s
+    Le proc&#xE9;d&#xE9; comporte la fourniture d&#x2019;un robot industriel (16) comprenant un effecteur (18) portant un outil de d&#xE9;coupage (26) et programmable au moyen d&#x2019;une unit&#xE9; informatis&#xE9;e de programmation (22) comprenant une interface homme-machine (24). Un tube (14) est mis en place sur un support (28). Le robot (16) est programm&#xE9;, en renseignant notamment, au moyen de l&#x2019;interface homme-machine (24), un diam&#xE8;tre du premier tube (12), un diam&#xE8;tre du second tube (14), une direction de piquage et une position de piquage. Une trajectoire de d&#xE9;coupage d&#x2019;une ouverture de piquage (32) dans le second tube (14) est alors calcul&#xE9;e sur la base d&#x2019;&#xE9;quations d&#xE9;finissant une forme de l&#x2019;ouverture (32). L&#x2019;ouverture (32) est ensuite d&#xE9;coup&#xE9;e par le robot industriel (16), en suivant les points de la trajectoire de d&#xE9;coupage calcul&#xE9;s.
+    Figure pour l'abr&#xE9;g&#xE9; : Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>JP S62 93071 A (DAIKIN IND LTD)
+28 avril 1987 (1987-04-28)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-S6293071-A</doc-number>
+            <date>19870428</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 0 133 411 A1 (MARSEILLE PROVENCE
+CHANTIERS [FR])
+20 f&#xE9;vrier 1985 (1985-02-20)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-0133411-A1</doc-number>
+            <date>19850220</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 0 546 551 A2 (SEIKISUI CHEMICAL CO LTD
+[JP]) 16 juin 1993 (1993-06-16)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-0546551-A2</doc-number>
+            <date>19930616</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 5 959 425 A (BIEMAN LEONARD H [US] ET
+AL) 28 septembre 1999 (1999-09-28)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-5959425-A</doc-number>
+            <date>19990928</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>LIU YAN ET AL:  "Plasma cutting torch
+trajectory planning for main pipe hole
+cutting with welding groove and root
+face",
+THE INTERNATIONAL JOURNAL OF ADVANCED
+MANUFACTURING TECHNOLOGY, SPRINGER,
+LONDON,
+vol. 93, no. 9, 5 ao&#xFB;t 2017 (2017-08-05),
+pages 4329-4343, XP036370636,
+ISSN: 0268-3768, DOI:
+10.1007/S00170-017-0843-7
+[extrait le 2017-08-05]</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230509</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

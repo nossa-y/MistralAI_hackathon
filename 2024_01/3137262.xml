@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144990" date-produced="20240105" kind="A1" doc-number="3137262" country="FR" id="2206679" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137262</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144990">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206679</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206679</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Bouilloire comprenant un couvercle &#xE9;quip&#xE9; d&#x2019;un orifice de vidange</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SEB S.A.</orgname>
+            <iid>300349636</iid>
+            <address>
+              <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+              <city>ECULLY</city>
+              <postcode>69130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ALLEMAND</last-name>
+            <first-name>Bernard</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>SMAL</last-name>
+            <first-name>Chlo&#xE9;</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>MANSEAU</last-name>
+            <first-name>Charles</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SEB S.A.</orgname>
+          <iid>300349636</iid>
+          <address>
+            <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+            <city>ECULLY</city>
+            <postcode>69130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A47J  27/21        20220101AFI20220901BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La bouilloire comprend un contenant comprenant un volume interne&#xA0;; et un couvercle (11) mobile entre des positions de fermeture et d&#x2019;ouverture&#xA0;; et un circuit d&#x2019;&#xE9;vacuation de vapeur form&#xE9; en partie par le couvercle (11) et configur&#xE9; pour convoyer, &#xE0; l&#x2019;ext&#xE9;rieur du volume interne (5), de la vapeur g&#xE9;n&#xE9;r&#xE9;e dans le volume interne (5). Le couvercle (11) comporte un orifice de vidange (42) &#xE0; travers lequel de l&#x2019;eau contenue dans le couvercle (11) peut &#xEA;tre &#xE9;vacu&#xE9;e hors du couvercle (11), et le contenant (4) comporte un organe d&#x2019;obturation (43) configur&#xE9; pour obturer l&#x2019;orifice de vidange (42) lorsque le couvercle (11) occupe la position de fermeture et pour lib&#xE9;rer l&#x2019;orifice de vidange (42) lorsque le couvercle (11) occupe la position d&#x2019;ouverture.
+    Figure 15
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>JP 3 041847 B2 (TSUIN BADO KOGYO KK)
+15 mai 2000 (2000-05-15)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-3041847-B2</doc-number>
+            <date>20000515</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 685 184 A1 (MOULINEX SWAN LTD [GB])
+25 juin 1993 (1993-06-25)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2685184-A1</doc-number>
+            <date>19930625</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 110 811 323 A (HANGZHOU HAERSI IND CO
+LTD) 21 f&#xE9;vrier 2020 (2020-02-21)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-110811323-A</doc-number>
+            <date>20200221</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/024595 A1 (KALITA CO LTD [JP])
+3 f&#xE9;vrier 2022 (2022-02-03)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022024595-A1</doc-number>
+            <date>20220203</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144908" date-produced="20240105" kind="A1" doc-number="3137360" country="FR" id="2206572" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137360</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144908">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206572</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206572</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">ensemble de tige de selle</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Bastille Cycles</orgname>
+            <address>
+              <address-1>72 boulevard Exelmans</address-1>
+              <city>Paris</city>
+              <postcode>75016</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>HENRY</last-name>
+            <first-name>Gilles</first-name>
+            <address>
+              <address-1/>
+              <city>Paris</city>
+              <postcode>75016</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Cabinet OSHA et Associ&#xE9;s</orgname>
+            <address>
+              <address-1>2 rue de la Paix</address-1>
+              <city>Paris</city>
+              <postcode>75002</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Bastille Cycles</orgname>
+          <address>
+            <address-1>72 boulevard Exelmans</address-1>
+            <city>Paris</city>
+            <postcode>75016</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B62J   1/08        20220101AFI20220926BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Ensemble de tige de selle comprenant : une tige de selle (1) mont&#xE9;e coulissante dans un tube de selle (20); une tringle (17) s'&#xE9;tendant &#xE0; l'int&#xE9;rieur de la tige de selle (1); une base (6) fix&#xE9;e &#xE0; l'extr&#xE9;mit&#xE9; sup&#xE9;rieure de la tige de selle (1); un support de selle (10) mont&#xE9; sur la base (6) et sur lequel une selle (18) peut &#xEA;tre fix&#xE9;e; et un syst&#xE8;me de blocage actionnable entre une position d&#xE9;verrouill&#xE9;e dans laquelle le syst&#xE8;me de blocage n'emp&#xEA;che pas le coulissement de la tige de selle (1), et une position verrouill&#xE9;e dans laquelle le syst&#xE8;me de blocage bloque la tige de selle (1) en position &#xE0; l'int&#xE9;rieur du tube de selle (20). Le syst&#xE8;me de blocage est actionn&#xE9; par le mouvement de la tringle (17), et le support de selle (10) est mont&#xE9; rotatif sur la base (6) et reli&#xE9; &#xE0; la tringle (17) de sorte que la rotation du support de selle (10) entraine la tringle (17) en mouvement.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>DE 10 2008 059894 A1 (HOCHSCHULE
+REGENSBURG [DE]) 10 juin 2010 (2010-06-10)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102008059894-A1</doc-number>
+            <date>20100610</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 009 269 A1 (SPECIALIZED BICYCLE
+COMPONENTS [US])
+6 f&#xE9;vrier 2015 (2015-02-06)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3009269-A1</doc-number>
+            <date>20150206</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 027 279 A1 (PEUGEOT CITROEN
+AUTOMOBILES SA [FR])
+22 avril 2016 (2016-04-22)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3027279-A1</doc-number>
+            <date>20160422</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230623</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

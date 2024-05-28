@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145107" date-produced="20240105" kind="A1" doc-number="3137375" country="FR" id="2306483" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137375</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145107">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306483</doc-number>
+        <date>20230622</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306483</doc-number>
+        <date>20230622</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">APPAREIL DE CHARGEMENT DE POUDRE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>6 Zhixin Avenue, Leping Town, Sanshui District,Foshan</address-1>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>508 East Jinning Road, Hi-tech Zone, Ningxiang,Changsha,</address-1>
+              <city>Hunan</city>
+              <postcode>410600</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>XU</last-name>
+            <first-name>Shuaijun</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LI</last-name>
+            <first-name>Changdong</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>RUAN</last-name>
+            <first-name>Dingshan</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>LI</last-name>
+            <first-name>Fengguang</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>LIU</last-name>
+            <first-name>Weijian</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="6">
+          <addressbook lang="fr">
+            <last-name>CAI</last-name>
+            <first-name>Yong</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>6 Zhixin Avenue, Leping Town, Sanshui District,Foshan</address-1>
+            <city>Guangdong</city>
+            <postcode>528137</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>508 East Jinning Road, Hi-tech Zone, Ningxiang,Changsha,</address-1>
+            <city>Hunan</city>
+            <postcode>410600</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B65G  65/32        20230101AFI20230929BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B65G  69/00        20230101ALI20230929BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-priority-claims>
+      <fr-priority-claim sequence="1">
+        <country>CN</country>
+        <doc-number>202210749077.3</doc-number>
+        <date>20220629</date>
+      </fr-priority-claim>
+    </fr-priority-claims>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente demande divulgue un appareil de chargement de poudre, qui comprend : un dispositif de chargement ; o&#xF9; le dispositif de chargement comprend un premier tube d&#x2019;enveloppe et un deuxi&#xE8;me tube d&#x2019;enveloppe, le premier tube d&#x2019;enveloppe est pourvu d&#x2019;un premier robinet-vanne et le deuxi&#xE8;me tube d&#x2019;enveloppe est pourvu d&#x2019;un deuxi&#xE8;me robinet-vanne, la chambre interne entre le premier robinet-vanne et le deuxi&#xE8;me robinet-vanne est une chambre de dosage, le premier tube d&#x2019;enveloppe et le deuxi&#xE8;me tube d&#x2019;enveloppe sont mobiles l&#x2019;un par rapport &#xE0; l&#x2019;autre dans des directions haut et bas pour changer le volume de la chambre de dosage, et le deuxi&#xE8;me tube d&#x2019;enveloppe est pourvu d&#x2019;un ensemble de coupe en blocs&#xA0;; et un dispositif de levage, o&#xF9; lorsque la cazette est d&#xE9;plac&#xE9;e vers le haut pour &#xEA;tre emmanch&#xE9;e sur le deuxi&#xE8;me tube d&#x2019;enveloppe, l&#x2019;ensemble de coupe en blocs est situ&#xE9; dans la cazette pour couper le mat&#xE9;riau tombant de la chambre de dosage dans la cazette.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

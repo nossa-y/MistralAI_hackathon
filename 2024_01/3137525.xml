@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145012" date-produced="20240105" kind="A1" doc-number="3137525" country="FR" id="2206702" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137525</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145012">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206702</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206702</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">DISPOSITIF LUMINEUX AUTOMOBILE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO VISION</orgname>
+            <address>
+              <address-1>34 Rue Saint-Andr&#xE9;</address-1>
+              <city>Bobigny - Cedex</city>
+              <postcode>93012</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>CANTUDO FRANCO</last-name>
+            <first-name>Miguel Angel</first-name>
+            <address>
+              <address-1/>
+              <city>Martos</city>
+              <postcode>23600</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>VALEO VISION</orgname>
+          <address>
+            <address-1>34 Rue Saint-Andr&#xE9;</address-1>
+            <city>Bobigny - Cedex</city>
+            <postcode>93012</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H05K   1/14        20220101AFI20220922BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H05K   3/36        20220101ALI20220922BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H05K   3/32        20220101ALI20220922BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>F21V  23/06        20220101ALI20220922BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention concerne un dispositif lumineux automobile (10) un substrat principal (1) dot&#xE9; d'un circuit de commande (2) et un connecteur principal (3) coupl&#xE9; &#xE0; la partie de bord (11) du substrat principal (1), le connecteur principal (3) comprenant au moins quatre entr&#xE9;es &#xE9;lectriques (31) et quatre sorties &#xE9;lectriques (32), chaque entr&#xE9;e &#xE9;lectrique (31) &#xE9;tant configur&#xE9;e pour recevoir une alimentation &#xE9;lectrique et des signaux de commande et &#xE9;tant coupl&#xE9;e &#xE9;lectriquement &#xE0; une piste &#xE9;lectrique du substrat principal (1) et chaque sortie &#xE9;lectrique (32) &#xE9;tant coupl&#xE9;e &#xE9;lectriquement &#xE0; une piste &#xE9;lectrique du substrat principal (1). Le dispositif (10) comprend en outre des substrats secondaires (4, 6), comprenant des sources de lumi&#xE8;re (9) devant &#xEA;tre command&#xE9;es par le circuit de commande (2). Le dispositif (10) comprend en outre des connecteurs secondaires (5, 7) coupl&#xE9;s &#xE0; la partie de bord du substrat secondaire correspondant, chaque connecteur secondaire comprenant au moins quatre entr&#xE9;es (51, 71), chaque entr&#xE9;e &#xE9;tant connect&#xE9;e par fil &#xE0; une sortie (32, 52) du connecteur pr&#xE9;c&#xE9;dent (3, 5), et quatre sorties (52).
+    Fig. pour abr&#xE9;g&#xE9; : 1 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>CN 216 556 930 U (CHANGZHOU SINGUSU CAR
+LAMP CO LTD) 17 mai 2022 (2022-05-17)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-216556930-U</doc-number>
+            <date>20220517</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 116 887 A1 (VALEO VISION [FR])
+3 juin 2022 (2022-06-03)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3116887-A1</doc-number>
+            <date>20220603</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 056 702 A1 (VALEO VISION [FR])
+30 mars 2018 (2018-03-30)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3056702-A1</doc-number>
+            <date>20180330</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

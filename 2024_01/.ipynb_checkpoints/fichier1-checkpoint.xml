@@ -1,0 +1,176 @@
+<fr-patent-document family-id="1800144885" date-produced="20240105" kind="A1" doc-number="3137253" country="FR" id="2206547" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137253</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144885">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206547</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206547</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Engin de traitement d&#x2019;au moins un andain</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>N.V. DEPOORTERE</orgname>
+            <address>
+              <address-1>105 Kortrijkseweg</address-1>
+              <city>BEVEREN-LEIE</city>
+              <postcode>8791</postcode>
+              <country>BE</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DEPOORTERE</last-name>
+            <first-name>Rik</first-name>
+            <address>
+              <address-1/>
+              <city>VLAMERTINGE</city>
+              <postcode>8908</postcode>
+              <country>BE</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>WOLFCARIUS</last-name>
+            <first-name>Nico</first-name>
+            <address>
+              <address-1/>
+              <city>WAKKEN</city>
+              <postcode>8720</postcode>
+              <country>BE</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET BEAU DE LOMENIE</orgname>
+            <address>
+              <address-1>Immeuble Eurocentre 179 Boulevard de Turin</address-1>
+              <city>LILLE</city>
+              <postcode>59777</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>N.V. DEPOORTERE</orgname>
+          <address>
+            <address-1>105 Kortrijkseweg</address-1>
+            <city>BEVEREN-LEIE</city>
+            <postcode>8791</postcode>
+            <country>BE</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A01D  45/06        20220101AFI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A01D  84/00        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Engin de traitement d&#x2019;au moins un andain 
+    L&#x2019;invention concerne un engin (1), automoteur ou tract&#xE9;, de traitement d&#x2019;au moins un andain, de type comprenant au moins un moyen de ramassage (3) apte &#xE0; pr&#xE9;lever ledit au moins un andain sur le sol sous forme de nappe continue. Ledit engin comprend au moins un ch&#xE2;ssis (91) permettant le support du moyen de ramassage, le moyen de ramassage (3) &#xE9;tant mont&#xE9; mobile sur le ch&#xE2;ssis. Le moyen de ramassage est un moyen de ramassage command&#xE9;, et l&#x2019;engin comporte un moyen d&#x2019;actionnement (2) configur&#xE9; pour d&#xE9;placer, en particulier orienter, le moyen de ramassage command&#xE9; par rapport au ch&#xE2;ssis. 
+    L&#x2019;engin comporte en particulier au moins un premier capteur configur&#xE9; pour d&#xE9;terminer la position dudit au moins un andain avant, pendant et/ou apr&#xE8;s son ramassage par ledit engin (1). L&#x2019;engin comporte &#xE9;galement des moyens de commande configur&#xE9;s pour recevoir des donn&#xE9;es dudit au moins un premier capteur, et pour commander ledit moyen d&#x2019;actionnement (2) dudit moyen de ramassage (3) command&#xE9; en fonction de ladite position dudit au moins un andain fournie par ledit au moins un premier capteur, de mani&#xE8;re &#xE0; ajuster la position relative du moyen de ramassage command&#xE9; par rapport audit andain.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 1.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>BE 897 602 A (DEPOORTERE MICHEL)
+27 f&#xE9;vrier 1984 (1984-02-27)</text>
+          <document-id>
+            <country>BE</country>
+            <doc-number>BE-897602-A</doc-number>
+            <date>19840227</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 916 604 A1 (DEPOORTERE NV [BE])
+5 d&#xE9;cembre 2008 (2008-12-05)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2916604-A1</doc-number>
+            <date>20081205</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 916 603 A1 (DEPOORTERE NV [BE])
+5 d&#xE9;cembre 2008 (2008-12-05)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2916603-A1</doc-number>
+            <date>20081205</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 3 387 890 A1 (HORSCH MASCHINEN GMBH
+[DE]; BOEHNER HARTMUT [DE])
+17 octobre 2018 (2018-10-17)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3387890-A1</doc-number>
+            <date>20181017</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230411</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

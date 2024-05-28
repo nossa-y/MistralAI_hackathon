@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144971" date-produced="20240105" kind="A1" doc-number="3137390" country="FR" id="2206655" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137390</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144971">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206655</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206655</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Composition de caoutchouc comprenant un plastifiant biosourc&#xE9;</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN</orgname>
+            <iid>855200887</iid>
+            <address>
+              <address-1>23, Place des Carmes-D&#xE9;chaux</address-1>
+              <city>CLERMONT-FERRAND</city>
+              <postcode>63000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>RODRIGUES</last-name>
+            <first-name>ARNAUD</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>PAWLAK</last-name>
+            <first-name>ANGELIQUE</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>PAGANO</last-name>
+            <first-name>SALVATORE</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>MANUFACTURE FRANCAISE DES PNEUMATIQUES MICHELIN</orgname>
+            <address>
+              <address-1>23, Place des Carmes-D&#xE9;chaux -DCJ/PI- F35 - Ladoux</address-1>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN</orgname>
+          <iid>855200887</iid>
+          <address>
+            <address-1>23, Place des Carmes-D&#xE9;chaux</address-1>
+            <city>CLERMONT-FERRAND</city>
+            <postcode>63000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>C08L   9/00        20220101AFI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>C08L   7/00        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>C08K   3/04        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>C08K   5/101       20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>C08K   3/06        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>C08K   5/47        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="7">
+        <text>B60C   1/00        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="8">
+        <text>B60C  13/00        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L'invention a pour objet une composition de caoutchouc &#xE0; base d&#x2019;au moins :- 100 pce d'une matrice &#xE9;lastom&#xE8;re comprenant un &#xE9;lastom&#xE8;re isopr&#xE9;nique et un &#xE9;lastom&#xE8;re butadi&#xE9;nique, - 20 &#xE0; 120 pce d'une charge renfor&#xE7;ante comprenant du noir de carbone &#xE0; titre de charge majoritaire, - 5 &#xE0; 120 pce d'un syst&#xE8;me plastifiant comprenant, &#xE0; titre de plastifiant biosourc&#xE9;, un ester d'un acide gras et d'un alcool choisi parmi les alcools gras et les dim&#xE8;res diols, de masse molaire moyenne en poids (Mw) inf&#xE9;rieure &#xE0; 5000g/mol d&#xE9;termin&#xE9; par chromatographie d&#x2019;exclusion st&#xE9;rique(SEC), la m&#xE9;thode &#xE9;tant d&#xE9;crite dans la description .- un syst&#xE8;me de r&#xE9;ticulation.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2019/367706 A1 (YOSHIOKA MIKAKO [JP] ET
+AL) 5 d&#xE9;cembre 2019 (2019-12-05)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2019367706-A1</doc-number>
+            <date>20191205</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2018 039912 A (YOKOHAMA RUBBER CO LTD)
+15 mars 2018 (2018-03-15)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2018039912-A</doc-number>
+            <date>20180315</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2015/315358 A1 (YONEMOTO MAKIKO [JP] ET
+AL) 5 novembre 2015 (2015-11-05)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2015315358-A1</doc-number>
+            <date>20151105</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230620</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

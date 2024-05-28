@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144935" date-produced="20240105" kind="A1" doc-number="3137329" country="FR" id="2206611" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137329</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144935">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206611</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206611</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Pneumatique conducteur</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN</orgname>
+            <iid>855200887</iid>
+            <address>
+              <address-1>23, Place des Carmes-D&#xE9;chaux</address-1>
+              <city>CLERMONT-FERRAND</city>
+              <postcode>63000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>REYNAL DE ST-MICHEL</last-name>
+            <first-name>REMI</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>MARTIN SANCHEZ</last-name>
+            <first-name>MIGUEL ANGEL</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>MERINO LOPEZ</last-name>
+            <first-name>JOSE</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>DEBLOCK</last-name>
+            <first-name>FRANCK</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>BOMBLAIN</last-name>
+            <first-name>VIVIANE</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>MANUFACTURE FRANCAISE DES PNEUMATIQUES MICHELIN</orgname>
+            <address>
+              <address-1>23, Place des Carmes-D&#xE9;chaux -DCJ/PI- F35 - Ladoux</address-1>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN</orgname>
+          <iid>855200887</iid>
+          <address>
+            <address-1>23, Place des Carmes-D&#xE9;chaux</address-1>
+            <city>CLERMONT-FERRAND</city>
+            <postcode>63000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60C   9/18        20220101AFI20220929BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B60C  19/08        20220101ALI20220929BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention concerne un pneumatique comportant une bande de roulement destin&#xE9;e &#xE0; &#xEA;tre en contact avec le sol lors du roulage par l&#x2019;interm&#xE9;diaire d&#x2019;une face de contact et une paire de flancs s&#x2019;&#xE9;tendant &#xE0; partir de chacune de deux extr&#xE9;mit&#xE9;s axiales de la bande de roulement, le pneumatique comprenant au moins un pli plac&#xE9; radialement vers l&#x2019;int&#xE9;rieur vis-&#xE0;-vis de la bande de roulement, l&#x2019;au moins un pli comprenant une pluralit&#xE9; d&#x2019;&#xE9;l&#xE9;ments de renforcement parall&#xE8;les s&#x2019;&#xE9;tendant &#xE0; un angle A par rapport &#xE0; l&#x2019;orientation circonf&#xE9;rentielle du pneumatique, l&#x2019;angle A &#xE9;tant sup&#xE9;rieur &#xE0; 10&#xA0;degr&#xE9;s, le pneumatique comprenant, en outre, une carcasse plac&#xE9;e radialement vers l&#x2019;int&#xE9;rieur vis-&#xE0;-vis de l&#x2019;au moins un pli, au moins un pli radialement int&#xE9;rieur extr&#xEA;me &#xE9;tant pourvu d&#x2019;une couche de couverture de bord faite d&#x2019;une composition de caoutchouc conductrice et recouvrant au moins une face radialement int&#xE9;rieure du pli radialement int&#xE9;rieur extr&#xEA;me et s&#x2019;&#xE9;tendant jusqu&#x2019;&#xE0; une distance axiale L mesur&#xE9;e &#xE0; partir d&#x2019;une extr&#xE9;mit&#xE9; axiale du pli radialement int&#xE9;rieur extr&#xEA;me, au moins un des flancs s&#x2019;&#xE9;tendant le long de la carcasse vers le dessous du pli radialement int&#xE9;rieur extr&#xEA;me jusqu&#x2019;&#xE0; une distance axiale Le mesur&#xE9;e &#xE0; partir de l&#x2019;extr&#xE9;mit&#xE9; axiale du pli radialement int&#xE9;rieur extr&#xEA;me, la distance axiale L &#xE9;tant sup&#xE9;rieure &#xE0; la distance axiale Le, et la couche de couverture de bord form&#xE9;e sur le pli radialement int&#xE9;rieur extr&#xEA;me comportant une partie en contact avec la carcasse.
+    Figure de l'abr&#xE9;g&#xE9; : figure 2
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2017/120682 A1 (REHAB HICHEM [FR] ET
+AL) 4 mai 2017 (2017-05-04)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2017120682-A1</doc-number>
+            <date>20170504</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2014/230986 A1 (ADACHI YUKISHIGE [JP]
+ET AL) 21 ao&#xFB;t 2014 (2014-08-21)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014230986-A1</doc-number>
+            <date>20140821</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230620</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

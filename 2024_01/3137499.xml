@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144918" date-produced="20240105" kind="A1" doc-number="3137499" country="FR" id="2206586" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137499</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144918">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206586</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206586</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif opto&#xE9;lectronique &#xE0; zones de transitions</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ALEDIA</orgname>
+            <iid>537455982</iid>
+            <address>
+              <address-1>10 Rue des M&#xE9;ridiens Parc d&#x2019;Entreprises Sud Galaxie</address-1>
+              <city>ECHIROLLES</city>
+              <postcode>38130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DAANOUNE</last-name>
+            <first-name>Mehdi</first-name>
+            <address>
+              <address-1/>
+              <city>RENAGE</city>
+              <postcode>38140</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>DUPONT</last-name>
+            <first-name>Tiphaine</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET HAUTIER</orgname>
+            <address>
+              <address-1>20 Rue de la Libert&#xE9;</address-1>
+              <city>NICE</city>
+              <postcode>06000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>ALEDIA</orgname>
+          <iid>537455982</iid>
+          <address>
+            <address-1>10 Rue des M&#xE9;ridiens Parc d&#x2019;Entreprises Sud Galaxie</address-1>
+            <city>ECHIROLLES</city>
+            <postcode>38130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01L  33/62        20220101AFI20221011BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Titre&#xA0;: Dispositif opto&#xE9;lectronique &#xE0; zones de transitions
+    L&#x2019;invention concerne un dispositif opto&#xE9;lectronique comprenant une premi&#xE8;re LED (100) formant une premi&#xE8;re structure active et comprenant des premiers nanofils (101) pr&#xE9;sentant des premiers diam&#xE8;tres &#x3C6;1 tels que 0,9.&#x3C6;10 &lt; &#x3C6;1 &lt; 1,1.&#x3C6;10 avec &#x3C6;10 une valeur cible des premiers diam&#xE8;tres, lesdits premiers nanofils (101) &#xE9;tant agenc&#xE9;s selon au moins un premier r&#xE9;seau de pas p1, ladite premi&#xE8;re LED &#xE9;tant configur&#xE9;e pour &#xE9;mettre un premier faisceau lumineux pr&#xE9;sentant principalement une premi&#xE8;re longueur d&#x2019;onde &#x3BB;1, et une premi&#xE8;re zone de transition (1000) bordant au moins en partie ladite premi&#xE8;re LED (100), ladite premi&#xE8;re zone de transition (1000) comprenant une pluralit&#xE9; de premiers nanofils de transition (1001), le dispositif &#xE9;tant caract&#xE9;ris&#xE9; en ce que les premiers nanofils de transition (1001) pr&#xE9;sentent des premiers diam&#xE8;tres de transition et/ou un premier pas de r&#xE9;seau de transition variant progressivement en s&#x2019;&#xE9;loignant de la premi&#xE8;re LED (100).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2014/154880 A1 (ALEDIA [FR])
+2 octobre 2014 (2014-10-02)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2014154880-A1</doc-number>
+            <date>20141002</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/069431 A1 (ALEDIA [FR])
+7 avril 2022 (2022-04-07)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022069431-A1</doc-number>
+            <date>20220407</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/002896 A1 (ALEDIA [FR])
+6 janvier 2022 (2022-01-06)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022002896-A1</doc-number>
+            <date>20220106</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230620</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

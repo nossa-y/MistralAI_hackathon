@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144947" date-produced="20240105" kind="A1" doc-number="3137497" country="FR" id="2206628" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137497</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144947">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206628</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206628</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif opto&#xE9;lectronique &#xE0; r&#xE9;flecteur</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ALEDIA</orgname>
+            <iid>537455982</iid>
+            <address>
+              <address-1>Parc d&#x2019;Entreprises Sud Galaxie  10 rue des M&#xE9;ridiens</address-1>
+              <city>ECHIROLLES</city>
+              <postcode>38130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DUPONT</last-name>
+            <first-name>Tiphaine</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>DAANOUNE</last-name>
+            <first-name>Mehdi</first-name>
+            <address>
+              <address-1/>
+              <city>RENAGE</city>
+              <postcode>38140</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET HAUTIER</orgname>
+            <address>
+              <address-1>20 rue de la Libert&#xE9;</address-1>
+              <city>NICE</city>
+              <postcode>06000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>ALEDIA</orgname>
+          <iid>537455982</iid>
+          <address>
+            <address-1>Parc d&#x2019;Entreprises Sud Galaxie  10 rue des M&#xE9;ridiens</address-1>
+            <city>ECHIROLLES</city>
+            <postcode>38130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01L  33/10        20220101AFI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H04N   5/341       20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Titre&#xA0;: Dispositif opto&#xE9;lectronique &#xE0; r&#xE9;flecteur
+    L&#x2019;invention concerne un dispositif opto&#xE9;lectronique (1) comprenant&#xA0;au moins une premi&#xE8;re source de lumi&#xE8;re (100) configur&#xE9;e pour &#xE9;mettre un premier faisceau lumineux (101) &#xE9;mettant au moins &#xE0; une premi&#xE8;re longueur d&#x2019;onde &#x3BB;1 et &#xE9;mis au moins selon une direction appel&#xE9;e premi&#xE8;re direction d&#x2019;&#xE9;mission (110), le dispositif &#xE9;tant caract&#xE9;ris&#xE9; en ce qu&#x2019;il comprend en outre au moins un premier r&#xE9;flecteur (150) bordant la premi&#xE8;re source de lumi&#xE8;re, configur&#xE9; pour r&#xE9;fl&#xE9;chir selon une premi&#xE8;re direction de r&#xE9;flexion des premiers rayons lumineux de premi&#xE8;re longueur d&#x2019;onde &#x3BB;1 &#xE9;mis selon la premi&#xE8;re direction d&#x2019;&#xE9;mission, et en ce que l&#x2019;au moins un premier r&#xE9;flecteur comprend une pluralit&#xE9; de premiers nanofils passifs (151).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2021/066564 A1 (KANAYA YASUHIRO [JP])
+4 mars 2021 (2021-03-04)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021066564-A1</doc-number>
+            <date>20210304</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2019/243746 A1 (ALEDIA [FR])
+26 d&#xE9;cembre 2019 (2019-12-26)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2019243746-A1</doc-number>
+            <date>20191226</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/129250 A1 (ALEDIA [FR])
+23 juin 2022 (2022-06-23)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022129250-A1</doc-number>
+            <date>20220623</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230620</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

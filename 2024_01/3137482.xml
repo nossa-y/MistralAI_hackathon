@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144995" date-produced="20240105" kind="A1" doc-number="3137482" country="FR" id="2206685" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137482</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144995">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206685</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206685</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de contr&#xF4;le &#xE0; distance d&#x2019;une flotte de v&#xE9;hicules en libre service</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>MMA</orgname>
+            <address>
+              <address-1>19V rue Bountovnik</address-1>
+              <city>SOFIA</city>
+              <postcode>1421</postcode>
+              <country>BG</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>KANTCHEV</last-name>
+            <first-name>Kalin</first-name>
+            <address>
+              <address-1/>
+              <city>SOFIA</city>
+              <postcode>1421</postcode>
+              <country>BG</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>MMA</orgname>
+          <address>
+            <address-1>19V rue Bountovnik</address-1>
+            <city>SOFIA</city>
+            <postcode>1421</postcode>
+            <country>BG</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G08G   1/00        20230101AFI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H04B  10/116       20230101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>G05D   1/43        20230101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>G01J   1/42        20230101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>G01S   5/16        20230101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>B62K  11/00        20230101ALI20220908BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+        L&#x2019;invention concerne un proc&#xE9;d&#xE9; de contr&#xF4;le d&#x2019;un objet mobile (V1), le proc&#xE9;d&#xE9; comprenant des &#xE9;tapes consistant &#xE0;&#xA0;: recevoir par au moins un capteur install&#xE9; sur l&#x2019;objet mobile un signal d&#x2019;identification transmis par un rayonnement lumineux depuis une installation d&#x2019;&#xE9;mission (LS), le signal d&#x2019;identification transmettant des donn&#xE9;es comprenant un identifiant d&#x2019;&#xE9;metteur&#xA0;; localiser l&#x2019;objet mobile par une unit&#xE9; de traitement (CU) de l&#x2019;objet mobile, en fonction des donn&#xE9;es, et commander par l&#x2019;unit&#xE9; de traitement, un organe &#xE9;lectrom&#xE9;canique (CC) de l&#x2019;objet mobile en fonction de la localisation de l&#x2019;objet mobile.
+    Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2017/317748 A1 (KRAPF ARNO [DE])
+2 novembre 2017 (2017-11-02)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2017317748-A1</doc-number>
+            <date>20171102</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 10 800 475 B1 (LUEDTKE PETER REX [US]
+ET AL) 13 octobre 2020 (2020-10-13)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-10800475-B1</doc-number>
+            <date>20201013</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>YANG SE-HOON ET AL:  "Indoor Location
+Estimation Based on LED Visible Light
+Communication Using Multiple Optical
+Receivers",
+IEEE COMMUNICATIONS LETTERS, IEEE SERVICE
+CENTER, PISCATAWAY, NJ, US,
+vol. 17, no. 9,
+1 septembre 2013 (2013-09-01), pages
+1834-1837, XP011527491,
+ISSN: 1089-7798, DOI:
+10.1109/LCOMM.2013.070913.131120
+[extrait le 2013-09-19]</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230315</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

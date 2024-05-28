@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145002" date-produced="20240105" kind="A1" doc-number="3137526" country="FR" id="2206692" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137526</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145002">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206692</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206692</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">MODULE DE PUISSANCE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO EQUIPEMENTS ELECTRIQUES MOTEUR</orgname>
+            <address>
+              <address-1>2 rue Andr&#xE9; Boulle</address-1>
+              <city>CRETEIL CEDEX</city>
+              <postcode>94046</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MASSOL</last-name>
+            <first-name>Laurent</first-name>
+            <address>
+              <address-1/>
+              <city>CRETEIL CEDEX</city>
+              <postcode>94046</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>TAN</last-name>
+            <first-name>Ky Lim</first-name>
+            <address>
+              <address-1/>
+              <city>CRETEIL CEDEX</city>
+              <postcode>94046</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>DE FRUTOS</last-name>
+            <first-name>Xavier</first-name>
+            <address>
+              <address-1/>
+              <city>CRETEIL CEDEX</city>
+              <postcode>94046</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>CANITROT</last-name>
+            <first-name>Didier</first-name>
+            <address>
+              <address-1/>
+              <city>CRETEIL CEDEX</city>
+              <postcode>94046</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>MORELLE</last-name>
+            <first-name>Jean-Michel</first-name>
+            <address>
+              <address-1/>
+              <city>CRETEIL CEDEX</city>
+              <postcode>94046</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="6">
+          <addressbook lang="fr">
+            <last-name>GODEFROY</last-name>
+            <first-name>Gregory</first-name>
+            <address>
+              <address-1/>
+              <city>CRETEIL CEDEX</city>
+              <postcode>94046</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO EQUIPEMENTS ELECTRIQUES MOTEUR - SCE PI</orgname>
+            <address>
+              <address-1>2 rue Andr&#xE9; Boulle</address-1>
+              <city>CRETEIL CEDEX</city>
+              <postcode>94046</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>VALEO EQUIPEMENTS ELECTRIQUES MOTEUR</orgname>
+          <address>
+            <address-1>2 rue Andr&#xE9; Boulle</address-1>
+            <city>CRETEIL CEDEX</city>
+            <postcode>94046</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H05K   1/18        20220101AFI20221122BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un module de puissance (300) qui comporte&#xA0;: une piste positive (P+), une piste de phase (PP) et une piste n&#xE9;gative (P-)&#xA0;; des interrupteurs de c&#xF4;t&#xE9; haut (HS) align&#xE9;s et des interrupteurs de c&#xF4;t&#xE9; bas (LS) align&#xE9;s.
+    La piste n&#xE9;gative (P-) s&#x2019;&#xE9;tend entre la piste positive (P+) et la piste de phase (PP) et le module de puissance (300) comporte une barrette conductrice &#xE9;lectrique de c&#xF4;t&#xE9; haut (304) sur les interrupteurs de c&#xF4;t&#xE9; haut (HS) et comportant plusieurs pattes (306) plaqu&#xE9;es contre la piste de phase (PP), et une barrette conductrice &#xE9;lectrique de c&#xF4;t&#xE9; bas (310) sur les interrupteurs de c&#xF4;t&#xE9; bas (LS) et comportant plusieurs pattes (312) plaqu&#xE9;es contre la piste n&#xE9;gative (P-), les pattes (306, 312) des deux barrettes (304, 310) sont intercal&#xE9;es de mani&#xE8;re &#xE0; alterner, parall&#xE8;lement aux alignements d&#x2019;interrupteurs (HS, LS), entre pattes (306) de la barrette de c&#xF4;t&#xE9; haut (304) et pattes (312) de la barrette de c&#xF4;t&#xE9; bas (310).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2014/124915 A1 (HAYASHI KENJI [JP] ET
+AL) 8 mai 2014 (2014-05-08)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014124915-A1</doc-number>
+            <date>20140508</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2003/168252 A1 (SCHMID RALF [DE] ET AL)
+11 septembre 2003 (2003-09-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2003168252-A1</doc-number>
+            <date>20030911</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2022/068891 A1 (MORIMOTO MITSUAKI [JP]
+ET AL) 3 mars 2022 (2022-03-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2022068891-A1</doc-number>
+            <date>20220303</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

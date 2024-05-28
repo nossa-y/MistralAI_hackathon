@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145021" date-produced="20240105" kind="A1" doc-number="3137371" country="FR" id="2206715" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137371</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145021">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206715</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206715</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">ENSEMBLE PROPULSIF D&#x2019;UN AERONEF COMPRENANT UN SYSTEME ANTI-INCENDIE AVEC UNE LIGNE DE DISTRIBUTION D&#x2019;AGENT EXTINCTEUR.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>AIRBUS OPERATIONS (S.A.S.)</orgname>
+            <iid>420916918</iid>
+            <address>
+              <address-1>316, Route de Bayonne</address-1>
+              <city>TOULOUSE Cedex 9</city>
+              <postcode>31060</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>SOULIE</last-name>
+            <first-name>Adeline</first-name>
+            <address>
+              <address-1/>
+              <city>TOULOUSE</city>
+              <postcode>31060</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>GELIOT</last-name>
+            <first-name>Jean</first-name>
+            <address>
+              <address-1/>
+              <city>TOULOUSE</city>
+              <postcode>31060</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>AIRBUS OPERATIONS (S.A.S.)</orgname>
+          <iid>420916918</iid>
+          <address>
+            <address-1>316, Route de Bayonne</address-1>
+            <city>TOULOUSE Cedex 9</city>
+            <postcode>31060</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B64D  45/00        20220101AFI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F02C   7/25        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A62C  35/68        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A62C   3/08        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    ENSEMBLE PROPULSIF D&#x2019;UN AERONEF COMPRENANT UN SYSTEME ANTI-INCENDIE AVEC UNE LIGNE DE DISTRIBUTION D&#x2019;AGENT EXTINCTEUR
+    L&#x2019;invention concerne un ensemble propulsif comprenant un syst&#xE8;me anti-incendie comprenant deux r&#xE9;servoirs d&#x2019;agent extincteur sous pression et une ligne de distribution (10) reliant chacun des r&#xE9;servoirs &#xE0; au moins une buse, la ligne de distribution (10) pr&#xE9;sentant au moins un point bas (21) et pour chaque point bas (21), une valve de drainage (30) comprenant un corps (31) creux connect&#xE9; &#xE0; l&#x2019;une de ses extr&#xE9;mit&#xE9;s &#xE0; la ligne de distribution (10) et pourvu d&#x2019;un fond (31b) &#xE0; son extr&#xE9;mit&#xE9; libre, ladite extr&#xE9;mit&#xE9; libre &#xE9;tant pourvue d&#x2019;au moins un trou de drainage (33) communiquant avec l&#x2019;ext&#xE9;rieur, la valve de drainage (30) comprenant un dispositif d&#x2019;obturation (34) arrang&#xE9; dans le corps (31), le dispositif d&#x2019;obturation (34) &#xE9;tant un &#xE9;l&#xE9;ment d&#xE9;formable &#xE9;lastiquement (36, 36a), r&#xE9;alis&#xE9; en mat&#xE9;riau &#xE9;lastom&#xE8;re, mobile par rapport au corps (31) entre une position de repos dans laquelle un fluide circule de la ligne de distribution (10) vers le au moins un trou de drainage (33) et une position de contrainte, dans laquelle ledit &#xE9;l&#xE9;ment d&#xE9;formable est d&#xE9;form&#xE9; par compression et plaqu&#xE9; contre le fond (31b) et ferme la totalit&#xE9; des trous de drainage, la position de contrainte &#xE9;tant atteinte lorsque la pression dans la ligne de distribution (10) est sup&#xE9;rieure ou &#xE9;gale &#xE0; une pression pr&#xE9;d&#xE9;termin&#xE9;e.
+    Fig. 3 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 3 933 183 A1 (AIRBUS OPERATIONS SAS
+[FR]) 5 janvier 2022 (2022-01-05)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3933183-A1</doc-number>
+            <date>20220105</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2020/049279 A1 (CHAUDHARI VINOD
+SHASHIKANT [IN] ET AL)
+13 f&#xE9;vrier 2020 (2020-02-13)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2020049279-A1</doc-number>
+            <date>20200213</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 014 133 A1 (SNECMA [FR])
+5 juin 2015 (2015-06-05)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3014133-A1</doc-number>
+            <date>20150605</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230725</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

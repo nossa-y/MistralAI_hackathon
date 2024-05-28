@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144970" date-produced="20240105" kind="A1" doc-number="3137259" country="FR" id="2206654" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137259</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144970">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206654</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206654</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">DISPOSITIF D'APPLICATION DE PRODUIT COSMETIQUE COMPORTANT UNE GAINE ESCAMOTABLE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ALBEA SERVICES</orgname>
+            <iid>648202216</iid>
+            <address>
+              <address-1>1 Avenue du G&#xE9;n&#xE9;ral de Gaulle ZAC des Barbanniers &#x2013; &#xAB; LE SIGNAC &#xBB;</address-1>
+              <city>GENNEVILLIERS</city>
+              <postcode>92230</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>LECUREUIL</last-name>
+            <first-name>FREDERIC</first-name>
+            <address>
+              <address-1/>
+              <city>GENNEVILLIERS</city>
+              <postcode>92230</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>EDMONDSON</last-name>
+            <first-name>MARK</first-name>
+            <address>
+              <address-1/>
+              <city>GENNEVILLIERS</city>
+              <postcode>92230</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>GEVERS &amp; ORES</orgname>
+            <address>
+              <address-1>Immeuble LE PALATIN 2 3 Cours du Triangle CS 80165</address-1>
+              <city>PARIS LA DEFENSE CEDEX</city>
+              <postcode>92939</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>ALBEA SERVICES</orgname>
+          <iid>648202216</iid>
+          <address>
+            <address-1>1 Avenue du G&#xE9;n&#xE9;ral de Gaulle ZAC des Barbanniers &#x2013; &#xAB; LE SIGNAC &#xBB;</address-1>
+            <city>GENNEVILLIERS</city>
+            <postcode>92230</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A45D  40/06        20220101AFI20220901BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L'invention concerne un dispositif (10) d&#x2019;application d'un raisin (12) de produit cosm&#xE9;tique, pr&#xE9;sentant un axe (A) central, et comportant&#xA0;:
+    - une base (14) comportant une paroi (16) externe tubulaire, une paroi (18) cylindrique interne agenc&#xE9;e coaxialement &#xE0; la paroi (16) externe&#xA0;;
+    - une gaine (44) tubulaire re&#xE7;ue coulissant axialement entre la paroi (18) interne et la paroi (16) externe de la base (14), la gaine (44) comportant des ergots (50) coop&#xE9;rant chacun avec une rainure (52) associ&#xE9;e de la base (14)&#xA0;;
+    - la paroi (18) interne de la base (14) et la gaine (44) &#xE9;tant r&#xE9;alis&#xE9;es en un m&#xEA;me mat&#xE9;riau&#xA0;;
+    caract&#xE9;ris&#xE9; en ce que la gaine (44) comporte au moins trois ergots (50) faisant saillie radialement vers l'axe (A) central depuis une face cylindrique interne, les rainures (52) &#xE9;tant r&#xE9;alis&#xE9;es dans une face cylindrique externe de la paroi (18) interne.
+    Figure pour l'abr&#xE9;g&#xE9;&#xA0;: Figure 4
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>KR 200 397 589 Y1 (UNKNOWN)
+5 octobre 2005 (2005-10-05)</text>
+          <document-id>
+            <country>KR</country>
+            <doc-number>KR-200397589-Y1</doc-number>
+            <date>20051005</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/076348 A1 (WORLD WIDE PACKAGING
+INC [US]) 14 avril 2022 (2022-04-14)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022076348-A1</doc-number>
+            <date>20220414</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2015/012440 A1 (KIM YOON HOI [KR])
+29 janvier 2015 (2015-01-29)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2015012440-A1</doc-number>
+            <date>20150129</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

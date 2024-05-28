@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144930" date-produced="20240105" kind="A1" doc-number="3137306" country="FR" id="2206601" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137306</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144930">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206601</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206601</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de conversion du dioxyde de carbone avec production d&#x2019;hydrog&#xE8;ne, de m&#xE9;thane et/ou d&#x2019;hydrocarbures</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SUEZ International</orgname>
+            <iid>569800873</iid>
+            <address>
+              <address-1>TOUR CB 21 16 place de l'Iris</address-1>
+              <city>PARIS LA D&#xC9;FENSE CEDEX</city>
+              <postcode>92040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>Haddad</last-name>
+            <first-name>Mathieu</first-name>
+            <address>
+              <address-1/>
+              <city>S&#xE8;vres</city>
+              <postcode>92310</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>Al Ayoubi</last-name>
+            <first-name>Safwan</first-name>
+            <address>
+              <address-1/>
+              <city>Montigny le Bretonneux</city>
+              <postcode>78180</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>Roche</last-name>
+            <first-name>Cl&#xE9;ment</first-name>
+            <address>
+              <address-1/>
+              <city>Saint-Etienne</city>
+              <postcode>42100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>LLR</orgname>
+            <address>
+              <address-1>LLR  11, boulevard de S&#xE9;bastopol</address-1>
+              <city>Paris</city>
+              <postcode>75001</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SUEZ International</orgname>
+          <iid>569800873</iid>
+          <address>
+            <address-1>TOUR CB 21 16 place de l'Iris</address-1>
+            <city>PARIS LA D&#xC9;FENSE CEDEX</city>
+            <postcode>92040</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B01D  53/32        20220101AFI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B01D  53/02        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>C25B   3/26        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-extension>
+      <fr-extension-territory>Polyn&#xE9;sie fran&#xE7;aise</fr-extension-territory>
+    </fr-extension>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Proc&#xE9;d&#xE9; de valorisation du dioxyde de carbone comprenant :
+    (a) une &#xE9;tape de fourniture d&#x2019;un effluent gazeux &#xE0; valoriser contenant un ratio volumique en dioxyde de carbone d&#x2019;au moins 0,5 ; 
+    (b) une &#xE9;tape d&#x2019;&#xE9;lectrolyse de l&#x2019;effluent gazeux &#xE0; valoriser produisant un premier effluent contenant du monoxyde de carbone, au cours de laquelle au moins une partie du dioxyde de carbone contenu dans l&#x2019;effluent gazeux &#xE0; valoriser est convertie en monoxyde de carbone par &#xE9;lectrolyse ; 
+    (c) au moins une &#xE9;tape de conversion du monoxyde de carbone du premier effluent catalys&#xE9;e par un plasma g&#xE9;n&#xE9;r&#xE9; par un proc&#xE9;d&#xE9; de d&#xE9;charge &#xE0; barri&#xE8;re di&#xE9;lectrique coupl&#xE9; &#xE0; un catalyseur, ladite &#xE9;tape (c) produisant un effluent &#xE0; valeur ajout&#xE9;e, au cours de laquelle au moins une partie du monoxyde de carbone contenu dans le premier effluent est converti en au moins un produit choisi parmi du m&#xE9;thane, du dihydrog&#xE8;ne et/ou des hydrocarbures.
+    Figure de l&#x2019;abr&#xE9;g&#xE9;&#xA0;: 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>DE 10 2020 208604 A1 (DENSO CORP [JP])
+21 janvier 2021 (2021-01-21)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102020208604-A1</doc-number>
+            <date>20210121</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/090671 A1 (PARIS SCIENCES ET
+LETTRES [FR]; CENTRE NAT RECH SCIENT [FR]
+ET AL.) 5 mai 2022 (2022-05-05)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022090671-A1</doc-number>
+            <date>20220505</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/031726 A2 (OPUS 12 INCORPORATED
+[US]) 10 f&#xE9;vrier 2022 (2022-02-10)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022031726-A2</doc-number>
+            <date>20220210</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 921 055 A1 (UGOLIN NICOLAS [FR])
+20 mars 2009 (2009-03-20)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2921055-A1</doc-number>
+            <date>20090320</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>CUI XIAOJU ET AL:  "Room-temperature
+electrochemical water-gas shift reaction
+for high purity hydrogen production",
+NATURE COMMUNICATIONS,
+vol. 10, no. 1,
+1 janvier 2019 (2019-01-01), XP093016591,
+DOI: 10.1038/s41467-018-07937-w
+Extrait de l'Internet:
+URL:https://www.nature.com/articles/s41467
+-018-07937-w.pdf&gt;</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230626</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

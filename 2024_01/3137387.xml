@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145077" date-produced="20240105" kind="A1" doc-number="3137387" country="FR" id="2206778" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137387</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145077">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206778</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206778</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Composite d&#x2019;elastom&#xE8;re comprenant des particules de caoutchouc r&#xE9;ticul&#xE9;</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ARKEMA FRANCE</orgname>
+            <address>
+              <address-1>420 rue d'Estienne d'Orves</address-1>
+              <city>COLOMBES</city>
+              <postcode>92700</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MOUGNIER</last-name>
+            <first-name>S&#xE9;bastien Jun</first-name>
+            <address>
+              <address-1/>
+              <city>SERQUIGNY</city>
+              <postcode>27470</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LOYEN</last-name>
+            <first-name>Karine</first-name>
+            <address>
+              <address-1/>
+              <city>SERQUIGNY</city>
+              <postcode>27470</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>PRENVEILLE</last-name>
+            <first-name>Thomas</first-name>
+            <address>
+              <address-1/>
+              <city>SERQUIGNY</city>
+              <postcode>27470</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>GRIPON</last-name>
+            <first-name>Layla</first-name>
+            <address>
+              <address-1/>
+              <city>SERQUIGNY</city>
+              <postcode>27470</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>VERBAUWHEDE</last-name>
+            <first-name>Bertrand</first-name>
+            <address>
+              <address-1/>
+              <city>SERQUIGNY</city>
+              <postcode>27470</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ARKEMA FRANCE</orgname>
+            <address>
+              <address-1>420 rue d'Estienne d'Orves</address-1>
+              <city>COLOMBES CEDEX</city>
+              <postcode>92705</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>ARKEMA FRANCE</orgname>
+          <address>
+            <address-1>420 rue d'Estienne d'Orves</address-1>
+            <city>COLOMBES</city>
+            <postcode>92700</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>C08L  75/04        20220101AFI20220927BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>C08L  17/00        20220101ALI20220927BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>C08L  77/06        20220101ALI20220927BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>C08L  77/00        20220101ALI20220927BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention vise principalement un composite bicouche comprenant une couche A et une couche B, dans lequel 
+    la couche A comprend au moins 30% en poids par rapport au poids de la couche A d&#x2019;au moins un polym&#xE8;re thermoplastique&#xA0;; et&#xA0;la couche B comprend au moins 25% en poids par rapport au poids de la couche B d&#x2019;au moins un polym&#xE8;re thermoplastique et 1 &#xE0; 75% en poids par rapport au poids total de la couche B de particules de caoutchouc r&#xE9;ticul&#xE9;. 
+    Elle vise par ailleurs un proc&#xE9;d&#xE9; pour sa fabrication ainsi que son utilisation, les objets ainsi obtenus, un proc&#xE9;d&#xE9; pour leur recyclage, la composition susceptible d&#x2019;&#xEA;tre obtenue et son utilisation.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 3 478 516 B1 (NIKE INNOVATE CV [US])
+8 septembre 2021 (2021-09-08)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3478516-B1</doc-number>
+            <date>20210908</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2015/267045 A1 (HUANG YI-JUNG [TW] ET
+AL) 24 septembre 2015 (2015-09-24)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2015267045-A1</doc-number>
+            <date>20150924</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2007 042926 A1 (SIEMPELKAMP MASCH &amp;
+ANLAGENBAU [DE]) 2 avril 2009 (2009-04-02)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102007042926-A1</doc-number>
+            <date>20090402</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 0 656 388 A1 (ATOCHEM ELF SA [FR])
+7 juin 1995 (1995-06-07)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-0656388-A1</doc-number>
+            <date>19950607</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230620</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

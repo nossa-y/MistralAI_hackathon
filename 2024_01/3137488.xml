@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144996" date-produced="20240105" kind="A1" doc-number="3137488" country="FR" id="2206686" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137488</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144996">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206686</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206686</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">DISPOSITIF DE DISSIPATION DE CHALEUR AMOVIBLE AMELIORE, DESTINE A ETRE MONTE DE MANIERE REVERSIBLE SUR UN CORPS LATERAL D&#x2019;UN EMBALLAGE DE TRANSPORT ET/OU D&#x2019;ENTREPOSAGE DE MATIERES RADIOACTIVES</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Orano Nuclear Packages and Services</orgname>
+            <address>
+              <address-1>1 rue des H&#xE9;rons</address-1>
+              <city>MONTIGNY-LE-BRETONNEUX</city>
+              <postcode>78180</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>COLLIN</last-name>
+            <first-name>Fabien</first-name>
+            <address>
+              <address-1/>
+              <city>ELANCOURT</city>
+              <postcode>78990</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>RIPERT</last-name>
+            <first-name>Herv&#xE9;</first-name>
+            <address>
+              <address-1/>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>MARIETTE</last-name>
+            <first-name>Ludovic</first-name>
+            <address>
+              <address-1/>
+              <city>BAILLY</city>
+              <postcode>78870</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>KARAAGAC</last-name>
+            <first-name>Iklima</first-name>
+            <address>
+              <address-1/>
+              <city>ELANCOURT</city>
+              <postcode>78990</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>BARDON</last-name>
+            <first-name>Olivier</first-name>
+            <address>
+              <address-1/>
+              <city>CHAVILLE</city>
+              <postcode>92370</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="6">
+          <addressbook lang="fr">
+            <last-name>RENARD</last-name>
+            <first-name>Vincent</first-name>
+            <address>
+              <address-1/>
+              <city>LE BOULLAY-THIERRY</city>
+              <postcode>28210</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>BREVALEX</orgname>
+            <address>
+              <address-1>95 rue d'Amsterdam</address-1>
+              <city>PARIS CEDEX 8</city>
+              <postcode>75378</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Orano Nuclear Packages and Services</orgname>
+          <address>
+            <address-1>1 rue des H&#xE9;rons</address-1>
+            <city>MONTIGNY-LE-BRETONNEUX</city>
+            <postcode>78180</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G21F   5/10        20220101AFI20220923BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G21F   5/005       20220101ALI20220923BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un dispositif (50) de dissipation de chaleur amovible, destin&#xE9; &#xE0; &#xEA;tre mont&#xE9; de mani&#xE8;re r&#xE9;versible sur la surface ext&#xE9;rieure d&#x2019;un corps lat&#xE9;ral d&#x2019;un emballage de transport et/ou d&#x2019;entreposage de mati&#xE8;res radioactives, le dispositif comprenant une embase (52), une ailette de refroidissement (54), ainsi qu&#x2019;au moins un organe de montage du dispositif sur la surface ext&#xE9;rieure du corps lat&#xE9;ral de l&#x2019;emballage, l&#x2019;organe de montage (60) comprenant au moins un aimant permanent (62).
+    Selon l&#x2019;invention, le dispositif comporte un &#xE9;l&#xE9;ment de retenue (68), sur l&#x2019;embase (52), de l&#x2019;organe de montage (60), l&#x2019;&#xE9;l&#xE9;ment de retenue (68), formant un &#xE9;l&#xE9;ment de conduction thermique, pr&#xE9;sentant une &#xE9;paisseur radiale d&#xE9;finie entre une premi&#xE8;re surface (68a) de retenue de l&#x2019;organe de montage (60), et une seconde surface de contact (68b) destin&#xE9;e &#xE0; &#xEA;tre au contact de la surface ext&#xE9;rieure du corps lat&#xE9;ral de l&#x2019;emballage.
+    Figure 4.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>JP 2006 170795 A (MITSUBISHI HEAVY IND
+LTD) 29 juin 2006 (2006-06-29)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2006170795-A</doc-number>
+            <date>20060629</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2018/308596 A1 (DE DINECHIN GUILLAUME
+[FR] ET AL) 25 octobre 2018 (2018-10-25)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2018308596-A1</doc-number>
+            <date>20181025</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 049 756 A1 (TN INT [FR])
+6 octobre 2017 (2017-10-06)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3049756-A1</doc-number>
+            <date>20171006</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2002 090495 A (MITSUBISHI HEAVY IND
+LTD) 27 mars 2002 (2002-03-27)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2002090495-A</doc-number>
+            <date>20020327</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230628</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

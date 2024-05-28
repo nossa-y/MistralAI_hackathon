@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145013" date-produced="20240105" kind="A3" doc-number="3137524" country="FR" id="2206703" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137524</doc-number>
+          <kind>A3</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Certificat d'utilit&#xE9;</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145013">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206703</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206703</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">ENSEMBLE ELECTRONIQUE ET DISPOSITIF D&#x2019;ECLAIRAGE AUTOMOBILE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO VISION</orgname>
+            <address>
+              <address-1>34 Rue Saint-Andr&#xE9; SERVICE PI</address-1>
+              <city>Bobigny - Cedex</city>
+              <postcode>93012</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>CANTUDO FRANCO</last-name>
+            <first-name>Miguel Angel</first-name>
+            <address>
+              <address-1/>
+              <city>Martos</city>
+              <postcode>23600</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>JURADO</last-name>
+            <first-name>Jesus</first-name>
+            <address>
+              <address-1/>
+              <city>Martos</city>
+              <postcode>23600</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>HERNANDEZ CLEDERA</last-name>
+            <first-name>Manuel</first-name>
+            <address>
+              <address-1/>
+              <city>Martos</city>
+              <postcode>23600</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>VALEO VISION</orgname>
+          <address>
+            <address-1>34 Rue Saint-Andr&#xE9; SERVICE PI</address-1>
+            <city>Bobigny - Cedex</city>
+            <postcode>93012</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H05B  45/00        20220101AFI20220922BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F21S  41/00        20220101ALI20220922BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Cette invention se rapporte &#xE0; un ensemble &#xE9;lectronique (1) pour un dispositif d&#x2019;&#xE9;clairage automobile (10). Cet ensemble &#xE9;lectronique (1) comprend une seule entr&#xE9;e d&#x2019;&#xE9;nergie (2), une seule entr&#xE9;e de communication (3) et un &#xE9;l&#xE9;ment de pilotage principal (4), lequel comprend des entr&#xE9;es de pilotage (40) dispos&#xE9;es en communication bidirectionnelle directe avec l&#x2019;entr&#xE9;e de communication et comprenant en outre des sorties discr&#xE8;tes de pilotage (41). L&#x2019;ensemble &#xE9;lectronique (1) comprend en outre un premier groupe de sources de lumi&#xE8;re (7), aliment&#xE9;es &#xE9;lectriquement par l&#x2019;entr&#xE9;e d&#x2019;&#xE9;nergie (2) et une premi&#xE8;re unit&#xE9; d&#x2019;&#xE9;nergie (21) dispos&#xE9;e entre une sortie discr&#xE8;te de pilotage (41) et le premier groupe de sources de lumi&#xE8;re (7). L&#x2019;&#xE9;l&#xE9;ment de pilotage principal (4) comprend une machine &#xE0; &#xE9;tats finis mat&#xE9;rielle (43) configur&#xE9;e pour fournir une communication bidirectionnelle entre l&#x2019;entr&#xE9;e de communication (3) et la premi&#xE8;re unit&#xE9; d&#x2019;&#xE9;nergie (21).
+    Fig. pour abr&#xE9;g&#xE9; : 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

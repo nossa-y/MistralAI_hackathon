@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145056" date-produced="20240105" kind="A1" doc-number="3137292" country="FR" id="2206753" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137292</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145056">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206753</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206753</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Mat&#xE9;riau solide anhydre &#xE0; base de polysaccharide, proc&#xE9;d&#xE9; de pr&#xE9;paration et composition cosm&#xE9;tique le contenant</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>LVMH RECHERCHE</orgname>
+            <address>
+              <address-1>185 avenue de Verdun</address-1>
+              <city>SAINT JEAN DE BRAYE</city>
+              <postcode>45800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>LAURENT</last-name>
+            <first-name>Ludivine</first-name>
+            <address>
+              <address-1/>
+              <city>Saint Jean de Braye</city>
+              <postcode>45800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>DESTREM</last-name>
+            <first-name>Audrey</first-name>
+            <address>
+              <address-1/>
+              <city>Saint Jean de Braye</city>
+              <postcode>45800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>RATTINA</last-name>
+            <first-name>Anne-Sophie</first-name>
+            <address>
+              <address-1/>
+              <city>Saint Jean de Braye</city>
+              <postcode>45800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>LEGEAY</last-name>
+            <first-name>Oc&#xE9;ane</first-name>
+            <address>
+              <address-1/>
+              <city>Saint Jean de Braye</city>
+              <postcode>45800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET BEAU DE LOMENIE</orgname>
+            <address>
+              <address-1>158 RUE DE L'UNIVERSITE</address-1>
+              <city>PARIS CEDEX 07</city>
+              <postcode>75340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>LVMH RECHERCHE</orgname>
+          <address>
+            <address-1>185 avenue de Verdun</address-1>
+            <city>SAINT JEAN DE BRAYE</city>
+            <postcode>45800</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/73        20220101AFI20220919BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/34        20220101ALI20220919BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K   8/92        20220101ALI20220919BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61Q   1/00        20220101ALI20220919BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>A61Q   1/04        20220101ALI20220919BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>A61Q   1/12        20220101ALI20220919BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Mat&#xE9;riau solide anhydre &#xE0; base de polysaccharide, proc&#xE9;d&#xE9; de pr&#xE9;paration et composition cosm&#xE9;tique le contenant
+    L&#x2019;invention concerne un mat&#xE9;riau solide anhydre comprenant au moins un polysaccharide filmog&#xE8;ne naturel ou d&#x2019;origine naturelle, soluble dans l&#x2019;eau ou hydrodispersible, et au moins un diol comprenant de 4 &#xE0; 6 atomes de carbone. Ce mat&#xE9;riau blanc opaque permet la substitution en tout ou partie du dioxyde de titane dans des formulations cosm&#xE9;tiques anhydres.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 1 911 439 A2 (BIOFARMITALIA SPA [IT])
+16 avril 2008 (2008-04-16)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-1911439-A2</doc-number>
+            <date>20080416</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2021/144245 A1 (ROQUETTE FRERES [FR])
+22 juillet 2021 (2021-07-22)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2021144245-A1</doc-number>
+            <date>20210722</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2020/249672 A1 (CAPSUGEL BELGIUM NV
+[BE]) 17 d&#xE9;cembre 2020 (2020-12-17)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2020249672-A1</doc-number>
+            <date>20201217</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+26 novembre 2019 (2019-11-26),
+anonymous: "Active Collagen Freezing Ball
+Set (Copper Peptide)",
+XP093028458,
+Database accession no. 7004377</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+11 janvier 2017 (2017-01-11),
+anonymous: "Shimme &amp; Shine Powder",
+XP093028556,
+Database accession no. 4542223</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+8 septembre 2016 (2016-09-08),
+anonymous: "Triple Care Powder",
+XP093028529,
+Database accession no. 4271761</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+25 juillet 2018 (2018-07-25),
+anonymous: "Perfume Powder Pact 5G Moist",
+XP093028518,
+Database accession no. 5853827</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230621</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

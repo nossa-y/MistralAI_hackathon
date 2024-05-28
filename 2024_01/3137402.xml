@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145041" date-produced="20240105" kind="A1" doc-number="3137402" country="FR" id="2206737" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137402</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145041">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206737</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206737</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Portail battant</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SOMFY ACTIVITES SA</orgname>
+            <iid>303970230</iid>
+            <address>
+              <address-1>50 Avenue du Nouveau Monde</address-1>
+              <city>CLUSES</city>
+              <postcode>74300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ROUGIER DROUET</last-name>
+            <first-name>Robin</first-name>
+            <address>
+              <address-1/>
+              <city>CLUSES</city>
+              <postcode>74300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>AMBLARD</last-name>
+            <first-name>Aymeric</first-name>
+            <address>
+              <address-1/>
+              <city>CLUSES</city>
+              <postcode>74300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>MONTRIGNAC</last-name>
+            <first-name>Alo&#xEF;s</first-name>
+            <address>
+              <address-1/>
+              <city>CLUSES</city>
+              <postcode>74300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>DROUOT</last-name>
+            <first-name>Jean-Charles</first-name>
+            <address>
+              <address-1/>
+              <city>CLUSES</city>
+              <postcode>74300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>DUNAND</last-name>
+            <first-name>Rapha&#xEB;l</first-name>
+            <address>
+              <address-1/>
+              <city>CLUSES</city>
+              <postcode>74300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="6">
+          <addressbook lang="fr">
+            <last-name>LEMAITRE</last-name>
+            <first-name>S&#xE9;bastien</first-name>
+            <address>
+              <address-1/>
+              <city>CLUSES</city>
+              <postcode>74300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Lavoix</orgname>
+            <address>
+              <address-1>62, rue de Bonnel</address-1>
+              <city>LYON CEDEX 03</city>
+              <postcode>69448</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SOMFY ACTIVITES SA</orgname>
+          <iid>303970230</iid>
+          <address>
+            <address-1>50 Avenue du Nouveau Monde</address-1>
+            <city>CLUSES</city>
+            <postcode>74300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>E05F  15/611       20220101AFI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>E05F  15/60        20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    P ortail battant
+    Un portail battant comprend au moins un &#xE9;cran mont&#xE9; pivotant autour d&#x2019;un axe de rotation et comprenant au moins un montant align&#xE9; sur l&#x2019;axe de rotation et un dispositif de supportage (24) du montant, par le dessous, avec possibilit&#xE9; de pivotement autour de l&#x2019;axe de rotation. Le dispositif de supportage (24) comprend au moins une embase (242), comprenant au moins un palier (250) de guidage du montant en pivotement. L&#x2019;embase (242) comprend au moins une cr&#xE9;maill&#xE8;re circulaire (260) centr&#xE9;e sur l&#x2019;axe de rotation. Le dispositif de supportage (24) comprend au moins une but&#xE9;e (264) immobilis&#xE9;e sur l&#x2019;embase (242), dans une position angulaire pr&#xE9;d&#xE9;termin&#xE9;e autour de l&#x2019;axe de rotation par coop&#xE9;ration avec la cr&#xE9;maill&#xE8;re circulaire (260), et un pion d&#x2019;arr&#xEA;t (280) solidaris&#xE9; au montant et configur&#xE9; pour venir en appui contre la but&#xE9;e (264), en fin de course de pivotement de l&#x2019;&#xE9;cran autour de l&#x2019;axe de rotation.
+    Figure pour l'abr&#xE9;g&#xE9;&#xA0;: figure 7
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 2 673 219 A1 (LAUZIER SA [FR])
+28 ao&#xFB;t 1992 (1992-08-28)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2673219-A1</doc-number>
+            <date>19920828</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2008/053393 A2 (NICE SPA [IT]; GALBERTI
+LORENZO [IT]; FURLANETTO CHRISTIAN [IT])
+8 mai 2008 (2008-05-08)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2008053393-A2</doc-number>
+            <date>20080508</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230823</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

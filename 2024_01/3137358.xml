@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144861" date-produced="20240105" kind="A1" doc-number="3137358" country="FR" id="2206522" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137358</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144861">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206522</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206522</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Structure de v&#xE9;hicule automobile</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>PSA AUTOMOBILES SA</orgname>
+            <iid>542065479</iid>
+            <address>
+              <address-1>2-10 Boulevard de l'Europe</address-1>
+              <city>Poissy</city>
+              <postcode>78300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>THOR</last-name>
+            <first-name>TOU</first-name>
+            <address>
+              <address-1/>
+              <city>PONT DE ROIDE VERMONDANS</city>
+              <postcode>25150</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STELLANTIS AUTO SAS</orgname>
+          <iid>542065479</iid>
+          <address>
+            <address-1>2-10 boulevard de l'Europe</address-1>
+            <city>POISSY</city>
+            <postcode>78300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B62D  25/06        20220101AFI20220927BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B62D  25/04        20220101ALI20220927BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne une structure (2) de v&#xE9;hicule automobile dont chaque c&#xF4;t&#xE9; lat&#xE9;ral comporte un arc de pavillon (6) de toit&#xA0;formant qui s&#x2019;&#xE9;tend selon un axe longitudinal, et un pied arri&#xE8;re (9). L&#x2019;arc de pavillon (6) de toit comporte une doublure situ&#xE9;e d&#x2019;un c&#xF4;t&#xE9; de l&#x2019;habitacle (5), relativement &#xE0; un axe transversal (23), et un renfort ext&#xE9;rieur (24) situ&#xE9; d&#x2019;un c&#xF4;t&#xE9; oppos&#xE9; &#xE0; l&#x2019;habitacle (5) relativement audit axe transversal (23). Chaque pied arri&#xE8;re (9) comporte une extr&#xE9;mit&#xE9; sup&#xE9;rieure (20) formant un gousset (21), la doublure de l&#x2019;arc de pavillon (6) de toit &#xE9;tant li&#xE9;e au gousset (21). Chaque arc de pavillon (6) comporte, au niveau de son renfort ext&#xE9;rieur (24), un talon de fixation (25) qui s&#x2019;&#xE9;tend en direction du gousset (21) du pied arri&#xE8;re (9) correspondant, de sorte &#xE0; ce que le talon de fixation (25) soit fix&#xE9; solidairement au gousset (21).
+    Figure &#xE0; publier avec l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 2 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 0 282 306 A1 (MAZDA MOTOR [JP])
+14 septembre 1988 (1988-09-14)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-0282306-A1</doc-number>
+            <date>19880914</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 2 647 553 A1 (HONDA MOTOR CO LTD [JP])
+9 octobre 2013 (2013-10-09)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-2647553-A1</doc-number>
+            <date>20131009</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 103 451 A1 (PSA AUTOMOBILES SA [FR])
+28 mai 2021 (2021-05-28)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3103451-A1</doc-number>
+            <date>20210528</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

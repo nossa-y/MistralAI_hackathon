@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144966" date-produced="20240105" kind="A1" doc-number="3137529" country="FR" id="2206650" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137529</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144966">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206650</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206650</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">CELLULE DE COMMUTATION</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Valeo Siemens eAutomotive France SAS</orgname>
+            <iid>528970197</iid>
+            <address>
+              <address-1>14 Avenue des Beguines</address-1>
+              <city>Cergy</city>
+              <postcode>95800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>CRAVO</last-name>
+            <first-name>David</first-name>
+            <address>
+              <address-1/>
+              <city>Cergy</city>
+              <postcode>95800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>GILET</last-name>
+            <first-name>Olivier</first-name>
+            <address>
+              <address-1/>
+              <city>Cergy</city>
+              <postcode>95800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Valeo Siemens eAutomotive France SAS - Service Propri&#xE9;t&#xE9; Intellectuelle</orgname>
+            <address>
+              <address-1>14 Avenue des Beguines</address-1>
+              <city>Cergy</city>
+              <postcode>95800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Valeo Siemens eAutomotive France SAS</orgname>
+          <iid>528970197</iid>
+          <address>
+            <address-1>14 Avenue des Beguines</address-1>
+            <city>Cergy</city>
+            <postcode>95800</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H05K   5/02        20220101AFI20221027BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne une cellule de commutation (100) comportant&#xA0;: -&#xA0;au moins un module de puissance (102) comportant un bo&#xEE;tier (305), un interrupteur (306, 308) dans le bo&#xEE;tier (305), et une broche (312) de contr&#xF4;le de l&#x2019;interrupteur (306, 308), la broche de contr&#xF4;le (312) sortant du bo&#xEE;tier (305)&#xA0;; et -&#xA0;une carte &#xE9;lectronique (104) de contr&#xF4;le du module de puissance (102), la carte &#xE9;lectronique de contr&#xF4;le (104) pr&#xE9;sentant un trou de r&#xE9;ception dans lequel la broche de contr&#xF4;le (312) est ins&#xE9;r&#xE9;e. La cellule de commutation (100) comporte en outre une pi&#xE8;ce (206) solidaire du module de puissance (102) et pr&#xE9;sentant une encoche (1302) de positionnement de la broche de contr&#xF4;le (312).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 3 056 074 A1 (VALEO SYSTEMES DE
+CONTROLE MOTEUR [FR])
+16 mars 2018 (2018-03-16)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3056074-A1</doc-number>
+            <date>20180316</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 114 172 387 A (HUANGFU COMPANY)
+11 mars 2022 (2022-03-11)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-114172387-A</doc-number>
+            <date>20220311</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 093 889 A1 (VALEO EQUIP ELECTR MOTEUR
+[FR]) 18 septembre 2020 (2020-09-18)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3093889-A1</doc-number>
+            <date>20200918</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 2 736 160 A1 (HITACHI AUTOMOTIVE
+SYSTEMS LTD [JP]) 28 mai 2014 (2014-05-28)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-2736160-A1</doc-number>
+            <date>20140528</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2014/168900 A1 (KORICH MARK D [US] ET
+AL) 19 juin 2014 (2014-06-19)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014168900-A1</doc-number>
+            <date>20140619</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145064" date-produced="20240105" kind="A1" doc-number="3137266" country="FR" id="2206763" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137266</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145064">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206763</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206763</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">SYSTEME D&#x2019;ANASTOMOSE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ASSISTANCE PUBLIQUE H&#xD4;PITAUX DE PARIS</orgname>
+            <address>
+              <address-1>3 Avenue Victoria</address-1>
+              <city>Paris</city>
+              <postcode>75004</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DANIAL</last-name>
+            <first-name>Pichoy</first-name>
+            <address>
+              <address-1/>
+              <city>Maisons- Alfort</city>
+              <postcode>94700</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Cabinet CAMUS-LEBKIRI</orgname>
+            <address>
+              <address-1>25, rue de Maubeuge</address-1>
+              <city>PARIS</city>
+              <postcode>75009</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>ASSISTANCE PUBLIQUE H&#xD4;PITAUX DE PARIS</orgname>
+          <address>
+            <address-1>3 Avenue Victoria</address-1>
+            <city>Paris</city>
+            <postcode>75004</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61B  17/11        20220101AFI20220913BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61F   2/06        20220101ALI20220913BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    SYSTEME D&#x2019;ANASTOMOSE
+    L&#x2019;invention concerne un syst&#xE8;me d&#x2019;anastomose comportant&#xA0;:
+    un premier tube (10) pr&#xE9;sentant une surface lat&#xE9;rale (11), une ouverture amont (13) et une ouverture aval (14)&#xA0;; au moins un deuxi&#xE8;me tube (100) s&#x2019;&#xE9;tendant depuis la surface lat&#xE9;rale (11) du premier tube (10) jusqu&#x2019;&#xE0; une entr&#xE9;e (101) du deuxi&#xE8;me tube (100) et communiquant avec le premier tube (10)&#xA0;; une valve (130) mont&#xE9;e dans le deuxi&#xE8;me tube (100)&#xA0;; etun dispositif de ligature (150) agenc&#xE9; sur la circonf&#xE9;rence du premier tube (10) en aval de la zone de communication entre le premier tube et le deuxi&#xE8;me tube (120), le dispositif de ligature (150) pr&#xE9;sentant un premier agencement ou un deuxi&#xE8;me agencement, le premier agencement fermant le premier tube (10) et le deuxi&#xE8;me agencement laissant ledit premier tube (10) ouvert.
+    Figure &#xE0; publier avec l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 2
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2014/028787 A2 (NOVITA THERAPEUTICS
+[US]; FRANANO F NICHOLAS [US] ET AL.)
+20 f&#xE9;vrier 2014 (2014-02-20)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2014028787-A2</doc-number>
+            <date>20140220</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2011/003019 A1 (CORREX INC [US]; BEANE
+RICHARD M [US] ET AL.)
+6 janvier 2011 (2011-01-06)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2011003019-A1</doc-number>
+            <date>20110106</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2018/211242 A1 (VASCUTEK LTD [GB];
+KOELBEL TILO [DE])
+22 novembre 2018 (2018-11-22)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2018211242-A1</doc-number>
+            <date>20181122</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230726</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

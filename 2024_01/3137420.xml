@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144983" date-produced="20240105" kind="A1" doc-number="3137420" country="FR" id="2206668" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137420</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144983">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206668</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206668</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Machine hydraulique comprenant une came et des pistons</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>POCLAIN HYDRAULICS INDUSTRIE</orgname>
+            <iid>414781823</iid>
+            <address>
+              <address-1>Route de Compi&#xE8;gne</address-1>
+              <city>VERBERIE</city>
+              <postcode>60410</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>CHBIKI</last-name>
+            <first-name>Mounir</first-name>
+            <address>
+              <address-1/>
+              <city>VERBERIE</city>
+              <postcode>60410</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LANGLOIS</last-name>
+            <first-name>Vincent</first-name>
+            <address>
+              <address-1/>
+              <city>VERBERIE</city>
+              <postcode>60410</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>TELEGA</last-name>
+            <first-name>Philippe</first-name>
+            <address>
+              <address-1/>
+              <city>VERBERIE</city>
+              <postcode>60410</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>GRAUX</last-name>
+            <first-name>Nicolas</first-name>
+            <address>
+              <address-1/>
+              <city>VERBERIE</city>
+              <postcode>60410</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>REGIMBEAU</orgname>
+            <address>
+              <address-1>20, rue de Chazelles</address-1>
+              <city>PARIS CEDEX 17</city>
+              <postcode>75847</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>POCLAIN HYDRAULICS INDUSTRIE</orgname>
+          <iid>414781823</iid>
+          <address>
+            <address-1>Route de Compi&#xE8;gne</address-1>
+            <city>VERBERIE</city>
+            <postcode>60410</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F03C   1/04        20220101AFI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F03C   1/40        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>F03C   1/30        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>G01B   7/16        20220101ALI20220831BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La machine hydraulique (1) comprend&#xA0;:
+    - une came (14) pr&#xE9;sentant une face externe cylindrique (30) et un axe principal (X-X), et
+    - au moins une jauge (40) rigidement fix&#xE9;e &#xE0; la face et agenc&#xE9;e pour d&#xE9;tecter une sollicitation de la face et/ou une variation d&#x2019;une forme de la face.
+    Figure de l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2001/018846 A1 (SHIN DALHEUN [KR])
+6 septembre 2001 (2001-09-06)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2001018846-A1</doc-number>
+            <date>20010906</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2020/139525 A1 (RUCH MATTHIAS [DE] ET
+AL) 7 mai 2020 (2020-05-07)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2020139525-A1</doc-number>
+            <date>20200507</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2021/178602 A1 (SPM FLOW CONTROL INC
+[US]) 10 septembre 2021 (2021-09-10)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2021178602-A1</doc-number>
+            <date>20210910</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2020/182236 A1 (BEISEL JOSEPH A [US] ET
+AL) 11 juin 2020 (2020-06-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2020182236-A1</doc-number>
+            <date>20200611</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2020/400234 A1 (MULLINS CHANCE RAY [US]
+ET AL) 24 d&#xE9;cembre 2020 (2020-12-24)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2020400234-A1</doc-number>
+            <date>20201224</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 3 847 017 A (WATTS J)
+12 novembre 1974 (1974-11-12)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-3847017-A</doc-number>
+            <date>19741112</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 10 295 418 B1 (HOLLAND ERIC [US])
+21 mai 2019 (2019-05-21)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-10295418-B1</doc-number>
+            <date>20190521</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230512</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

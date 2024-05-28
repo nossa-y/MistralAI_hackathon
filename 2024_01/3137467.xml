@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145014" date-produced="20240105" kind="A1" doc-number="3137467" country="FR" id="2206704" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137467</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145014">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206704</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206704</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Gestion de consommation d&#x2019;&#xE9;nergie d&#x2019;un appareil</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ORANGE</orgname>
+            <iid>380129866</iid>
+            <address>
+              <address-1>111, quai du Pr&#xE9;sident Roosevelt</address-1>
+              <city>ISSY-LES-MOULINEAUX</city>
+              <postcode>92130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>NAJMI</last-name>
+            <first-name>Elyass</first-name>
+            <address>
+              <address-1/>
+              <city>CHATILLON CEDEX</city>
+              <postcode>92326</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BENDIABDALLAH</last-name>
+            <first-name>Halim</first-name>
+            <address>
+              <address-1/>
+              <city>CHATILLON CEDEX</city>
+              <postcode>92326</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Plasseraud IP</orgname>
+            <address>
+              <address-1>66 rue de la Chauss&#xE9;e d'Antin</address-1>
+              <city>PARIS CEDEX 09</city>
+              <postcode>75440</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>ORANGE</orgname>
+          <iid>380129866</iid>
+          <address>
+            <address-1>111, quai du Pr&#xE9;sident Roosevelt</address-1>
+            <city>ISSY-LES-MOULINEAUX</city>
+            <postcode>92130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G06F   1/26        20220101AFI20221011BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H04L  65/102       20220101ALI20221011BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Un proc&#xE9;d&#xE9; de pilotage de l&#x2019;alimentation d&#x2019;une passerelle d&#x2019;acc&#xE8;s (1), et une telle passerelle d&#x2019;acc&#xE8;s mettant en &#x153;uvre le proc&#xE9;d&#xE9; et permettant &#xE0; au moins un dispositif (41) d&#x2019;un r&#xE9;seau local d&#x2019;acc&#xE9;der &#xE0; un r&#xE9;seau de communication &#xE9;tendu (30). Le proc&#xE9;d&#xE9; comprend&#xA0;:a. obtenir un mode d&#x2019;alimentation planifi&#xE9; en fonction d&#x2019;une date courante&#xA0;;b. analyser des donn&#xE9;es achemin&#xE9;es par la passerelle d&#x2019;acc&#xE8;s&#xA0;;c. si des conditions correspondant au mode d&#x2019;alimentation planifi&#xE9; sont respect&#xE9;es pour les donn&#xE9;es analys&#xE9;es, commander un passage dans le mode d&#x2019;alimentation planifi&#xE9;.
+    Figure de l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2018/120923 A1 (SRINIVASAN HARISH [US])
+3 mai 2018 (2018-05-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2018120923-A1</doc-number>
+            <date>20180503</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>Lokan Sardari:  "Je teste la nouvelle
+Livebox 6 et la fibre &#xE0; 2 Gbits",
+,
+7 avril 2022 (2022-04-07), XP093020744,
+Extrait de l'Internet:
+URL:https://www.youtube.com/watch?v=bRkpB5
+Dpbv0
+[extrait le 2023-02-03]</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>Orange France:  "Orange et moi : le centre
+de notifications",
+,
+19 janvier 2022 (2022-01-19), XP093020746,
+Extrait de l'Internet:
+URL:https://www.youtube.com/watch?v=bZtKCY
+9y7JE
+[extrait le 2023-02-03]</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230621</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

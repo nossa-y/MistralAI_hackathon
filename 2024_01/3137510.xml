@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145112" date-produced="20240105" kind="A1" doc-number="3137510" country="FR" id="2306785" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137510</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145112">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306785</doc-number>
+        <date>20230628</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306785</doc-number>
+        <date>20230628</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif de raccordement &#xE9;lectrique et son proc&#xE9;d&#xE9; de production</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>TE Connectivity Germany GmbH</orgname>
+            <address>
+              <address-1>Amperestrasse 12-14</address-1>
+              <city>Bensheim</city>
+              <postcode>D-64625</postcode>
+              <country>DE</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>KETTELER</last-name>
+            <first-name>Alfons</first-name>
+            <address>
+              <address-1/>
+              <city>Bensheim</city>
+              <postcode>D-64625</postcode>
+              <country>DE</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>KARRASCH</last-name>
+            <first-name>Gregor</first-name>
+            <address>
+              <address-1/>
+              <city>Bensheim</city>
+              <postcode>D-64625</postcode>
+              <country>DE</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>BIEBER</last-name>
+            <first-name>Joerg</first-name>
+            <address>
+              <address-1/>
+              <city>Bensheim</city>
+              <postcode>D-64625</postcode>
+              <country>DE</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>GR&#xDC;NECKER</orgname>
+            <address>
+              <address-1>260 Boulevard Saint Germain</address-1>
+              <city>Paris</city>
+              <postcode>75007</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>TE Connectivity Germany GmbH</orgname>
+          <address>
+            <address-1>Amperestrasse 12-14</address-1>
+            <city>Bensheim</city>
+            <postcode>D-64625</postcode>
+            <country>DE</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01R  13/58        20230101AFI20231127BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01R  13/405       20230101ALI20231127BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H01R  13/516       20230101ALI20231127BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-priority-claims>
+      <fr-priority-claim sequence="1">
+        <country>DE</country>
+        <doc-number>10 2022 116 368.7</doc-number>
+        <date>20220630</date>
+      </fr-priority-claim>
+    </fr-priority-claims>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention concerne un dispositif de raccordement &#xE9;lectrique (2) comprenant un dispositif d'enfichage &#xE9;lectrique (6) et un c&#xE2;ble (4) qui est reli&#xE9; de mani&#xE8;re m&#xE9;caniquement robuste au dispositif d'enfichage &#xE9;lectrique (6). Le c&#xE2;ble (4) peut pr&#xE9;senter un blindage (46). Le dispositif d'enfichage (6) pr&#xE9;sente un manchon de sertissage (16) qui entoure le c&#xE2;ble (4). Selon la pr&#xE9;sente invention, deux branches (22, 24), coud&#xE9;es l'une vers l'autre de mani&#xE8;re &#xE0; inclure le c&#xE2;ble, du manchon de sertissage (16) sont soud&#xE9;es ensemble. Dans une variante de mode de r&#xE9;alisation, le blindage (46) pr&#xE9;sente une r&#xE9;gion d&#x2019;extr&#xE9;mit&#xE9; (56) expos&#xE9;e qui accueille entre elle et le blindage (46) du c&#xE2;ble (4) un manchon d'appui (54) qui est soud&#xE9; au manchon de sertissage en vue d&#x2019;une fixation am&#xE9;lior&#xE9;e du c&#xE2;ble au dispositif d'enfichage &#xE9;lectrique de mani&#xE8;re &#xE0; inclure la r&#xE9;gion d'extr&#xE9;mit&#xE9; expos&#xE9;e.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;: Fig.&#xA0;4
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

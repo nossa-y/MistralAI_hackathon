@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145069" date-produced="20240105" kind="A1" doc-number="3137462" country="FR" id="2206770" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137462</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145069">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206770</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206770</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Syst&#xE8;me UWB pour mesures radar</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO COMFORT AND DRIVING ASSISTANCE</orgname>
+            <address>
+              <address-1>6 rue Daniel Costantini</address-1>
+              <city>Cr&#xE9;teil</city>
+              <postcode>94000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>OGUZ</last-name>
+            <first-name>Onur</first-name>
+            <address>
+              <address-1/>
+              <city>Cr&#xE9;teil</city>
+              <postcode>94000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BOURASSI</last-name>
+            <first-name>Abdelhafid</first-name>
+            <address>
+              <address-1/>
+              <city>Cr&#xE9;teil</city>
+              <postcode>94000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>COLOSIMO</last-name>
+            <first-name>Angelo</first-name>
+            <address>
+              <address-1/>
+              <city>Cr&#xE9;teil</city>
+              <postcode>94000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>DJOKIC</last-name>
+            <first-name>Georges</first-name>
+            <address>
+              <address-1/>
+              <city>Cr&#xE9;teil</city>
+              <postcode>94000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>VALEO COMFORT AND DRIVING ASSISTANCE</orgname>
+          <address>
+            <address-1>6 rue Daniel Costantini</address-1>
+            <city>Cr&#xE9;teil</city>
+            <postcode>94000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G01S   7/00        20220101AFI20220905BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Syst&#xE8;me UWB pour mesures radar
+    On propose un syst&#xE8;me UWB&#xA0;(100) de v&#xE9;hicule configur&#xE9; pour r&#xE9;aliser des mesures radar. Le syst&#xE8;me UWB&#xA0;(100) comprend un capteur UWB&#xA0;(110). Le syst&#xE8;me UWB&#xA0;(100) comprend une antenne directive&#xA0;(120) d&#xE9;port&#xE9;e par rapport au capteur UWB&#xA0;(110). Le syst&#xE8;me UWB&#xA0;(100) comprend un c&#xE2;ble&#xA0;(130) reliant le capteur UWB&#xA0;(110) et l&#x2019;antenne directive&#xA0;(120). Le syst&#xE8;me UWB&#xA0;(100) offre une utilisation am&#xE9;lior&#xE9;e au v&#xE9;hicule.
+    [Fig. 1]
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2005/156780 A1 (BONTHRON ANDREW J [US]
+ET AL) 21 juillet 2005 (2005-07-21)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2005156780-A1</doc-number>
+            <date>20050721</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 109 683 159 A (SHANGHAI JUNYI
+ELECTROMAGNETIC TECH CO LTD)
+26 avril 2019 (2019-04-26)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-109683159-A</doc-number>
+            <date>20190426</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230727</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

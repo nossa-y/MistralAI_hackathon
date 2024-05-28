@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144941" date-produced="20240105" kind="A1" doc-number="3137293" country="FR" id="2206621" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137293</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144941">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206621</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206621</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de coloration des cheveux comprenant l&#x2019;application d&#x2019;un compos&#xE9; (poly)carbodiimide, d&#x2019;un compos&#xE9; ayant au moins un groupement acide carboxylique et d&#x2019;un agent colorant</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'OREAL</orgname>
+            <iid>632012100</iid>
+            <address>
+              <address-1>14, Rue Royale</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DELOSTAL</last-name>
+            <first-name>Charlotte</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BANCHARAM</last-name>
+            <first-name>Anne</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>LIARD</last-name>
+            <first-name>Alexis</first-name>
+            <address>
+              <address-1/>
+              <city>ST OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Casalonga</orgname>
+            <address>
+              <address-1>31 rue de Fleurus</address-1>
+              <city>PARIS</city>
+              <postcode>75006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'OREAL</orgname>
+          <iid>632012100</iid>
+          <address>
+            <address-1>14, Rue Royale</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/84        20220101AFI20221006BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/72        20220101ALI20221006BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K   8/19        20220101ALI20221006BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61Q   5/10        20220101ALI20221006BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention porte sur un proc&#xE9;d&#xE9; de coloration des cheveux comprenant l&#x2019;application sur les cheveux d&#x2019;au moins une composition C comprenant&#xA0;:
+    (i) au moins un compos&#xE9; (poly)carbodiimide ;
+    (ii) au moins un compos&#xE9; ayant au moins un groupement acide carboxylique ;
+    (iii) au moins un agent colorant choisi parmi les pigments, les colorants directs, et leurs m&#xE9;langes&#xA0;;
+    les compos&#xE9;s (i), (ii) et/ou (iii)&#xA0; &#xE9;tant conditionn&#xE9;s ensemble ou s&#xE9;par&#xE9;ment dans un ou plusieurs dispositifs a&#xE9;rosol en pr&#xE9;sence d&#x2019;au moins un agent propulseur.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2017/189301 A1 (TAN SILIU [US] ET AL)
+6 juillet 2017 (2017-07-06)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2017189301-A1</doc-number>
+            <date>20170706</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2021/186836 A1 (DOERR SEBASTIAN [DE] ET
+AL) 24 juin 2021 (2021-06-24)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021186836-A1</doc-number>
+            <date>20210624</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2019/001163 A1 (RUGHANI RONAK [US] ET
+AL) 3 janvier 2019 (2019-01-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2019001163-A1</doc-number>
+            <date>20190103</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2017 210270 A (DAIZOKK)
+30 novembre 2017 (2017-11-30)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2017210270-A</doc-number>
+            <date>20171130</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 1 435 226 B1 (OREAL [FR])
+5 avril 2006 (2006-04-05)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-1435226-B1</doc-number>
+            <date>20060405</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230510</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

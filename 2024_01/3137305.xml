@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145105" date-produced="20240105" kind="A3" doc-number="3137305" country="FR" id="2301460" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137305</doc-number>
+          <kind>A3</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Certificat d'utilit&#xE9;</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145105">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2301460</doc-number>
+        <date>20230216</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2301460</doc-number>
+        <date>20230216</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de gestion d&#x2019;une unit&#xE9; de traitement d&#x2019;un gaz par adsorption &#xE0; modulation de pression</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE</orgname>
+            <iid>552096281</iid>
+            <address>
+              <address-1>75 Quai d'Orsay</address-1>
+              <city>PARIS</city>
+              <postcode>75007</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>RODRIGUES</last-name>
+            <first-name>Guillaume</first-name>
+            <address>
+              <address-1/>
+              <city>Champigny-sur-Marne</city>
+              <postcode>94503</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>MONEREAU</last-name>
+            <first-name>Christian</first-name>
+            <address>
+              <address-1/>
+              <city>Champigny-sur-Marne</city>
+              <postcode>94503</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>PULLUMBI</last-name>
+            <first-name>Pluton</first-name>
+            <address>
+              <address-1/>
+              <city>Jouy-en-Josas</city>
+              <postcode>78350</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE</orgname>
+            <address>
+              <address-1>75 Quai d'Orsay</address-1>
+              <city>PARIS CEDEX 07</city>
+              <postcode>75321</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE</orgname>
+          <iid>552096281</iid>
+          <address>
+            <address-1>75 Quai d'Orsay</address-1>
+            <city>PARIS</city>
+            <postcode>75007</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B01D  53/047       20230101AFI20230517BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G06F  11/30        20230101ALI20230517BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Proc&#xE9;d&#xE9; de gestion d&#x2019;une unit&#xE9; de traitement d&#x2019;un gaz par adsorption &#xE0; modulation de pression (PSA), dans lequel un mod&#xE8;le informatique fait appel &#xE0; :
+    - soit un logiciel de simulation dynamique simulant le fonctionnement th&#xE9;orique de l&#x2019;unit&#xE9;, logiciel qui effectue une nouvelle simulation pour chaque s&#xE9;rie de donn&#xE9;es d&#x2019;entr&#xE9;e prise en compte par le mod&#xE8;le informatique lors d&#x2019;une it&#xE9;ration,
+    - soit un ensemble de corr&#xE9;lations de type multi variables qui ont &#xE9;t&#xE9; &#xE9;tablies d&#x2019;apr&#xE8;s une pluralit&#xE9; de calculs effectu&#xE9;s pr&#xE9;alablement &#xE0; partir du logiciel de simulation dynamique simulant des proc&#xE9;d&#xE9;s cycliques d&#x2019;adsorption et couvrant le domaine des fonctionnements possibles de l&#x2019;unit&#xE9;,
+    proc&#xE9;d&#xE9; de gestion dans lequel, un module d&#x2019;aide &#xE0; l&#x2019;optimisation r&#xE9;duit au fur et &#xE0; mesure, &#xE0; partir des valeurs de performances d&#xE9;termin&#xE9;es par un module d&#x2019;&#xE9;valuation, le champ des valeurs attribu&#xE9;es aux points de consigne &#xE0; tester dans les it&#xE9;rations, dans les s&#xE9;ries de donn&#xE9;es d&#x2019;entr&#xE9;e, pour atteindre la valeur cible de performance d&#xE9;finie dans le module d&#x2019;&#xE9;valuation, sans avoir &#xE0; tester toutes les valeurs attribuables aux points de consigne, la proc&#xE9;dure utilis&#xE9;e par le module d&#x2019;aide &#xE0; l&#x2019;optimisation &#xE9;tant du type plan d&#x2019;exp&#xE9;rience.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20240229</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

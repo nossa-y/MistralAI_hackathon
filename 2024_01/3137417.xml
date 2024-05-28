@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144869" date-produced="20240105" kind="A1" doc-number="3137417" country="FR" id="2206531" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137417</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144869">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206531</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206531</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">INVERSEUR DE POUSSEE POUR UNE NACELLE D&#x2019;UN TURBOREACTEUR</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SAFRAN NACELLES</orgname>
+            <iid>352050512</iid>
+            <address>
+              <address-1>Route du Pont VIII</address-1>
+              <city>GONFREVILLE-L'ORCHER</city>
+              <postcode>76700</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>BELLET,</last-name>
+            <first-name>Francois</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>VALLEROY,</last-name>
+            <first-name>Laurent Georges</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>GEVERS &amp; ORES</orgname>
+            <address>
+              <address-1>Immeuble Palatin 2 3 cours du Triangle CS 80165</address-1>
+              <city>PARIS LA DEFENSE CEDEX</city>
+              <postcode>92939</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SAFRAN NACELLES</orgname>
+          <iid>352050512</iid>
+          <address>
+            <address-1>Route du Pont VIII</address-1>
+            <city>GONFREVILLE-L'ORCHER</city>
+            <postcode>76700</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F02K   1/72        20220101AFI20220905BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un inverseur de pouss&#xE9;e (40) pour une nacelle d&#x2019;axe longitudinal et comportant&#xA0;:
+    une structure amont fixe (21) annulaire s&#x2019;&#xE9;tendant autour d&#x2019;une veine (15) et comportant un bord de d&#xE9;viation (30),une structure annulaire mobile (20) en translation axiale par rapport &#xE0; la structure amont fixe depuis une position amont jusqu&#x2019;&#xE0; une position aval d&#x2019;inversion de pouss&#xE9;e, des volets (25) mobiles depuis une premi&#xE8;re position dans laquelle le volet s&#x2019;&#xE9;tend &#xE0; l&#x2019;int&#xE9;rieur de la structure mobile et une seconde position dans laquelle le volet s&#x2019;&#xE9;tend dans la veine pour d&#xE9;vier le flux d&#x2019;air en position inversion de pouss&#xE9;e, un syst&#xE8;me de liaison (45) agenc&#xE9; entre une premi&#xE8;re extr&#xE9;mit&#xE9; axiale (25a) de chaque volet et la structure mobile (20) configur&#xE9; pour exercer une force tendant &#xE0; d&#xE9;placer radialement la premi&#xE8;re extr&#xE9;mit&#xE9; vers le bord de d&#xE9;viation (30) lorsque le volet est dans la premi&#xE8;re position.
+    Figure pour l'abr&#xE9;g&#xE9;&#xA0;: Figure 5
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 3 102 511 A1 (SAFRAN NACELLES [FR])
+30 avril 2021 (2021-04-30)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3102511-A1</doc-number>
+            <date>20210430</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2001/010148 A1 (MICHEL CHRISTIAN MARIE
+JEAN [FR] ET AL) 2 ao&#xFB;t 2001 (2001-08-02)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2001010148-A1</doc-number>
+            <date>20010802</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 3 779 010 A (CHAMAY A ET AL)
+18 d&#xE9;cembre 1973 (1973-12-18)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-3779010-A</doc-number>
+            <date>19731218</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

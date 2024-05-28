@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145046" date-produced="20240105" kind="A1" doc-number="3137342" country="FR" id="2206742" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137342</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145046">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206742</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206742</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif de barre de toit d&#x2019;un v&#xE9;hicule</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Renault s.a.s</orgname>
+            <iid>780129987</iid>
+            <address>
+              <address-1>122-122bis Avenue du G&#xE9;n&#xE9;ral Leclerc</address-1>
+              <city>Boulogne -Billancourt</city>
+              <postcode>92100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ILIE</last-name>
+            <first-name>Ionut-Octav</first-name>
+            <address>
+              <address-1/>
+              <city>Chiajna, ILFOV</city>
+              <postcode>077040</postcode>
+              <country>RO</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>FEDIT-LORIOT</orgname>
+            <address>
+              <address-1>22 rue du G&#xE9;n&#xE9;ral Foy</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Renault s.a.s</orgname>
+          <iid>780129987</iid>
+          <address>
+            <address-1>122-122bis Avenue du G&#xE9;n&#xE9;ral Leclerc</address-1>
+            <city>Boulogne -Billancourt</city>
+            <postcode>92100</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60R   9/045       20220101AFI20220906BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Dispositif de barre de toit comprenant une barre de toit d&#xE9;montable et un moyen de fixation verrouillable/d&#xE9;verrouillable de la barre en chaque extr&#xE9;mit&#xE9; de la barre, ledit moyen de fixation comprenant :- un support de fixation (1, 1&#x2019;) comportant une platine (10) munie de plots de verrouillage (11, 12, 13, 14), - une plaque de verrouillage (2) mont&#xE9;e en correspondance avec ladite platine (10), divis&#xE9;e en autant de secteurs de verrouillage (21, 22, 23, 24) que de plots de verrouillage, chaque secteur &#xE9;tant r&#xE9;cepteur d&#x2019;un plot apte &#xE0; y occuper une position de verrouillage et une position de d&#xE9;verrouillage,- une poign&#xE9;e de man&#x153;uvre (3, 3&#x2019;),- un pivot (4) d&#x2019;axe de rotation orient&#xE9; dans un plan perpendiculaire au plan principal de ladite plaque (2), solidaris&#xE9; &#xE0; la poign&#xE9;e de man&#x153;uvre, et ladite plaque &#xE9;tant mobile en rotation solidairement audit pivot (4) entre ladite position de verrouillage et ladite position de d&#xE9;verrouillage par respectivement verrouillage ou d&#xE9;verrouillage desdits plots dans la plaque.
+    Figure &#xE0; publier avec l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2008/252100 A1 (SALVADOR CHRISTOPHER
+[US] ET AL) 16 octobre 2008 (2008-10-16)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2008252100-A1</doc-number>
+            <date>20081016</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 10 556 534 B2 (FORD GLOBAL TECH LLC
+[US]) 11 f&#xE9;vrier 2020 (2020-02-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-10556534-B2</doc-number>
+            <date>20200211</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 7 458 490 B2 (SPORTRACK LLC [US])
+2 d&#xE9;cembre 2008 (2008-12-02)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-7458490-B2</doc-number>
+            <date>20081202</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230725</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

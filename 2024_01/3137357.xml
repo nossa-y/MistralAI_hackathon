@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145085" date-produced="20240105" kind="A1" doc-number="3137357" country="FR" id="2206790" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137357</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145085">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206790</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206790</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Pr&#xE9;-&#xE9;quipement pour pied milieu de v&#xE9;hicule automobile</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>EUROSTYLE SYSTEMS TECH CENTER FRANCE</orgname>
+            <iid>511763831</iid>
+            <address>
+              <address-1>28 all&#xE9;e des Sablons</address-1>
+              <city>CH&#xC2;TEAUROUX</city>
+              <postcode>36000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>HANTSCHOOTTE</last-name>
+            <first-name>Thierry</first-name>
+            <address>
+              <address-1/>
+              <city>MONTIPOURET</city>
+              <postcode>36230</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>SAIPHOU</last-name>
+            <first-name>Yann</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT MAUR</city>
+              <postcode>36250</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET MADEUF</orgname>
+            <address>
+              <address-1>176 Avenue Charles de Gaulle</address-1>
+              <city>NEUILLY SUR SEINE</city>
+              <postcode>92200</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>EUROSTYLE SYSTEMS TECH CENTER FRANCE</orgname>
+          <iid>511763831</iid>
+          <address>
+            <address-1>28 all&#xE9;e des Sablons</address-1>
+            <city>CH&#xC2;TEAUROUX</city>
+            <postcode>36000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B62D  25/04        20220101AFI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B60R  13/02        20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B60R  22/20        20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un pr&#xE9;-&#xE9;quipement&#xA0;(5) pour pied milieu de v&#xE9;hicule automobile comportant une garniture&#xA0;(16) comprenant des glissi&#xE8;res&#xA0;(23, 24) rectilignes, et un rideau&#xA0;(17) comprenant un corps plan de forme sensiblement rectangulaire avec deux premiers c&#xF4;t&#xE9;s et deux deuxi&#xE8;mes c&#xF4;t&#xE9;s adapt&#xE9; &#xE0; coulisser selon ses premiers c&#xF4;t&#xE9;s le long des glissi&#xE8;res et au moins une premi&#xE8;re languette&#xA0;(29) plane s&#x2019;&#xE9;tendant dans le prolongement d&#x2019;un premier c&#xF4;t&#xE9; depuis un deuxi&#xE8;me c&#xF4;t&#xE9; et &#xE9;tant &#xE9;lastiquement flexible par rapport au corps selon un axe de flexion parall&#xE8;le au deuxi&#xE8;me c&#xF4;t&#xE9;, la garniture comprenant un &#xE9;l&#xE9;ment de retenue&#xA0;(25) d&#xE9;cal&#xE9; transversalement par rapport &#xE0; la premi&#xE8;re glissi&#xE8;re&#xA0;(23) et formant une cavit&#xE9; , la premi&#xE8;re languette comprenant un ergot situ&#xE9; &#xE0; distance de l&#x2019;axe de flexion, venant de formation avec la premi&#xE8;re languette et faisant saillie transversalement vers l&#x2019;ext&#xE9;rieur, l&#x2019;ergot &#xE9;tant adapt&#xE9; &#xE0; surmonter l&#x2019;&#xE9;l&#xE9;ment de retenue par application d&#x2019;une premi&#xE8;re force perpendiculairement &#xE0; la premi&#xE8;re languette &#xE0; distance de l&#x2019;axe de flexion et de l&#x2019;ergot dans le sens de la largeur de la premi&#xE8;re languette et torsion &#xE9;lastique de la premi&#xE8;re languette autour d&#x2019;un axe de torsion sensiblement perpendiculaire &#xE0; l&#x2019;axe de flexion, et &#xE0; s&#x2019;ins&#xE9;rer dans la cavit&#xE9; pour y &#xEA;tre retenu et immobiliser le rideau par rapport &#xE0; la garniture dans une position de livraison.
+    Figure d&#x2019;abr&#xE9;g&#xE9;&#xA0;: 5
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>DE 10 2007 026127 A1 (TRW AUTOMOTIVE GMBH
+[DE]) 11 d&#xE9;cembre 2008 (2008-12-11)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102007026127-A1</doc-number>
+            <date>20081211</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 4 556 255 A (KAWAI OSAMU [JP])
+3 d&#xE9;cembre 1985 (1985-12-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4556255-A</doc-number>
+            <date>19851203</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230720</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144862" date-produced="20240105" kind="A1" doc-number="3137257" country="FR" id="2206523" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137257</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144862">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206523</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206523</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">DISPOSITIF ET PROCEDE DE LIMITATION DES INTERACTIONS ENTRE DES ANIMAUX ET DES STRUCTURES CONSTRUITES</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SENS OF LIFE</orgname>
+            <iid>809520588</iid>
+            <address>
+              <address-1>3 Rue Cope Cambe</address-1>
+              <city>PLAISSAN</city>
+              <postcode>34230</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>LAGRANGE</last-name>
+            <first-name>Hubert</first-name>
+            <address>
+              <address-1/>
+              <city>PLAISSAN</city>
+              <postcode>34230</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CASSIOPI</orgname>
+            <address>
+              <address-1>Cassiopi 230 Avenue de l'Aube Rouge</address-1>
+              <city>Castelnau-le-Lez</city>
+              <postcode>34170</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SENS OF LIFE</orgname>
+          <iid>809520588</iid>
+          <address>
+            <address-1>3 Rue Cope Cambe</address-1>
+            <city>PLAISSAN</city>
+            <postcode>34230</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A01M  29/16        20220101AFI20221010BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    TITRE&#xA0;DE L&#x2019;INVENTION : DISPOSITIF ET PROCEDE DE LIMITATION DES INTERACTIONS ENTRE DES ANIMAUX ET DES STRUCTURES CONSTRUITES
+    Le dispositif de limitation des interactions entre des animaux et une structure comportant des &#xE9;l&#xE9;ments rigides, comporte, &#xE0; la surface d&#x2019;un tel &#xE9;l&#xE9;ment rigide, au moins un transducteur (30) &#xE9;lectro-acoustique d&#x2019;&#xE9;mission de vibrations m&#xE9;caniques pr&#xE9;sentant au moins une fr&#xE9;quence, dans un mouvement perpendiculaire &#xE0; la surface de cet &#xE9;l&#xE9;ment rigide, chaque transducteur &#xE9;tant reli&#xE9; &#xE0; cet &#xE9;l&#xE9;ment rigide par une liaison rigide (32, 33, 34) configur&#xE9;e pour transmettre ces vibrations m&#xE9;caniques &#xE0; la surface de l&#x2019;&#xE9;l&#xE9;ment rigide, l&#x2019;&#xE9;nergie m&#xE9;canique transmise dans l&#x2019;&#xE9;l&#xE9;ment rigide de la structure &#xE9;tant sup&#xE9;rieure &#xE0; l&#x2019;&#xE9;nergie m&#xE9;canique directement &#xE9;mise par ce transducteur &#xE9;lectro-acoustique dans l&#x2019;environnement de cet &#xE9;l&#xE9;ment rigide, cet &#xE9;l&#xE9;ment rigide diffusant ces vibrations m&#xE9;caniques dans l&#x2019;environnement de la structure.
+    Figure de l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 2
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>DE 10 2009 056287 A1 (KERNCHEN KLAUS [DE])
+1 juin 2011 (2011-06-01)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102009056287-A1</doc-number>
+            <date>20110601</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 215 733 131 U (JUNLANG ELECTRIC CO LTD)
+1 f&#xE9;vrier 2022 (2022-02-01)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-215733131-U</doc-number>
+            <date>20220201</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 203 952 242 U (WANG XIAOJIN; LAI
+BINGHONG) 26 novembre 2014 (2014-11-26)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-203952242-U</doc-number>
+            <date>20141126</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 3 714 690 A1 (IDENTIFLIGHT INT LLC
+[US]) 30 septembre 2020 (2020-09-30)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3714690-A1</doc-number>
+            <date>20200930</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2013/249218 A1 (VASSILEV VASSIL MARINOV
+[BG] ET AL) 26 septembre 2013 (2013-09-26)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2013249218-A1</doc-number>
+            <date>20130926</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2015/010399 A1 (BAHAT OFER [IL] ET AL)
+8 janvier 2015 (2015-01-08)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2015010399-A1</doc-number>
+            <date>20150108</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 20 2010 003983 U1 (ASCH WERNER [DE];
+KLEIN MICHAEL [DE] ET AL.)
+5 ao&#xFB;t 2010 (2010-08-05)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-202010003983-U1</doc-number>
+            <date>20100805</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230628</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

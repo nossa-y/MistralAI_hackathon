@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145043" date-produced="20240105" kind="A1" doc-number="3137299" country="FR" id="2206739" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137299</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145043">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206739</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206739</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Tablette de phototh&#xE9;rapie d&#xE9;formable</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>LUCIBEL SA</orgname>
+            <iid>507422913</iid>
+            <address>
+              <address-1>Parc d Activit&#xE9;s du Hoquet 101 All&#xE9;e des Vergers</address-1>
+              <city>Barentin</city>
+              <postcode>76360</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DAVID</last-name>
+            <first-name>Thibault</first-name>
+            <address>
+              <address-1/>
+              <city>BONSECOURS</city>
+              <postcode>76240</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>GROS-DAILLON</last-name>
+            <first-name>Thibault</first-name>
+            <address>
+              <address-1/>
+              <city>CRIQUETOT-SUR-LONGUEVILLE</city>
+              <postcode>76590</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>LUCIBEL SA</orgname>
+          <iid>507422913</iid>
+          <address>
+            <address-1>Parc d Activit&#xE9;s du Hoquet 101 All&#xE9;e des Vergers</address-1>
+            <city>Barentin</city>
+            <postcode>76360</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61N   5/06        20220101AFI20221013BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Le dispositif (10) de phototh&#xE9;rapie souple et d&#xE9;formable adapt&#xE9; pour venir en contact sur une surface &#xE0; traiter de la peau d&#x2019;un utilisateur. Le dispositif (10) comprend une source lumineuse (20) comprenant une pluralit&#xE9; de composants (22) d&#x2019;&#xE9;mission lumineuse et un r&#xE9;seau (24) d&#x2019;interconnexion &#xE9;lectrique des composants (22) entre eux pour leur alimentation &#xE9;lectrique,&#xA0;une couche de dissipation thermique de la chaleur &#xE9;mise par la source lumineuse (20), un substrat (30) d&#xE9;formable d&#xE9;limitant une face d&#x2019;&#xE9;mission du flux lumineux, incorporant dans sa masse, la source lumineuse (20). La couche de dissipation thermique (24) est form&#xE9;e par une juxtaposition de plaquettes d&#xE9;formables m&#xE9;talliques (26, 26A, 26B) &#xE9;lectriquement et thermiquement conductrices, les plaquettes (26, 26A, 26B) &#xE9;tant disjointes et s&#xE9;par&#xE9;es par des interstices (i) formant des pistes d&#x2019;isolation &#xE9;lectrique (27) des plaquettes m&#xE9;talliques (26, 26A, 26B) entre elles de telle sorte que les pistes d&#x2019;isolation &#xE9;lectrique (27) d&#xE9;limitent le r&#xE9;seau d&#x2019;interconnexion &#xE9;lectrique (24) des composants (22) entre eux dans la couche de dissipation thermique (24). 
+    Figure 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2004/223328 A1 (LEE KIAN SHIN [MY] ET
+AL) 11 novembre 2004 (2004-11-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2004223328-A1</doc-number>
+            <date>20041111</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 034 022 A1 (LUCIBEL [FR])
+30 septembre 2016 (2016-09-30)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3034022-A1</doc-number>
+            <date>20160930</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 108 837 315 B (YIN MINGMING)
+9 octobre 2020 (2020-10-09)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-108837315-B</doc-number>
+            <date>20201009</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2021/108793 A1 (LEE JONGHO [KR] ET AL)
+15 avril 2021 (2021-04-15)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021108793-A1</doc-number>
+            <date>20210415</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 01/14012 A1 (RUSSELL THOMAS A [US])
+1 mars 2001 (2001-03-01)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-0114012-A1</doc-number>
+            <date>20010301</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230308</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

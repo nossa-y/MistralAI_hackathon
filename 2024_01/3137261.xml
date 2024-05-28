@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144993" date-produced="20240105" kind="A1" doc-number="3137261" country="FR" id="2206682" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137261</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144993">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206682</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206682</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Bouilloire comprenant un couvercle &#xE9;quip&#xE9; d&#x2019;au moins un organe de verrouillage &#xE9;tanche</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SEB S.A.</orgname>
+            <iid>300349636</iid>
+            <address>
+              <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+              <city>ECULLY</city>
+              <postcode>69130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ALLEMAND</last-name>
+            <first-name>Bernard</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>SMAL</last-name>
+            <first-name>Chlo&#xE9;</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>MANSEAU</last-name>
+            <first-name>Charles</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SEB S.A.</orgname>
+          <iid>300349636</iid>
+          <address>
+            <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+            <city>ECULLY</city>
+            <postcode>69130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A47J  27/21        20220101AFI20220902BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La bouilloire comprend un contenant&#xA0;; une poign&#xE9;e de pr&#xE9;hension&#xA0;; un bec verseur&#xA0;; un couvercle (11) &#xE9;quip&#xE9; d&#x2019;un joint d&#x2019;&#xE9;tanch&#xE9;it&#xE9; annulaire (18) configur&#xE9; pour coop&#xE9;rer de mani&#xE8;re &#xE9;tanche avec le contenant&#xA0;; et un dispositif de fixation configur&#xE9; pour fixer de mani&#xE8;re amovible le couvercle (11) au contenant et comprenant un &#xE9;l&#xE9;ment de verrouillage pr&#xE9;vu sur le contenant, un organe de verrouillage (19) mont&#xE9; mobile sur le couvercle (11) entre une position de verrouillage dans laquelle l&#x2019;organe de verrouillage (19) fait saillie &#xE0; travers une ouverture traversante (21) pr&#xE9;vue sur le couvercle (11) et est configur&#xE9; pour coop&#xE9;rer avec l&#x2019;&#xE9;l&#xE9;ment de verrouillage et une position de lib&#xE9;ration dans laquelle l&#x2019;organe de verrouillage (19) est configur&#xE9; pour lib&#xE9;rer l&#x2019;&#xE9;l&#xE9;ment de verrouillage, et un organe d&#x2019;&#xE9;tanch&#xE9;it&#xE9; (25) configur&#xE9; pour assurer une &#xE9;tanch&#xE9;it&#xE9; au niveau de l&#x2019;ouverture traversante (21).
+    Figure 14
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2022/130437 A1 (DE LONGHI APPLIANCES
+SRL [IT]) 23 juin 2022 (2022-06-23)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022130437-A1</doc-number>
+            <date>20220623</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 6 172 341 B1 (HOFFMANN GUENTER [DE] ET
+AL) 9 janvier 2001 (2001-01-09)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-6172341-B1</doc-number>
+            <date>20010109</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 2 502 530 A1 (SEB SA [FR])
+26 septembre 2012 (2012-09-26)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-2502530-A1</doc-number>
+            <date>20120926</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2007/014806 A1 (BSH BOSCH SIEMENS
+HAUSGERAETE [DE]; JAEGER HARALD [DE] ET
+AL.) 8 f&#xE9;vrier 2007 (2007-02-08)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2007014806-A1</doc-number>
+            <date>20070208</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP S62 100144 U (JP)
+25 juin 1987 (1987-06-25)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-S62100144-U</doc-number>
+            <date>19870625</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>
