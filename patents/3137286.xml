@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144934" date-produced="20240105" kind="A1" doc-number="3137286" country="FR" id="2206610" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137286</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144934">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206610</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206610</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de coloration des cheveux comprenant l&#x2019;application d&#x2019;un compos&#xE9; (poly)carbodiimide, d&#x2019;un copolym&#xE8;re acrylique silicon&#xE9;, et d&#x2019;un agent colorant</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'OREAL</orgname>
+            <iid>632012100</iid>
+            <address>
+              <address-1>14, rue Royale</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>FILA</last-name>
+            <first-name>Marika</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LIARD</last-name>
+            <first-name>Alexis</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>POURILLE</last-name>
+            <first-name>Chrystel</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Casalonga</orgname>
+            <address>
+              <address-1>31 rue de Fleurus</address-1>
+              <city>PARIS</city>
+              <postcode>75006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'OREAL</orgname>
+          <iid>632012100</iid>
+          <address>
+            <address-1>14, rue Royale</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/43        20220101AFI20220901BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/89        20220101ALI20220901BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K   8/19        20220101ALI20220901BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61Q   5/10        20220101ALI20220901BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Titre&#xA0;: Proc&#xE9;d&#xE9; de coloration des cheveux comprenant l&#x2019;application d&#x2019;un compos&#xE9; (poly)carbodiimide, d&#x2019;un copolym&#xE8;re acrylique silicon&#xE9;, et d&#x2019;un agent colorant
+    La pr&#xE9;sente invention porte sur proc&#xE9;d&#xE9; de coloration des cheveux comprenant l&#x2019;application sur les cheveux d&#x2019;au moins une composition C comprenant&#xA0;:(i) un ou plusieurs compos&#xE9;s (poly)carbodiimide ; (ii) un ou plusieurs copolym&#xE8;res acryliques silicon&#xE9;s, et(iii) au moins un agent colorant choisi parmi les pigments, les colorants directs, et leurs m&#xE9;langes,les compos&#xE9;s (i), (ii) et/ou (iii) &#xE9;tant conditionn&#xE9;s ensemble ou s&#xE9;par&#xE9;ment dans un ou plusieurs dispositifs a&#xE9;rosol en pr&#xE9;sence d&#x2019;au moins un agent propulseur.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 3 103 385 A1 (OREAL [FR])
+28 mai 2021 (2021-05-28)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3103385-A1</doc-number>
+            <date>20210528</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 087 653 A1 (OREAL [FR])
+1 mai 2020 (2020-05-01)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3087653-A1</doc-number>
+            <date>20200501</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+2 juillet 2021 (2021-07-02),
+anonymous: "Fantasy Temporary Color Hair
+Spray",
+XP093025753,
+Database accession no. 8831035</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230510</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

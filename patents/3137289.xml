@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144989" date-produced="20240105" kind="A1" doc-number="3137289" country="FR" id="2206677" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137289</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144989">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206677</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206677</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Syst&#xE8;me conservateur et composition associ&#xE9;e</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'OREAL</orgname>
+            <iid>632012100</iid>
+            <address>
+              <address-1>14, rue Royale</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>BOUTELET</last-name>
+            <first-name>Karl</first-name>
+            <address>
+              <address-1/>
+              <city>CHEVILLY LARUE</city>
+              <postcode>94152</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>MARION</last-name>
+            <first-name>Catherine</first-name>
+            <address>
+              <address-1/>
+              <city>CHEVILLY LARUE</city>
+              <postcode>94152</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'OREAL</orgname>
+          <iid>632012100</iid>
+          <address>
+            <address-1>14, rue Royale</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/44        20220101AFI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/34        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K  31/198       20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61K  31/11        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>A61P  31/00        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>A61Q   1/00        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Syst&#xE8;me conservateur et composition associ&#xE9;e
+    La pr&#xE9;sente invention concerne l&#x2019;utilisation cosm&#xE9;tique, comme syst&#xE8;me conservateur, d&#x2019;une association d&#x2019;au moins un d&#xE9;riv&#xE9; &#xE0; cha&#xEE;ne grasse de diglutamide lysine ou compos&#xE9; (i), tel que le dilauramidoglutamide lysine de sodium, et d&#x2019;au moins (ii) une (C1-C6)(alkyl)vanilline. 
+    Elle se rapporte &#xE9;galement &#xE0; une composition, de pr&#xE9;f&#xE9;rence une composition cosm&#xE9;tique d&#xE9;maquillante et/ou nettoyante des mati&#xE8;res k&#xE9;ratiniques, comprenant une phase aqueuse comprenant ladite association de compos&#xE9;s i et ii, et &#xE9;ventuellement au moins un polyol sp&#xE9;cifique. 
+    Figure pour l'abr&#xE9;g&#xE9; : n&#xE9;ant
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2014/301964 A1 (CICCOGNANI DIANA [US]
+ET AL) 9 octobre 2014 (2014-10-09)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014301964-A1</doc-number>
+            <date>20141009</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 1 994 928 A1 (TSUCHIDA YUUZOU [JP])
+26 novembre 2008 (2008-11-26)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-1994928-A1</doc-number>
+            <date>20081126</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 117 831 A1 (OREAL [FR])
+24 juin 2022 (2022-06-24)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3117831-A1</doc-number>
+            <date>20220624</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+5 novembre 2020 (2020-11-05),
+anonymous: "Firming Mist Toner",
+XP093027693,
+Database accession no. 8240127</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+30 octobre 2019 (2019-10-30),
+anonymous: "Perfect Radical Care Mist
+Essence Gold",
+XP093027744,
+Database accession no. 6998187</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>ANAND ABHINAV ET AL:  "VANILLIN: A
+COMPREHENSIVE REVIEW OF PHARMACOLOGICAL
+ACTIVITIES Formulation Development for the
+Ayurvedic drugs and formulations View
+project Advances in Neuropharmacology
+Drugs and Therapeutics View project",
+PLANT ARCHIVES,
+vol. 19, no. 2,
+7 octobre 2019 (2019-10-07), pages
+1000-1004, XP093028102,
+ISSN: 0972-5210</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>FAYEULLE ANTOINE ET AL:  "Antimicrobial
+and antioxidant activities of amines
+derived from vanillin as potential
+preservatives: Impact of the substituent
+chain length and polarity",
+SUSTAINABLE CHEMISTRY AND PHARMACY,
+vol. 22, 1 septembre 2021 (2021-09-01),
+page 100471, XP093028146,
+ISSN: 2352-5541, DOI:
+10.1016/j.scp.2021.100471</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230510</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

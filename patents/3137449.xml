@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144967" date-produced="20240105" kind="A1" doc-number="3137449" country="FR" id="2206651" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137449</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144967">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206651</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206651</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Syst&#xE8;me de mesure d&#x2019;une densit&#xE9; de flux thermique convectif</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE - CNRS -</orgname>
+            <iid>180089013</iid>
+            <address>
+              <address-1>3, rue Michel Ange</address-1>
+              <city>PARIS</city>
+              <postcode>75016</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>ELECTRICITE DE FRANCE</orgname>
+            <iid>552081317</iid>
+            <address>
+              <address-1>22-30 avenue de Wagram</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <orgname>INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON</orgname>
+            <iid>196901920</iid>
+            <address>
+              <address-1>20 avenue Albert Einstein</address-1>
+              <city>VILLEURBANNE</city>
+              <postcode>69100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <orgname>UNIVERSITE CLAUDE BERNARD LYON 1</orgname>
+            <iid>196917744</iid>
+            <address>
+              <address-1>43 Boulevard du 11 novembre 1918</address-1>
+              <city>VILLEURBANNE</city>
+              <postcode>69100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>AMIOT</last-name>
+            <first-name>Baptiste</first-name>
+            <address>
+              <address-1/>
+              <city>AVON</city>
+              <postcode>77210</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LE-BERRE</last-name>
+            <first-name>R&#xE9;mi</first-name>
+            <address>
+              <address-1/>
+              <city>MORET-LOING-ET-ORVANNE</city>
+              <postcode>77250</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>Giroux-Julien</last-name>
+            <first-name>St&#xE9;phanie</first-name>
+            <address>
+              <address-1/>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>Pabiou</last-name>
+            <first-name>Herv&#xE9;</first-name>
+            <address>
+              <address-1/>
+              <city>ONCIEU</city>
+              <postcode>01230</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Plasseraud IP</orgname>
+            <address>
+              <address-1>66 rue de la Chauss&#xE9;e d'Antin</address-1>
+              <city>PARIS CEDEX 09</city>
+              <postcode>75440</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE - CNRS -</orgname>
+          <iid>180089013</iid>
+          <address>
+            <address-1>3, rue Michel Ange</address-1>
+            <city>PARIS</city>
+            <postcode>75016</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>ELECTRICITE DE FRANCE</orgname>
+          <iid>552081317</iid>
+          <address>
+            <address-1>22-30 avenue de Wagram</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="3">
+        <addressbook lang="fr">
+          <orgname>INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON</orgname>
+          <iid>196901920</iid>
+          <address>
+            <address-1>20 avenue Albert Einstein</address-1>
+            <city>VILLEURBANNE</city>
+            <postcode>69100</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="4">
+        <addressbook lang="fr">
+          <orgname>UNIVERSITE CLAUDE BERNARD LYON 1</orgname>
+          <iid>196917744</iid>
+          <address>
+            <address-1>43 Boulevard du 11 novembre 1918</address-1>
+            <city>VILLEURBANNE</city>
+            <postcode>69100</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G01K  17/20        20220101AFI20220913BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Des exemples pr&#xE9;sentent un syst&#xE8;me de mesure d&#x2019;une densit&#xE9; de flux thermique convectif, comprenant un module photovolta&#xEF;que comprenant une face avant comprenant plusieurs ensembles de cellules photovolta&#xEF;ques fractionn&#xE9;es s&#xE9;par&#xE9;es par au moins une barre collectrice de courant et un proc&#xE9;d&#xE9; de d&#xE9;termination d&#x2019;une densit&#xE9; de flux thermique convectif d&#x2019;une face avant d&#x2019;un module photovolta&#xEF;que.
+    [Fig. 1].
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 2 942 037 A1 (PEUGEOT CITROEN
+AUTOMOBILES SA [FR])
+13 ao&#xFB;t 2010 (2010-08-13)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2942037-A1</doc-number>
+            <date>20100813</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230522</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

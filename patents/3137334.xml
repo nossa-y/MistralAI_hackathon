@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145065" date-produced="20240105" kind="A1" doc-number="3137334" country="FR" id="2206764" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137334</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145065">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206764</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206764</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">SYSTEME DE CHARGE A PLUSIEURS INTERFACES POUR UN VEHICULE ELECTRIFIE ET PROCEDE DE SURVEILLANCE DUDIT SYSTEME</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>PSA AUTOMOBILES SA</orgname>
+            <iid>542065479</iid>
+            <address>
+              <address-1>2-10 Boulevard de l'Europe</address-1>
+              <city>Poissy</city>
+              <postcode>78300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>VANNESTE</last-name>
+            <first-name>PASCAL</first-name>
+            <address>
+              <address-1/>
+              <city>CLAMART</city>
+              <postcode>92140</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>GOHIER</last-name>
+            <first-name>GAEL</first-name>
+            <address>
+              <address-1/>
+              <city>GIF SUR YVETTE</city>
+              <postcode>91190</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>BOURIAUD</last-name>
+            <first-name>DAVID</first-name>
+            <address>
+              <address-1/>
+              <city>CHAVILLE</city>
+              <postcode>92370</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>HARLAY</last-name>
+            <first-name>NICOLAS</first-name>
+            <address>
+              <address-1/>
+              <city>LE PLESSIS PATE</city>
+              <postcode>91220</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>BRUCAMP</last-name>
+            <first-name>GABRIEL</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT CYR L ECOLE</city>
+              <postcode>78210</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STELLANTIS AUTO SAS</orgname>
+          <iid>542065479</iid>
+          <address>
+            <address-1>2-10 boulevard de l'Europe</address-1>
+            <city>POISSY</city>
+            <postcode>78300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60L  53/00        20220101AFI20220912BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention a pour objet un syst&#xE8;me de charge (2) d&#x2019;une batterie de traction (3) d&#x2019;un v&#xE9;hicule &#xE9;lectrifi&#xE9; (1) comprenant au moins une premi&#xE8;re interface de recharge (4) et une deuxi&#xE8;me interface de recharge (5), chacune des interfaces (4,5) &#xE9;tant apte &#xE0; recevoir de l&#x2019;&#xE9;nergie provenant d&#x2019;une source &#xE9;lectrique externe au v&#xE9;hicule (1), un chargeur (7) de la batterie de traction (3) reli&#xE9; &#xE9;lectriquement auxdites premi&#xE8;re et deuxi&#xE8;me interfaces (4, 5), un moyen de d&#xE9;tection (11) d&#x2019;une premi&#xE8;re tension (CP1) et d&#x2019;une deuxi&#xE8;me tension (CP2) associ&#xE9;es auxdites premi&#xE8;re et deuxi&#xE8;me interfaces (4,5) respectivement. Selon l&#x2019;invention, le syst&#xE8;me (2) comporte en outre un moyen de surveillance (14) d&#xE9;pendant de la d&#xE9;tection de la premi&#xE8;re et la deuxi&#xE8;me tension (CP1, CP2) configur&#xE9; pour signaler une alerte en cas de d&#xE9;tection de la pr&#xE9;sence de la premi&#xE8;re et de la deuxi&#xE8;me tension (CP1, CP2) simultan&#xE9;ment.
+    Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2019/106007 A1 (SPESSER DANIEL [DE])
+11 avril 2019 (2019-04-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2019106007-A1</doc-number>
+            <date>20190411</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 2 867 975 B1 (BYD CO LTD [CN])
+15 avril 2020 (2020-04-15)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-2867975-B1</doc-number>
+            <date>20200415</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230621</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

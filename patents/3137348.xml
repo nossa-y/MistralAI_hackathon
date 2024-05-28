@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145003" date-produced="20240105" kind="A1" doc-number="3137348" country="FR" id="2206693" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137348</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145003">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206693</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206693</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Syst&#xE8;me de nettoyage d&#x2019;une surface optique</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Valeo Syst&#xE8;mes d&#x2019;Essuyage</orgname>
+            <address>
+              <address-1>8 Rue Louis Lormand CS 90581 La Verri&#xE8;re</address-1>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78322</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>BAUDOUIN</last-name>
+            <first-name>Maxime</first-name>
+            <address>
+              <address-1/>
+              <city>ISSOIRE</city>
+              <postcode>63500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>TERRASSE</last-name>
+            <first-name>William</first-name>
+            <address>
+              <address-1/>
+              <city>ISSOIRE</city>
+              <postcode>63500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>BRETAGNOL</last-name>
+            <first-name>Fr&#xE9;d&#xE9;ric</first-name>
+            <address>
+              <address-1/>
+              <city>ISSOIRE</city>
+              <postcode>63500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Valeo Syst&#xE8;mes d&#x2019;Essuyage</orgname>
+          <address>
+            <address-1>8 Rue Louis Lormand CS 90581 La Verri&#xE8;re</address-1>
+            <city>LE MESNIL SAINT DENIS</city>
+            <postcode>78322</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60S   1/56        20220101AFI20221107BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B60S   1/46        20220101ALI20221107BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B60S   1/54        20220101ALI20221107BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Syst&#xE8;me de nettoyage d&#x2019;une surface optique
+    La pr&#xE9;sente invention concerne un syst&#xE8;me de nettoyage (4) d&#x2019;une surface optique (8) d&#x2019;un capteur (2), comprenant un dispositif de soufflage (24) d&#x2019;un flux d&#x2019;air comprenant au moins une bouche de sortie (38) du flux d&#x2019;air configur&#xE9;e pour projeter le flux d&#x2019;air en direction de la surface optique (8) du capteur (2), et un dispositif de nettoyage par projection de liquide (26), comprenant au moins une buse de projection (62) de liquide, configur&#xE9;e pour projeter un jet de liquide sur la surface optique (8) du capteur (2), le dispositif de nettoyage par soufflage (24) &#xE9;tant configur&#xE9; pour que le flux d&#x2019;air en sortie de la bouche de sortie (38) forme une barri&#xE8;re protectrice du jet de liquide projet&#xE9; par l&#x2019;au moins une buse de projection du dispositif de nettoyage par projection de liquide (26).
+    (figure 1)
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2019/314865 A1 (SEVAK MANAN [US] ET AL)
+17 octobre 2019 (2019-10-17)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2019314865-A1</doc-number>
+            <date>20191017</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2019/337489 A1 (BALDOVINO SEGUNDO [US]
+ET AL) 7 novembre 2019 (2019-11-07)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2019337489-A1</doc-number>
+            <date>20191107</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2018/361997 A1 (SCHMIDT DAVID [US] ET
+AL) 20 d&#xE9;cembre 2018 (2018-12-20)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2018361997-A1</doc-number>
+            <date>20181220</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2020 116432 A1 (FORD GLOBAL TECH LLC
+[US]; VALEO NORTH AMERICA INC [US])
+24 d&#xE9;cembre 2020 (2020-12-24)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102020116432-A1</doc-number>
+            <date>20201224</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

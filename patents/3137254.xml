@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145089" date-produced="20240105" kind="A1" doc-number="3137254" country="FR" id="2206794" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137254</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145089">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206794</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206794</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">outil de cueillette de fruits en hauteur dans un arbre</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>TRUDELLE</last-name>
+            <first-name>CLAUDE</first-name>
+            <address>
+              <address-1>13 Avenue Alphonse de Neuville</address-1>
+              <city>GARCHES</city>
+              <postcode>92380</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>TRUDELLE</last-name>
+            <first-name>CLAUDE</first-name>
+            <address>
+              <address-1/>
+              <city>GARCHES</city>
+              <postcode>92380</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Reza &amp; Associates</orgname>
+            <address>
+              <address-1>66 AV DES CHAMPS ELYSEES</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <last-name>TRUDELLE</last-name>
+          <first-name>CLAUDE</first-name>
+          <address>
+            <address-1>13 Avenue Alphonse de Neuville</address-1>
+            <city>GARCHES</city>
+            <postcode>92380</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A01D  46/24        20220101AFI20220912BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un outil de cueillette (1) qui comporte un outil de coupe (121), un outil de pr&#xE9;hension (122) et un outil de recueil situ&#xE9; &#xE0; l&#x2019;aplomb de l&#x2019;outil de coupe (121). L&#x2019;outil de coupe (121) et l&#x2019;outil de pr&#xE9;hension (122) sont actionn&#xE9;s au travers d&#x2019;une commande unique et d&#x2019;un m&#xEA;me m&#xE9;canisme d&#x2019;actionnement qui permet de piloter une ouverture angulaire et un angle de coupe (A2) de l&#x2019;outil de pr&#xE9;hension (122) et de l&#x2019;outil de coupe (121), de sorte &#xE0; autoriser, au travers d&#x2019;une seule commande, de saisir d&#x2019;abord le fruit &#xE0; couper avant d&#x2019;en couper son p&#xE9;doncule et, ensuite de le rel&#xE2;cher et le laisser tomber dans l&#x2019;outil de recueil. Ainsi, l&#x2019;invention permet de faciliter la cueillette des fruits en hauteur dans un arbre, sans les abimer.
+    Figure &#xE0; publier avec l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 1 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>CN 109 005 908 A (UNIV ZHAOQING; UNIV
+NINGDE NORMAL)
+18 d&#xE9;cembre 2018 (2018-12-18)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-109005908-A</doc-number>
+            <date>20181218</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 109 197 152 B (UNIV CHANGZHOU)
+23 mars 2021 (2021-03-23)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-109197152-B</doc-number>
+            <date>20210323</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 109 937 698 A (CHANGAN UNIV)
+28 juin 2019 (2019-06-28)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-109937698-A</doc-number>
+            <date>20190628</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 211 047 876 U (DAMING MINGDA
+AGRICULTURAL DEV CO LTD)
+21 juillet 2020 (2020-07-21)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-211047876-U</doc-number>
+            <date>20200721</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 1 801 675 A (MAGUIRE FLOYD E)
+21 avril 1931 (1931-04-21)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-1801675-A</doc-number>
+            <date>19310421</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 108 718 699 A (UNIV HUNAN ARTS &amp;
+SCIENCE) 2 novembre 2018 (2018-11-02)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-108718699-A</doc-number>
+            <date>20181102</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/088560 A1 (ZHANG GUANGBIN [CN];
+ZHANG WANFU [CN]) 5 mai 2022 (2022-05-05)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022088560-A1</doc-number>
+            <date>20220505</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230605</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

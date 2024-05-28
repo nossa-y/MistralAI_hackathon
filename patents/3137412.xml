@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145022" date-produced="20240105" kind="A1" doc-number="3137412" country="FR" id="2206716" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137412</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145022">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206716</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206716</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">SYST&#xC8;ME DE VERROUILLAGE D'AUBES D'UN MODULE DE SOUFFLANTE PAR DOUBLE NOIX DE SERRAGE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SAFRAN AIRCRAFT ENGINES</orgname>
+            <iid>414815217</iid>
+            <address>
+              <address-1>2 Boulevard du G&#xE9;n&#xE9;ral Martial Valin</address-1>
+              <city>Paris</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>SOUVETON</last-name>
+            <first-name>Ulrick</first-name>
+            <address>
+              <address-1/>
+              <city>Moissy-Cramayel</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>DELAHAYE</last-name>
+            <first-name>Thomas Nolwenn Emmanuel</first-name>
+            <address>
+              <address-1/>
+              <city>Moissy-Cramayel</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>DESCHAMPS</last-name>
+            <first-name>Franck Andr&#xE9; Ren&#xE9;</first-name>
+            <address>
+              <address-1/>
+              <city>Moissy-Cramayel</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>DOUSSEAUD</last-name>
+            <first-name>Sylvain Eric</first-name>
+            <address>
+              <address-1/>
+              <city>Moissy-Cramayel</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>GAILLOT</last-name>
+            <first-name>Mathieu Marc Christian</first-name>
+            <address>
+              <address-1/>
+              <city>Moissy-Cramayel</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="6">
+          <addressbook lang="fr">
+            <last-name>LAGARDE</last-name>
+            <first-name>Romain Nicolas</first-name>
+            <address>
+              <address-1/>
+              <city>Moissy-Cramayel</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Cabinet S&#xE9;bastien MARCONNET</orgname>
+            <address>
+              <address-1>Batiment A 1Quinquies rue Basse de la Terrasse</address-1>
+              <city>MEUDON</city>
+              <postcode>92190</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SAFRAN AIRCRAFT ENGINES</orgname>
+          <iid>414815217</iid>
+          <address>
+            <address-1>2 Boulevard du G&#xE9;n&#xE9;ral Martial Valin</address-1>
+            <city>Paris</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F01D   5/32        20220101AFI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F01D  25/28        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>F02K   3/02        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention porte sur un module (10) pour un banc d&#x2019;essai de turbomachine d&#x2019;a&#xE9;ronef comportant:
+    - un moyeu (11) comprenant deux &#xE9;l&#xE9;ments annulaires (13.1, 13.2) coaxiaux,
+    - au moins une aube (12),
+    - ledit module (10) comportant un syst&#xE8;me de verrouillage (21) en position de l'aube (12) comprenant:
+    - une bride de pivot (24) destin&#xE9;e &#xE0; venir en appui contre une face d'extr&#xE9;mit&#xE9; du pied d'aube (19),
+    - au moins deux organes de fixation (30) bloqu&#xE9;s en translation chacun &#xE0; l'int&#xE9;rieur d'une ouverture traversante (31) r&#xE9;alis&#xE9;e dans le moyeu (11),
+    - chaque organe de fixation (30) coop&#xE9;rant avec une noix de serrage (41) correspondante li&#xE9;e en rotation avec la bride de pivot (24), de sorte qu'un serrage des organes de fixation (30) assure un serrage du pied d'aube (19) contre le moyeu (11) pour immobiliser l'aube (12) dans une position angulaire souhait&#xE9;e.
+    Figure 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 3 111 161 A1 (SAFRAN AIRCRAFT ENGINES
+[FR]) 10 d&#xE9;cembre 2021 (2021-12-10)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3111161-A1</doc-number>
+            <date>20211210</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 107 319 A1 (SAFRAN AIRCRAFT ENGINES
+[FR]) 20 ao&#xFB;t 2021 (2021-08-20)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3107319-A1</doc-number>
+            <date>20210820</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 069 013 A1 (SAFRAN AIRCRAFT ENGINES
+[FR]) 18 janvier 2019 (2019-01-18)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3069013-A1</doc-number>
+            <date>20190118</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230621</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

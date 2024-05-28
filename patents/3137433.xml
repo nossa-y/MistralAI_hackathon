@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144878" date-produced="20240105" kind="A1" doc-number="3137433" country="FR" id="2206540" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137433</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144878">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206540</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206540</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">R&#xE9;servoirs composites &#xE0; coque tress&#xE9;e et proc&#xE9;d&#xE9;s de fabrication correspondants</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MATTE&#xCF;</last-name>
+            <first-name>Jean-Pierre</first-name>
+            <address>
+              <address-1>11bis rue Chevalier</address-1>
+              <city>LA VARENNE-SAINT-HILAIRE</city>
+              <postcode>94210</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>NIMROD COMPOSITES</orgname>
+            <iid>341291607</iid>
+            <address>
+              <address-1>23 rue du 8 mai 1945</address-1>
+              <city>BOISSY-SAINT-LEGER</city>
+              <postcode>94470</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MATTE&#xCF;</last-name>
+            <first-name>Jean-Pierre</first-name>
+            <address>
+              <address-1/>
+              <city>LA VARENNE-SAINT-HILAIRE</city>
+              <postcode>94210</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>IPAZ</orgname>
+            <address>
+              <address-1>16 rue Gaillon</address-1>
+              <city>Paris</city>
+              <postcode>75002</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <last-name>MATTE&#xCF;</last-name>
+          <first-name>Jean-Pierre</first-name>
+          <address>
+            <address-1>11bis rue Chevalier</address-1>
+            <city>LA VARENNE-SAINT-HILAIRE</city>
+            <postcode>94210</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>NIMROD COMPOSITES</orgname>
+          <iid>341291607</iid>
+          <address>
+            <address-1>23 rue du 8 mai 1945</address-1>
+            <city>BOISSY-SAINT-LEGER</city>
+            <postcode>94470</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F17C   1/02        20220101AFI20221007BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>D04C   1/06        20220101ALI20221007BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B29C  70/24        20220101ALI20221007BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>B60K  15/03        20220101ALI20221010BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    R&#xE9;servoir&#xA0;(1) composite h&#xE9;t&#xE9;romorphe comprenant un corps qui d&#xE9;limite une cavit&#xE9;&#xA0;(5) destin&#xE9;e &#xE0; contenir un fluide tel que de l&#x2019;hydrog&#xE8;ne, le corps comprenant une chemise&#xA0;(2) &#xE9;tanche au fluide et une coque&#xA0;(3) tress&#xE9;e &#xE0; entrelacement de plis, le r&#xE9;servoir&#xA0;(1) &#xE9;tant &#xE9;quip&#xE9; d&#x2019;un ou plusieurs renforts&#xA0;(4) traversant la cavit&#xE9;&#xA0;(5) de mani&#xE8;re &#xE0; am&#xE9;liorer la r&#xE9;sistance m&#xE9;canique du corps du r&#xE9;servoir&#xA0;(1). Proc&#xE9;d&#xE9; de fabrication correspondant.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 2 888 915 A1 (DJP SARL [FR])
+26 janvier 2007 (2007-01-26)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2888915-A1</doc-number>
+            <date>20070126</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2020/072415 A1 (KAMIYA RYUTA [JP] ET
+AL) 5 mars 2020 (2020-03-05)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2020072415-A1</doc-number>
+            <date>20200305</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2021/262616 A1 (KAMIYA RYUTA [JP] ET
+AL) 26 ao&#xFB;t 2021 (2021-08-26)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021262616-A1</doc-number>
+            <date>20210826</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2020 124545 A1 (BAYERISCHE MOTOREN
+WERKE AG [DE]) 24 mars 2022 (2022-03-24)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102020124545-A1</doc-number>
+            <date>20220324</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2018 106925 A1 (REHAU AG &amp; CO [DE])
+27 juin 2019 (2019-06-27)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102018106925-A1</doc-number>
+            <date>20190627</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 197 49 950 C2 (MANNESMANN AG [DE])
+25 novembre 1999 (1999-11-25)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-19749950-C2</doc-number>
+            <date>19991125</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230628</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

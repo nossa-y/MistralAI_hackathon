@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144922" date-produced="20240105" kind="A1" doc-number="3137430" country="FR" id="2206591" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137430</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144922">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206591</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206591</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif de v&#xE9;rification du fonctionnement d&#x2019;une &#xE9;lectrovanne sol&#xE9;no&#xEF;de</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Valeo Syst&#xE8;mes d&#x2019;Essuyage</orgname>
+            <address>
+              <address-1>8 Rue Louis Lormand CS 90581 La Verri&#xE8;re</address-1>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78322</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>BENKIRANE</last-name>
+            <first-name>Amine</first-name>
+            <address>
+              <address-1/>
+              <city>Issoire</city>
+              <postcode>63500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>THEBAULT</last-name>
+            <first-name>Denis</first-name>
+            <address>
+              <address-1/>
+              <city>Issoire</city>
+              <postcode>63500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Valeo Syst&#xE8;mes d&#x2019;Essuyage</orgname>
+          <address>
+            <address-1>8 Rue Louis Lormand CS 90581 La Verri&#xE8;re</address-1>
+            <city>LE MESNIL SAINT DENIS</city>
+            <postcode>78322</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F16K  37/00        20220101AFI20220830BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G01D   5/251       20220101ALI20220830BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+        L&#x2019;invention concerne une &#xE9;lectrovanne &#xE0; sol&#xE9;no&#xEF;de (2) comprenant un plongeur m&#xE9;tallique (14) mobile en translation dans un cylindre (22) entre deux positions extr&#xEA;mes dans lesquelles le plongeur m&#xE9;tallique (14) est en but&#xE9;e contre une premi&#xE8;re extr&#xE9;mit&#xE9; (30) ou une seconde extr&#xE9;mit&#xE9; (32) du cylindre (22), les positions extr&#xEA;mes du plongeur m&#xE9;tallique (14) correspondant &#xE0; un &#xE9;tat d&#x2019;ouverture complet et de fermeture complet de l&#x2019;&#xE9;lectrovanne &#xE0; sol&#xE9;no&#xEF;de (2), l&#x2019;&#xE9;lectrovanne &#xE0; sol&#xE9;no&#xEF;de (2) comprenant un dispositif de d&#xE9;tection de la position du plongeur (14) dans le cylindre (22), le dispositif de d&#xE9;tection  de la position du plongeur m&#xE9;tallique (14) dans le cylindre comprenant au moins une paire d&#x2019;&#xE9;lectrodes (38, 40, 42, 44) dispos&#xE9;e dans le cylindre (22) de sorte &#xE0; &#xEA;tre en contact avec le plongeur m&#xE9;tallique (14) lorsque ce dernier occupe une position sp&#xE9;cifique dans le cylindre (22), le dispositif de d&#xE9;tection de la position du plongeur dans le cylindre (22) comprenant un organe de d&#xE9;tection d&#x2019;un signal &#xE9;lectrique issu du contact entre le plongeur m&#xE9;tallique (14) et la au moins une paire d&#x2019;&#xE9;lectrodes (38, 40, 42, 44).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: figure 1 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 4 341 241 A (BAKER JOSEPH W)
+27 juillet 1982 (1982-07-27)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4341241-A</doc-number>
+            <date>19820727</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2005/115233 A1 (CHRISTOPHER HUGH H
+[GB]) 2 juin 2005 (2005-06-02)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2005115233-A1</doc-number>
+            <date>20050602</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

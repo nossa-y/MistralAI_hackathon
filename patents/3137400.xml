@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145079" date-produced="20240105" kind="A1" doc-number="3137400" country="FR" id="2206781" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137400</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145079">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206781</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206781</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">BAIE COULISSANTE SECURISEE PAR UN DISPOSITIF DE BLOCAGE DES PANNEAUX MOBILES</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>SANISIDRO</last-name>
+            <first-name>Julien</first-name>
+            <address>
+              <address-1>10 Clos de Poumarol</address-1>
+              <city>AUREVILLE</city>
+              <postcode>31320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>SANISIDRO</last-name>
+            <first-name>Julien</first-name>
+            <address>
+              <address-1/>
+              <city>AUREVILLE</city>
+              <postcode>31320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ADAMANTE</orgname>
+            <address>
+              <address-1>12 rue du Soleil d'Or</address-1>
+              <city>TOULOUSE</city>
+              <postcode>31200</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <last-name>SANISIDRO</last-name>
+          <first-name>Julien</first-name>
+          <address>
+            <address-1>10 Clos de Poumarol</address-1>
+            <city>AUREVILLE</city>
+            <postcode>31320</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>E05C   7/02        20220101AFI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>E05B  65/08        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>E05C  17/60        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>E05C  19/00        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>E05B  63/00        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Baie s&#xE9;curis&#xE9;e comprenant au moins deux panneaux coulissants, munie d'un dispositif de blocage desdits panneaux relativement l'un &#xE0; l'autre, qui comprend :
+    - un support (1) en &#xE9;trier comportant une base (11) et deux branches (13a, 13b) parall&#xE8;les, dot&#xE9; de moyens de fixation &#xE0; un montant (111) d'un premier panneau (101), les branches (13a, 13b) &#xE9;tant perc&#xE9;es chacune d'un trou (14a, 14b) en vis-&#xE0;-vis, et
+    - une tige filet&#xE9;e (15) mont&#xE9;e dans lesdits trous, dont une extr&#xE9;mit&#xE9; est munie d'une poign&#xE9;e (16) de vissage et l'autre extr&#xE9;mit&#xE9; d'un patin (17) d'appui,
+    les moyens de fixations du support (1) audit montant du premier panneau (101) &#xE9;tant configur&#xE9;s de sorte que les branches (13a, 13b) sont parall&#xE8;les au plan dudit panneau, et que le patin (17) est apte &#xE0; prendre appui contre un second panneau (102) par vissage de la tige filet&#xE9;e (15).
+    FIGURE 1 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>CN 111 173 387 A (CHONGQING ZHIRE SCI &amp;
+TECH DEV CO LTD) 19 mai 2020 (2020-05-19)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-111173387-A</doc-number>
+            <date>20200519</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 1 942 219 A (SAMUEL SEGAL)
+2 janvier 1934 (1934-01-02)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-1942219-A</doc-number>
+            <date>19340102</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>KR 200 200 435 Y1 (SONG KI SUK [KR])
+16 octobre 2000 (2000-10-16)</text>
+          <document-id>
+            <country>KR</country>
+            <doc-number>KR-200200435-Y1</doc-number>
+            <date>20001016</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 452 776 A (WALLACE W. DOTY)
+26 mai 1891 (1891-05-26)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-452776-A</doc-number>
+            <date>18910526</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230630</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

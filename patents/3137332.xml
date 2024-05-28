@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144942" date-produced="20240105" kind="A1" doc-number="3137332" country="FR" id="2206622" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137332</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144942">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206622</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206622</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Conduit d&#x2019;air &#xE9;tanche.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>PSA AUTOMOBILES SA</orgname>
+            <iid>542065479</iid>
+            <address>
+              <address-1>2-10 Boulevard de l'Europe</address-1>
+              <city>Poissy</city>
+              <postcode>78300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ROYER</last-name>
+            <first-name>GUILLAUME</first-name>
+            <address>
+              <address-1/>
+              <city>BRUYERES LE CHATEL</city>
+              <postcode>91680</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BOUDAN</last-name>
+            <first-name>JULIEN</first-name>
+            <address>
+              <address-1/>
+              <city>DRAVEIL</city>
+              <postcode>91210</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>PERON</last-name>
+            <first-name>RODOLPHE</first-name>
+            <address>
+              <address-1/>
+              <city>HERBLAY</city>
+              <postcode>95220</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>GOURVENNEC</last-name>
+            <first-name>THIBAULT</first-name>
+            <address>
+              <address-1/>
+              <city>DRAVEIL</city>
+              <postcode>91210</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STELLANTIS AUTO SAS</orgname>
+          <iid>542065479</iid>
+          <address>
+            <address-1>2-10 boulevard de l'Europe</address-1>
+            <city>POISSY</city>
+            <postcode>78300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60H   1/24        20220101AFI20220901BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un conduit (1) d&#x2019;air pour un syst&#xE8;me de circulation d&#x2019;air d&#x2019;un v&#xE9;hicule automobile, comportant une demi-coque sup&#xE9;rieure (2) et une demi-coque inf&#xE9;rieure (3) assemblables ensemble pour former le conduit (1), les demi-coques sup&#xE9;rieure (2) et inf&#xE9;rieure (3) pr&#xE9;sentant chacune un contour d&#x2019;assemblage, respectivement sup&#xE9;rieur et inf&#xE9;rieur, chaque contour d&#x2019;assemblage sup&#xE9;rieur et inf&#xE9;rieur comprenant des moyens de clippage pour permettre le clippage des demi-coques sup&#xE9;rieure (2) et inf&#xE9;rieure (3), les contours d&#x2019;assemblage sup&#xE9;rieur et inf&#xE9;rieur &#xE9;tant agenc&#xE9;es pour former une jonction (8) &#xE9;tanche &#xE0; l&#x2019;eau et pour former une goulotte d&#x2019;&#xE9;vacuation (9) d&#x2019;eau, &#xE0; l&#x2019;ext&#xE9;rieur du conduit (1), s&#x2019;&#xE9;tendant le long d&#x2019;au moins une partie de la jonction (8), lorsque les demi-coques sup&#xE9;rieure (2) et inf&#xE9;rieure (3) sont assembl&#xE9;es.
+    (Figure 1)
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2020/103136 A1 (YOSHIMURA MITSUHIRO
+[JP] ET AL) 2 avril 2020 (2020-04-02)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2020103136-A1</doc-number>
+            <date>20200402</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 101 456 354 A (DAQI IND CO LTD [KR])
+17 juin 2009 (2009-06-17)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-101456354-A</doc-number>
+            <date>20090617</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 1 826 042 A1 (BEHR GMBH &amp; CO KG [DE])
+29 ao&#xFB;t 2007 (2007-08-29)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-1826042-A1</doc-number>
+            <date>20070829</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

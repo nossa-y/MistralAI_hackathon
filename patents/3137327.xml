@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145071" date-produced="20240105" kind="A1" doc-number="3137327" country="FR" id="2206772" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137327</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145071">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206772</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206772</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">CALE POUR UNE TRAVERSE DE TRAIN ARRI&#xC8;RE DE V&#xC9;HICULE, &#xC0; POSITION VARIABLE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>PSA AUTOMOBILES SA</orgname>
+            <iid>542065479</iid>
+            <address>
+              <address-1>2-10 Boulevard de l'Europe</address-1>
+              <city>Poissy</city>
+              <postcode>78300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ROUSSEAU</last-name>
+            <first-name>XAVIER</first-name>
+            <address>
+              <address-1/>
+              <city>BRETIGNY SUR ORGE</city>
+              <postcode>91220</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>TIXIER</last-name>
+            <first-name>JULIEN</first-name>
+            <address>
+              <address-1/>
+              <city>CHEVREUSE</city>
+              <postcode>78460</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>CHOMETTON</last-name>
+            <first-name>STEPHANE</first-name>
+            <address>
+              <address-1/>
+              <city>HOUILLES</city>
+              <postcode>78800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STELLANTIS AUTO SAS</orgname>
+          <iid>542065479</iid>
+          <address>
+            <address-1>2-10 boulevard de l'Europe</address-1>
+            <city>POISSY</city>
+            <postcode>78300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B60B  35/02        20220101AFI20221017BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B60G  21/05        20220101ALI20221017BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B62D  65/12        20220101ALI20221017BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Une cale (CP) est solidaris&#xE9;e fixement &#xE0; une extr&#xE9;mit&#xE9; (ET) d&#x2019;une traverse (TT) d&#x2019;un train arri&#xE8;re (TR), devant &#xEA;tre coupl&#xE9; &#xE0; une structure d&#x2019;un v&#xE9;hicule. Cette cale (CP) comporte une paroi (PC) se refermant sur elle-m&#xEA;me en d&#xE9;limitant un passage (PP) logeant un dispositif d&#x2019;amortissement et de fixation (DAF) propre &#xE0; &#xEA;tre solidaris&#xE9; fixement &#xE0; la structure, et ayant une forme oblongue afin de permettre une position variable du dispositif d&#x2019;amortissement et de fixation (DAF) dans le passage (PP) pour faire varier la position de couplage de cette extr&#xE9;mit&#xE9; (ET) par rapport &#xE0; la structure.
+    Figure &#xE0; publier avec l&#x2019;abr&#xE9;g&#xE9; : Fig. 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 2 625 710 A1 (PEUGEOT [FR]; CITROEN SA
+[FR]) 13 juillet 1989 (1989-07-13)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2625710-A1</doc-number>
+            <date>19890713</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 217 596 A1 (GEN TIRE &amp; RUBBER CO
+[US]) 6 septembre 1974 (1974-09-06)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2217596-A1</doc-number>
+            <date>19740906</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 935 127 A1 (RENAULT SAS [FR])
+26 f&#xE9;vrier 2010 (2010-02-26)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2935127-A1</doc-number>
+            <date>20100226</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230621</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

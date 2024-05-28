@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145025" date-produced="20240105" kind="A1" doc-number="3137362" country="FR" id="2206719" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137362</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145025">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206719</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206719</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Tricycle pliant pourvu d'un m&#xE9;canisme de pliage &#xE0; biellettes</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SEB S.A.</orgname>
+            <iid>300349636</iid>
+            <address>
+              <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+              <city>ECULLY</city>
+              <postcode>69130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN</orgname>
+            <iid>855200887</iid>
+            <address>
+              <address-1>23 place des Carmes D&#xE9;chaux</address-1>
+              <city>CLERMONT-FERRAND</city>
+              <postcode>63000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>CORLAY</last-name>
+            <first-name>Florent</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>GRIENAY</last-name>
+            <first-name>Arnaud</first-name>
+            <address>
+              <address-1/>
+              <city>ECULLY CEDEX</city>
+              <postcode>69134</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>PELISSE</last-name>
+            <first-name>Matthieu</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT-FERRAND CEDEX 9</city>
+              <postcode>63040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>POTIN</last-name>
+            <first-name>Yves</first-name>
+            <address>
+              <address-1/>
+              <city>CLERMONT FERRAND</city>
+              <postcode>63100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SEB S.A.</orgname>
+          <iid>300349636</iid>
+          <address>
+            <address-1>112 chemin du Moulin Carron Campus SEB</address-1>
+            <city>ECULLY</city>
+            <postcode>69130</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN</orgname>
+          <iid>855200887</iid>
+          <address>
+            <address-1>23 place des Carmes D&#xE9;chaux</address-1>
+            <city>CLERMONT-FERRAND</city>
+            <postcode>63000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B62K   5/06        20220101AFI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B62K  15/00        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un v&#xE9;hicule (1) comprenant un cadre (12), une roue avant (2), des premi&#xE8;re et deuxi&#xE8;mes roue arri&#xE8;re, une fourche (5) supportant la roue avant (2), un support de fourche (6) sur lequel est mont&#xE9;e pivotante la fourche (5) autour d&#x2019;un axe de fourche, un m&#xE9;canisme de pliage (26) configur&#xE9; pour permettre au v&#xE9;hicule (1) d&#x2019;occuper une configuration d&#xE9;pli&#xE9;e dans laquelle la roue avant (2) est &#xE9;loign&#xE9;e des premi&#xE8;re et deuxi&#xE8;me roues arri&#xE8;re et une configuration pli&#xE9;e dans laquelle au moins une partie de la roue avant (2) est positionn&#xE9;e entre les premi&#xE8;re et deuxi&#xE8;me roues arri&#xE8;re, et un m&#xE9;canisme de verrouillage configur&#xE9; pour verrouiller de mani&#xE8;re r&#xE9;versible le v&#xE9;hicule (1) dans la configuration d&#xE9;pli&#xE9;e, le cadre (12) du v&#xE9;hicule (1) comportant en outre une premi&#xE8;re partie d&#x2019;accouplement pr&#xE9;vue sur une partie avant du cadre (12) et le support de fourche (6) comportant une deuxi&#xE8;me partie d&#x2019;accouplement configur&#xE9;e pour coop&#xE9;rer avec la premi&#xE8;re partie d&#x2019;accouplement.
+    Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>CN 106 741 445 A (SUZHOU SUDIE TECH CO
+LTD) 31 mai 2017 (2017-05-31)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-106741445-A</doc-number>
+            <date>20170531</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2019/092366 A1 (DEBRY GARRETT [US] ET
+AL) 28 mars 2019 (2019-03-28)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2019092366-A1</doc-number>
+            <date>20190328</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 202 703 802 U (SUZHOU JIEXIANG ELECTRIC
+VEHICLE CO LTD)
+30 janvier 2013 (2013-01-30)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-202703802-U</doc-number>
+            <date>20130130</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230428</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144864" date-produced="20240105" kind="A1" doc-number="3137322" country="FR" id="2206526" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137322</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144864">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206526</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206526</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; et ensemble de fabrication d&#x2019;une pi&#xE8;ce</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>FAURECIA INTERIEUR INDUSTRIE</orgname>
+            <iid>071502397</iid>
+            <address>
+              <address-1>23-27 Avenue des Champs Pierreux</address-1>
+              <city>NANTERRE</city>
+              <postcode>92000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>PRUVOT</last-name>
+            <first-name>Anthony</first-name>
+            <address>
+              <address-1/>
+              <city>FROCOURT</city>
+              <postcode>60000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Lavoix</orgname>
+            <address>
+              <address-1>2, place d'Estienne d'Orves</address-1>
+              <city>PARIS CEDEX 09</city>
+              <postcode>75441</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>FAURECIA INTERIEUR INDUSTRIE</orgname>
+          <iid>071502397</iid>
+          <address>
+            <address-1>23-27 Avenue des Champs Pierreux</address-1>
+            <city>NANTERRE</city>
+            <postcode>92000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B29C  45/16        20220101AFI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B29C  45/14        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B32B  37/02        20220101ALI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>B60R  13/00        20220101ALN20220905BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Proc&#xE9;d&#xE9; et ensemble de fabrication d&#x2019;une pi&#xE8;ce
+    La pi&#xE8;ce (1) comprend une couche de support (3), une couche de d&#xE9;cor (5) et une partie structurelle (7). Le proc&#xE9;d&#xE9; comprend les &#xE9;tapes suivantes&#xA0;:
+    - introduction dans un moule (9) d&#x2019;une feuille de support (11) portant la couche de d&#xE9;cor (5)&#xA0;;
+    - pincement de la feuille de support (11) contre une premi&#xE8;re partie (13) du moule par un cadre (15)&#xA0;;
+    - fermeture du moule (9), une premi&#xE8;re surface (27) de la premi&#xE8;re partie de moule (13) et une seconde surface (29) d&#x2019;une seconde partie de moule (25) d&#xE9;limitant ensemble une cavit&#xE9; (31);
+    - injection de la couche de support (3) dans la cavit&#xE9; (31) et transfert de la couche de d&#xE9;cor (5);
+    - ouverture du moule (9), la couche de support (3) restant fix&#xE9;e &#xE0; la premi&#xE8;re partie de moule (13) par au moins un organe de blocage (33) mobile mont&#xE9; sur le cadre (15)&#xA0;;
+    - fermeture du moule (9), la premi&#xE8;re surface (27) de la premi&#xE8;re partie de moule (13) et une autre seconde surface (35) d&#x2019;une autre seconde partie de moule (37) d&#xE9;limitant ensemble une autre cavit&#xE9; (39)&#xA0;;
+    - d&#xE9;placement de l&#x2019;au moins un organe de blocage (33) par rapport au cadre (15) &#xE0; une position de lib&#xE9;ration de la couche de support (3)&#xA0;;
+    - injection de la partie structurelle (7) dans l&#x2019;autre cavit&#xE9; (39) et &#xE9;vacuation de la pi&#xE8;ce (1).
+    Figure pour l'abr&#xE9;g&#xE9; : 7
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2010/050101 A1 (NISSHA PRINTING [JP];
+NISHIMURA TAKESHI [JP])
+6 mai 2010 (2010-05-06)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2010050101-A1</doc-number>
+            <date>20100506</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 020 618 A1 (FAURECIA INTERIEUR IND
+[FR]) 6 novembre 2015 (2015-11-06)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3020618-A1</doc-number>
+            <date>20151106</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

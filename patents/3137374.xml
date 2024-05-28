@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144849" date-produced="20240105" kind="A1" doc-number="3137374" country="FR" id="2206507" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137374</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144849">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206507</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206507</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de stockage et d&#x2019;exploitation d&#x2019;un premier gaz et d&#x2019;un deuxi&#xE8;me gaz plus dense que le premier gaz dans un r&#xE9;servoir aquif&#xE8;re ou d&#xE9;pl&#xE9;t&#xE9;</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>STORENGY</orgname>
+            <iid>833718653</iid>
+            <address>
+              <address-1>12 rue Raoul Nordling</address-1>
+              <city>BOIS COLOMBES</city>
+              <postcode>92277</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>EGERMANN</last-name>
+            <first-name>Patrick</first-name>
+            <address>
+              <address-1/>
+              <city>CAHORS</city>
+              <postcode>46000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>RENIER</last-name>
+            <first-name>Christophe</first-name>
+            <address>
+              <address-1/>
+              <city>PARIS</city>
+              <postcode>75009</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>KERMARREC</last-name>
+            <first-name>Emmanuel</first-name>
+            <address>
+              <address-1/>
+              <city>PARIS</city>
+              <postcode>75002</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>PATRIARCHE</last-name>
+            <first-name>Delphine</first-name>
+            <address>
+              <address-1/>
+              <city>CACHAN</city>
+              <postcode>94230</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET BEAU DE LOMENIE</orgname>
+            <address>
+              <address-1>158 RUE DE L'UNIVERSITE</address-1>
+              <city>PARIS CEDEX 07</city>
+              <postcode>75340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STORENGY</orgname>
+          <iid>833718653</iid>
+          <address>
+            <address-1>12 rue Raoul Nordling</address-1>
+            <city>BOIS COLOMBES</city>
+            <postcode>92277</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B65G   5/00        20220101AFI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>E21D   8/00        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Proc&#xE9;d&#xE9; de stockage et d&#x2019;exploitation d&#x2019;un premier gaz et d&#x2019;un deuxi&#xE8;me gaz plus dense que le premier gaz dans un r&#xE9;servoir aquif&#xE8;re  ou  d&#xE9;pl&#xE9;t&#xE9;
+    Proc&#xE9;d&#xE9; de stockage et d&#x2019;exploitation d&#x2019;un premier gaz et d&#x2019;un deuxi&#xE8;me gaz plus dense que le premier gaz dans un r&#xE9;servoir aquif&#xE8;re ou d&#xE9;pl&#xE9;t&#xE9; (100), au moyen d&#x2019;une installation comprenant :
+    - un premier puits (103) d&#xE9;bouchant dans une partie sup&#xE9;rieure (V1) du r&#xE9;servoir et connect&#xE9; &#xE0; un r&#xE9;seau de transport du premier gaz (106),
+    - un deuxi&#xE8;me puits (104, 104&#x2019;) d&#xE9;bouchant sur une partie inf&#xE9;rieure (V2) du r&#xE9;servoir et connect&#xE9; &#xE0; un r&#xE9;seau de transport du deuxi&#xE8;me gaz (107),
+    le proc&#xE9;d&#xE9; comprenant un stockage du premier gaz dans la partie sup&#xE9;rieure du r&#xE9;servoir, un stockage du deuxi&#xE8;me gaz dans la partie inf&#xE9;rieure du r&#xE9;servoir, une exploitation du premier gaz par le premier puits, et une exploitation du deuxi&#xE8;me gaz par le deuxi&#xE8;me puits, l&#x2019;exploitation du premier gaz pouvant &#xEA;tre mise en &#x153;uvre de mani&#xE8;re simultan&#xE9;e et s&#xE9;par&#xE9;e de l&#x2019;exploitation du deuxi&#xE8;me gaz.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 2 168 942 A1 (GAZ DE FRANCE [FR])
+7 septembre 1973 (1973-09-07)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2168942-A1</doc-number>
+            <date>19730907</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 3 175 614 A (WYLLIE MALCOLM R J)
+30 mars 1965 (1965-03-30)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-3175614-A</doc-number>
+            <date>19650330</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 3 393 738 A (BERNARD GEORGE G ET AL)
+23 juillet 1968 (1968-07-23)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-3393738-A</doc-number>
+            <date>19680723</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>SHI ZHUOFAN ET AL:  "Impacts of the
+subsurface storage of natural gas and
+hydrogen mixtures",
+INTERNATIONAL JOURNAL OF HYDROGEN ENERGY,
+ELSEVIER, AMSTERDAM, NL,
+vol. 45, no. 15,
+4 f&#xE9;vrier 2020 (2020-02-04), pages
+8757-8773, XP086076959,
+ISSN: 0360-3199, DOI:
+10.1016/J.IJHYDENE.2020.01.044
+[extrait le 2020-02-04]</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

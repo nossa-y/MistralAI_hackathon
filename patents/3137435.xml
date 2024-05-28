@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144886" date-produced="20240105" kind="A1" doc-number="3137435" country="FR" id="2206548" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137435</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144886">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206548</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206548</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Module lumineux comprenant au moins deux sources lumineuses dont les axes optiques respectifs sont s&#xE9;cants.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO VISION</orgname>
+            <address>
+              <address-1>34 Rue Saint-Andr&#xE9;</address-1>
+              <city>Bobigny Cedex</city>
+              <postcode>93012</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>AVILES PEREZ</last-name>
+            <first-name>Jesus</first-name>
+            <address>
+              <address-1/>
+              <city>Martos</city>
+              <postcode>23600</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>GALLEGO EXTREMERA</last-name>
+            <first-name>Juan Manuel</first-name>
+            <address>
+              <address-1/>
+              <city>Martos</city>
+              <postcode>23600</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>MUSSARD</last-name>
+            <first-name>Laurene Emilienne</first-name>
+            <address>
+              <address-1/>
+              <city>Martos</city>
+              <postcode>23600</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>PACHECO PULIDO</last-name>
+            <first-name>FRANCISCO JOSE</first-name>
+            <address>
+              <address-1/>
+              <city>Martos</city>
+              <postcode>23600</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>VALEO VISION</orgname>
+          <address>
+            <address-1>34 Rue Saint-Andr&#xE9;</address-1>
+            <city>Bobigny Cedex</city>
+            <postcode>93012</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F21S  41/143       20220101AFI20221102BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F21S  41/151       20220101ALI20221102BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>F21W 102/19        20220101ALI20221102BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Titre&#xA0;: Module lumineux comprenant au moins deux sources lumineuses dont les axes optiques respectifs sont s&#xE9;cants.
+    Module lumineux (2) destin&#xE9; &#xE0; &#xEA;tre mont&#xE9; dans un projecteur de v&#xE9;hicule automobile comprenant au moins une premi&#xE8;re source lumineuse (4) apte &#xE0; &#xE9;mettre des rayons lumineux pour former une premi&#xE8;re fonction d&#x2019;&#xE9;clairage &#xE9;mise selon un premier axe optique (40) et une deuxi&#xE8;me source lumineuse (5) apte &#xE0; &#xE9;mettre des rayons lumineux pour former une deuxi&#xE8;me fonction d&#x2019;&#xE9;clairage &#xE9;mise selon un deuxi&#xE8;me axe optique (50), caract&#xE9;ris&#xE9; en ce que, en projection dans un plan horizontal, le premier axe optique (40) et le deuxi&#xE8;me axe optique (50) sont s&#xE9;cants.
+    (Figure 3)
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2021/105058 A1 (VALEO VISION [FR])
+3 juin 2021 (2021-06-03)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2021105058-A1</doc-number>
+            <date>20210603</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 9 534 755 B2 (BLANDIN JONATHAN [FR];
+MORNET ERIC [FR] ET AL.)
+3 janvier 2017 (2017-01-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-9534755-B2</doc-number>
+            <date>20170103</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 5 304363 B2 (ICHIKOH INDUSTRIES LTD)
+2 octobre 2013 (2013-10-02)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-5304363-B2</doc-number>
+            <date>20131002</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

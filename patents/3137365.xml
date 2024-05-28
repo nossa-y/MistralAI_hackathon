@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144860" date-produced="20240105" kind="A3" doc-number="3137365" country="FR" id="2206520" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137365</doc-number>
+          <kind>A3</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Certificat d'utilit&#xE9;</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144860">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206520</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206520</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Syst&#xE8;me d'extraction d'un attelage piston/bielle d'un moteur thermique, notamment d'un plateforme navale</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>NAVAL GROUP</orgname>
+            <iid>441133808</iid>
+            <address>
+              <address-1>40-42 rue du Docteur Finlay</address-1>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>CAILLEAU</last-name>
+            <first-name>Fran&#xE7;ois</first-name>
+            <address>
+              <address-1/>
+              <city>TOULON CEDEX 9</city>
+              <postcode>83041</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>POMMOIS</last-name>
+            <first-name>Jean-Marie</first-name>
+            <address>
+              <address-1/>
+              <city>TOULON CEDEX 9</city>
+              <postcode>83041</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Lavoix</orgname>
+            <address>
+              <address-1>2, place d'Estienne d'Orves</address-1>
+              <city>PARIS CEDEX 09</city>
+              <postcode>75441</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>NAVAL GROUP</orgname>
+          <iid>441133808</iid>
+          <address>
+            <address-1>40-42 rue du Docteur Finlay</address-1>
+            <city>PARIS</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B63B  81/00        20220101AFI20220927BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F02B  77/04        20220101ALI20220927BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    TITRE&#xA0;:  Syst&#xE8;me d&#x2019;extraction d&#x2019;un attelage piston/bielle d&#x2019;un moteur thermique, notamment d&#x2019;une plateforme navale
+    Ce syst&#xE8;me d&#x2019;extraction d&#x2019;un attelage piston/bielle d&#x2019;un moteur thermique, notamment d&#x2019;une plateforme navale, est caract&#xE9;ris&#xE9; en ce qu&#x2019;il comporte un palonnier (2) destin&#xE9; &#xE0; &#xEA;tre fix&#xE9; sur le piston de l&#x2019;attelage et port&#xE9; par une tige d&#x2019;actionnement (3) reli&#xE9;e &#xE0; un support (4) comportant au moins deux branches (5, 6) en appui sur le reste du moteur afin de permettre l&#x2019;extraction de l&#x2019;attelage. 
+    Figure pour l'abr&#xE9;g&#xE9; : Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230509</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

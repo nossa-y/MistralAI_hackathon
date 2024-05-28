@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144853" date-produced="20240105" kind="A1" doc-number="3137282" country="FR" id="2206511" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137282</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144853">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206511</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206511</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Composition comprenant un sel peroxyg&#xE9;n&#xE9;, un hydrocarbure de point de fusion sup&#xE9;rieur &#xE0; 25&#xB0;C et un compos&#xE9; de type aminoacide</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'OREAL</orgname>
+            <iid>632012100</iid>
+            <address>
+              <address-1>14, rue Royale</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>SIMONET</last-name>
+            <first-name>Fr&#xE9;d&#xE9;ric</first-name>
+            <address>
+              <address-1/>
+              <city>CHEVILLY LA RUE</city>
+              <postcode>94152</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LUCET-LEVANNIER</last-name>
+            <first-name>Karine</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>LOUISIUS</last-name>
+            <first-name>B&#xE9;atrice</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>VALLEE -VIRATELLE</last-name>
+            <first-name>GUILLAUME</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-OUEN</city>
+              <postcode>93400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'OREAL</orgname>
+          <iid>632012100</iid>
+          <address>
+            <address-1>14, rue Royale</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/38        20220101AFI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/31        20220101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K   8/44        20220101ALI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61Q   5/10        20220101ALI20220902BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Composition comprenant un sel peroxyg&#xE9;n&#xE9;, un hydrocarbure de point de fusion sup&#xE9;rieur &#xE0; 25&#xB0;C et un compos&#xE9; de type aminoacides.
+    L&#x2019;invention concerne une composition d&#x2019;&#xE9;claircissement des fibres k&#xE9;ratiniques, et en particulier des fibres k&#xE9;ratiniques humaines telles que les cheveux, comprenant un ou plusieurs sels peroxyg&#xE9;n&#xE9;s, un ou plusieurs hydrocarbure(s) de point de fusion sup&#xE9;rieur &#xE0; 25&#xB0;C et un ou plusieurs compos&#xE9;(s) de type aminoacides.
+    L&#x2019;invention concerne &#xE9;galement un proc&#xE9;d&#xE9; d&#x2019;&#xE9;claircissement des fibres k&#xE9;ratiniques, de pr&#xE9;f&#xE9;rence humaines, notamment des cheveux, comprenant l&#x2019;application sur lesdites fibres k&#xE9;ratiniques de la composition.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+15 d&#xE9;cembre 2021 (2021-12-15),
+anonymous: "Bleaching Powder",
+XP093024157,
+Database accession no. 9238550</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+21 juillet 2022 (2022-07-21),
+anonymous: "Bonder Inside 9 Lightening
+Powder",
+XP093024069,
+Database accession no. 9774292</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+11 ao&#xFB;t 2022 (2022-08-11),
+anonymous: "Open Air 7 Pre-Bonded Precise
+Balayage Clay Lightener",
+XP093024071,
+Database accession no. 9817500</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230510</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

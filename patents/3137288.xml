@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144988" date-produced="20240105" kind="A1" doc-number="3137288" country="FR" id="2206675" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137288</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144988">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206675</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206675</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Syst&#xE8;me conservateur et composition associ&#xE9;e</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'OREAL</orgname>
+            <iid>632012100</iid>
+            <address>
+              <address-1>14, rue Royale</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>BOUTELET</last-name>
+            <first-name>Karl</first-name>
+            <address>
+              <address-1/>
+              <city>CHEVILLY LA RUE</city>
+              <postcode>94152</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'OREAL</orgname>
+          <iid>632012100</iid>
+          <address>
+            <address-1>14, rue Royale</address-1>
+            <city>PARIS</city>
+            <postcode>75008</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   8/44        20220101AFI20220914BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   8/55        20220101ALI20220914BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K  31/198       20220101ALI20220914BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61K  31/6615      20220101ALI20220914BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>A61P  31/00        20220101ALI20220914BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>A61Q   1/00        20220101ALI20220916BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Syst&#xE8;me conservateur et composition associ&#xE9;e
+    La pr&#xE9;sente invention concerne l&#x2019;utilisation cosm&#xE9;tique, comme syst&#xE8;me conservateur, d&#x2019;une association d&#x2019;au moins un d&#xE9;riv&#xE9; &#xE0; cha&#xEE;ne grasse de diglutamide lysine ou compos&#xE9; (i), tel que le dilauramidoglutamide lysine de sodium, et d&#x2019;au moins un compos&#xE9; ch&#xE9;latant choisi parmi des d&#xE9;riv&#xE9;s phosphoniques (ii) particuliers, tel que l&#x2019;acide phytique. 
+    Elle se rapporte &#xE9;galement &#xE0; une composition, de pr&#xE9;f&#xE9;rence une composition cosm&#xE9;tique d&#xE9;maquillante et/ou nettoyante des mati&#xE8;res k&#xE9;ratiniques, comprenant une phase aqueuse comprenant ladite association de compos&#xE9;s i et ii, et &#xE9;ventuellement au moins un polyol sp&#xE9;cifique. 
+    Figure pour l'abr&#xE9;g&#xE9; : n&#xE9;ant
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2022/192961 A1 (STEBBINS NICHOLAS DAVID
+[US] ET AL) 23 juin 2022 (2022-06-23)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2022192961-A1</doc-number>
+            <date>20220623</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 117 831 A1 (OREAL [FR])
+24 juin 2022 (2022-06-24)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3117831-A1</doc-number>
+            <date>20220624</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+30 juillet 2021 (2021-07-30),
+anonymous: "GF Scalp Serum",
+XP093026748,
+Database accession no. 8904231</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+4 juin 2021 (2021-06-04),
+anonymous: "Cool Shampoo",
+XP093026768,
+Database accession no. 8765803</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+19 septembre 2017 (2017-09-19),
+anonymous: "Woman's Power Serum",
+XP093026771,
+Database accession no. 5111001</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE GNPD [Online]
+MINTEL;
+14 juin 2016 (2016-06-14),
+anonymous: "Woman's Power Serum",
+XP093026790,
+Database accession no. 4045565</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>DATABASE WPI
+Week 201720
+Thomson Scientific, London, GB;
+AN 2017-147895
+XP002808722,
+-&amp; JP 2017 043594 A (ADVANGEN KK)
+2 mars 2017 (2017-03-02)</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>ANNA HERMAN:  "Antimicrobial Ingredients
+as Preservative Booster and Components of
+Self-Preserving Cosmetic Products",
+CURRENT MICROBIOLOGY,
+vol. 76, no. 6, 12 avril 2018 (2018-04-12)
+, pages 744-754, XP055619588,
+New York
+ISSN: 0343-8651, DOI:
+10.1007/s00284-018-1492-2</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230510</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

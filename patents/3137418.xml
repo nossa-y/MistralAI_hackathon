@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144871" date-produced="20240105" kind="A1" doc-number="3137418" country="FR" id="2206533" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137418</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144871">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206533</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206533</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Ensemble moteur suraliment&#xE9; comprenant des moyens de d&#xE9;tection de la formation de glace dans le refroidisseur d&#x2019;air de suralimentation</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>PSA AUTOMOBILES SA</orgname>
+            <iid>542065479</iid>
+            <address>
+              <address-1>2-10 Boulevard de l'Europe</address-1>
+              <city>Poissy</city>
+              <postcode>78300</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>ACHIR</last-name>
+            <first-name>ALI</first-name>
+            <address>
+              <address-1/>
+              <city>CARRIERES SOUS POISSY</city>
+              <postcode>78955</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>CHASSAGNARD</last-name>
+            <first-name>SYLVAIN</first-name>
+            <address>
+              <address-1/>
+              <city>COURDIMANCHE</city>
+              <postcode>95800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>GABAUD</last-name>
+            <first-name>ALICIA</first-name>
+            <address>
+              <address-1/>
+              <city>SARTROUVILLE</city>
+              <postcode>78500</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STELLANTIS AUTO SAS</orgname>
+          <iid>542065479</iid>
+          <address>
+            <address-1>2-10 boulevard de l'Europe</address-1>
+            <city>POISSY</city>
+            <postcode>78300</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F02M  31/20        20220101AFI20220902BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F28F  17/00        20220101ALI20220902BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un ensemble moteur suraliment&#xE9; comprenant un moteur, une ligne (1) d&#x2019;admission d&#x2019;air reli&#xE9;e &#xE0; ce moteur, un compresseur (4) d&#x2019;air et un refroidisseur (5) de l&#x2019;air issu du compresseur (4), des moyens de d&#xE9;termination de la perte de charge nominale &#xE0; travers le refroidisseur (5), caract&#xE9;ris&#xE9; en ce qu&#x2019;il comprend de plus un r&#xE9;gulateur PID de la pression d&#x2019;air de suralimentation agenc&#xE9; pour recevoir en entr&#xE9;e une consigne de pression d&#x2019;air de suralimentation ainsi qu&#x2019;une mesure de pression d&#x2019;air de suralimentation et pour fournir en sortie une consigne de pression d&#x2019;air de suralimentation corrig&#xE9;e, des moyens de calcul &#xE9;lectronique agenc&#xE9;s pour d&#xE9;tecter un fonctionnement stabilis&#xE9; en pression d&#x2019;air de suralimentation, relever la valeur du terme int&#xE9;gral du r&#xE9;gulateur PID lorsqu&#x2019;un tel fonctionnement en stabilis&#xE9; est d&#xE9;tect&#xE9;, conclure &#xE0; une formation de glace dans le refroidisseur (5) lorsque la valeur du terme int&#xE9;gral est sup&#xE9;rieure &#xE0; un seuil indicatif d&#x2019;une pr&#xE9;sence de glace.
+    Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2018/202349 A1 (KINDL HELMUT [DE] ET
+AL) 19 juillet 2018 (2018-07-19)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2018202349-A1</doc-number>
+            <date>20180719</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 1 365 132 A1 (RENAULT SA [FR])
+26 novembre 2003 (2003-11-26)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-1365132-A1</doc-number>
+            <date>20031126</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2009/110840 A1 (SCANIA CV AB [SE];
+KARDOS ZOLTAN [SE]; SOEDERBERG ERIK [SE])
+11 septembre 2009 (2009-09-11)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2009110840-A1</doc-number>
+            <date>20090911</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2011/102783 A1 (SCANIA CV AB [SE];
+KARDOS ZOLTAN [SE]; SOEDERBERG ERIK [SE])
+25 ao&#xFB;t 2011 (2011-08-25)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2011102783-A1</doc-number>
+            <date>20110825</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

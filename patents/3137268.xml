@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144975" date-produced="20240105" kind="A1" doc-number="3137268" country="FR" id="2206659" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137268</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144975">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206659</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206659</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; d&#x2019;analyse d&#x2019;une sueur pr&#xE9;sente sur une peau d&#x2019;un utilisateur et dispositif d&#x2019;analyse pour mettre en &#x153;uvre un tel proc&#xE9;d&#xE9;</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>BE-LAB</orgname>
+            <iid>818792871</iid>
+            <address>
+              <address-1>70 rue du Docteur Yersin Bio Incubateur Eurasant&#xE9;</address-1>
+              <city>LOOS</city>
+              <postcode>59120</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>PAPIEROK</last-name>
+            <first-name>G&#xE9;rard-Marie</first-name>
+            <address>
+              <address-1/>
+              <city>HYERES</city>
+              <postcode>83400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET MAREK</orgname>
+            <address>
+              <address-1>28 rue de la Loge</address-1>
+              <city>MARSEILLE</city>
+              <postcode>13002</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>BE-LAB</orgname>
+          <iid>818792871</iid>
+          <address>
+            <address-1>70 rue du Docteur Yersin Bio Incubateur Eurasant&#xE9;</address-1>
+            <city>LOOS</city>
+            <postcode>59120</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61B   5/00        20220101AFI20221012BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61B   5/05        20220101ALI20221012BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention concerne un proc&#xE9;d&#xE9; d&#x2019;analyse d&#x2019;une sueur pr&#xE9;sente sur une peau d&#x2019;un utilisateur. Le proc&#xE9;d&#xE9; comprend une premi&#xE8;re &#xE9;tape de collecte de la sueur pr&#xE9;sente sur la peau de l&#x2019;utilisateur par l&#x2019;interm&#xE9;diaire d&#x2019;un moyen de collecte que comprend une premi&#xE8;re face d&#x2019;un bo&#xEE;tier (2) et une deuxi&#xE8;me &#xE9;tape d&#x2019;amen&#xE9;e de la sueur collect&#xE9;e vers un moyen d&#x2019;analyse (200) que comprend une deuxi&#xE8;me face (12) du bo&#xEE;tier (2) pourvue d&#x2019;un canal microfluidique (120). Le proc&#xE9;d&#xE9; comprend&#xA0;- une troisi&#xE8;me &#xE9;tape de mesure d&#x2019;une premi&#xE8;re conductance (C1, C2,&#x2026;. Cn) par une premi&#xE8;re &#xE9;lectrode (22a) log&#xE9;e &#xE0; l&#x2019;int&#xE9;rieur du canal microfluidique (120), une quatri&#xE8;me &#xE9;tape de mesure d&#x2019;une deuxi&#xE8;me conductance (C1&#x2019;, C2&#x2019;,&#x2026;. Cn&#x2019;)  par une deuxi&#xE8;me &#xE9;lectrode (22b) log&#xE9;e &#xE0; l&#x2019;int&#xE9;rieur du canal microfluidique (120) et plac&#xE9;e &#xE0; une distance d&#x2019;&#xE9;lectrode (L) de la premi&#xE8;re &#xE9;lectrode (22a), une cinqui&#xE8;me &#xE9;tape de d&#xE9;termination d&#x2019;un intervalle de temps (&#x394;t1, &#x394;t2,&#x2026;. &#x394;tn) &#xE9;coul&#xE9; pour que la deuxi&#xE8;me conductance (C1&#x2019;, C2&#x2019;,&#x2026;. Cn&#x2019;) soit &#xE9;gale &#xE0; la premi&#xE8;re conductance (C1, C2,&#x2026;. Cn) et une sixi&#xE8;me &#xE9;tape de calcul d&#x2019;un d&#xE9;bit de sueur produit par la peau de l&#x2019;utilisateur.
+     (Figure 4)
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2021/099610 A1 (XSENSIO SA [CH]; ECOLE
+POLYTECHNIQUE FED LAUSANNE EPFL [CH])
+27 mai 2021 (2021-05-27)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2021099610-A1</doc-number>
+            <date>20210527</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2019/110722 A1 (IONESCU MIHAI ADRIAN
+[CH] ET AL) 18 avril 2019 (2019-04-18)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2019110722-A1</doc-number>
+            <date>20190418</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2014/276220 A1 (BRISCOE DENNIS R [US]
+ET AL) 18 septembre 2014 (2014-09-18)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014276220-A1</doc-number>
+            <date>20140918</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2010/200400 A1 (REVOL-CAVALIER FREDERIC
+[FR]) 12 ao&#xFB;t 2010 (2010-08-12)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2010200400-A1</doc-number>
+            <date>20100812</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230626</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

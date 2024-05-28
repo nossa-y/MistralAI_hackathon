@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145116" date-produced="20240105" kind="A1" doc-number="3137505" country="FR" id="2306984" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137505</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145116">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306984</doc-number>
+        <date>20230630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306984</doc-number>
+        <date>20230630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">MAT&#xC9;RIAU DE CATHODE EN OXYDE DE LITHIUM ET DE COBALT, PROC&#xC9;D&#xC9; DE PR&#xC9;PARATION ET UTILISATION</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>Block 2, 7 and 9,  No. 6 Zhixin Avenue, Leping Town Sanshui District Foshan City</address-1>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>No. 508 East Jinning Road Hi-Tech Zone, Ningxiang Changsha City</address-1>
+              <city>HUNAN PROVINCE</city>
+              <postcode>410600</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MAO</last-name>
+            <first-name>Linlin</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LI</last-name>
+            <first-name>Changdong</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>RUAN</last-name>
+            <first-name>Dingshan</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>CAI</last-name>
+            <first-name>Yong</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>WANG</last-name>
+            <first-name>Yingnan</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CASALONGA</orgname>
+            <address>
+              <address-1>31 Rue de Fleurus</address-1>
+              <city>PARIS-6E-ARRONDISSEMENT</city>
+              <postcode>75006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>Block 2, 7 and 9,  No. 6 Zhixin Avenue, Leping Town Sanshui District Foshan City</address-1>
+            <city>GUANGDONG PROVINCE</city>
+            <postcode>528137</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>No. 508 East Jinning Road Hi-Tech Zone, Ningxiang Changsha City</address-1>
+            <city>HUNAN PROVINCE</city>
+            <postcode>410600</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01M   4/525       20230101AFI20231117BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01M  10/0525      20230101ALI20231117BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>C01G  51/00        20230101ALI20231117BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>C01G  53/00        20230101ALI20231117BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-priority-claims>
+      <fr-priority-claim sequence="1">
+        <country>CN</country>
+        <doc-number>202210765248.1</doc-number>
+        <date>20220630</date>
+      </fr-priority-claim>
+    </fr-priority-claims>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente divulgation divulgue un mat&#xE9;riau de cathode en oxyde de lithium et de cobalt (LCO), et un proc&#xE9;d&#xE9; de pr&#xE9;paration et une utilisation de celui-ci, et se rapporte au domaine technique des batteries au lithium-ion (LIB). Le mat&#xE9;riau de cathode en LCO propos&#xE9; dans la pr&#xE9;sente divulgation est une particule de LCO rev&#xEA;tue avec un copolym&#xE8;re organique sur sa surface, et le copolym&#xE8;re organique comporte un groupe fluor et un groupe sulfonyle. Le mat&#xE9;riau de cathode en LCO propos&#xE9; dans la pr&#xE9;sente divulgation est obtenu par le rev&#xEA;tement d&#x2019;une surface d&#x2019;une particule de LCO avec un copolym&#xE8;re organique, qui peut prot&#xE9;ger la stabilit&#xE9; structurale du LCO, inhiber la dissolution du cobalt et la pr&#xE9;cipitation de l&#x2019;oxyg&#xE8;ne des mailles, et am&#xE9;liorer la stabilit&#xE9; de cyclage du LCO &#xE0; une tension &#xE9;lev&#xE9;e.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

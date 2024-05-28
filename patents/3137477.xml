@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145092" date-produced="20240105" kind="A1" doc-number="3137477" country="FR" id="2206911" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137477</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145092">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206911</doc-number>
+        <date>20220706</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206911</doc-number>
+        <date>20220706</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9;, dispositif et programme d&#x2019;ordinateur de mise en &#x153;uvre de jeux digitaux li&#xE9;s</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>FDJ GAMING SOLUTIONS FRANCE</orgname>
+            <iid>418618088</iid>
+            <address>
+              <address-1>18-59 Avenue de la voie lact&#xE9;e</address-1>
+              <city>Boulogne-Billancourt</city>
+              <postcode>92100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MAILLET</last-name>
+            <first-name>Antoine</first-name>
+            <address>
+              <address-1/>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>MEYNIEUX</last-name>
+            <first-name>Eric</first-name>
+            <address>
+              <address-1/>
+              <city>VENTABREN</city>
+              <postcode>13122</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>MARCADIER</last-name>
+            <first-name>C&#xE9;dric</first-name>
+            <address>
+              <address-1/>
+              <city>ISSY LES MOULINEAUX</city>
+              <postcode>92130</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SANTARELLI (Soci&#xE9;t&#xE9; Ipside)</orgname>
+            <address>
+              <address-1>Tour Trinity, 1 Bis Esplanade de La D&#xE9;fense</address-1>
+              <city>Paris la D&#xE9;fense Cedex</city>
+              <postcode>92035</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>FDJ GAMING SOLUTIONS FRANCE</orgname>
+          <iid>418618088</iid>
+          <address>
+            <address-1>18-59 Avenue de la voie lact&#xE9;e</address-1>
+            <city>Boulogne-Billancourt</city>
+            <postcode>92100</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G06Q  50/34        20220101AFI20220913BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-priority-claims>
+      <fr-priority-claim sequence="1">
+        <country>EP</country>
+        <doc-number>22305992.4</doc-number>
+        <date>20220701</date>
+      </fr-priority-claim>
+    </fr-priority-claims>
+    <fr-extension>
+      <fr-extension-territory>Polyn&#xE9;sie fran&#xE7;aise</fr-extension-territory>
+    </fr-extension>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un proc&#xE9;d&#xE9; dans un syst&#xE8;me comprenant des dispositifs de jeux et un serveur, selon lequel un premier dispositif participe &#xE0; un premier et &#xE0; un troisi&#xE8;me jeux et un second dispositif participe &#xE0; un deuxi&#xE8;me et au troisi&#xE8;me jeux, le serveur comprenant des modules logiciels distincts pour mettre en &#x153;uvre les premier, deuxi&#xE8;me et troisi&#xE8;me jeux, le serveur comprenant en outre un module logiciel de gestion de jeux li&#xE9;s pour ex&#xE9;cuter le module logiciel li&#xE9; au troisi&#xE8;me jeu suite &#xE0; l&#x2019;ex&#xE9;cution du module logiciel li&#xE9; au premier ou au deuxi&#xE8;me jeu, le serveur ex&#xE9;cutant les &#xE9;tapes de&#xA0;:
+    r&#xE9;ception, par le module logiciel de gestion de jeux li&#xE9;s, de donn&#xE9;es num&#xE9;riques pour l&#x2019;ex&#xE9;cution dudit troisi&#xE8;me jeu, les donn&#xE9;es num&#xE9;riques &#xE9;tant re&#xE7;ues du module logiciel li&#xE9; au premier ou au deuxi&#xE8;me jeu etmise &#xE0; jour du module logiciel li&#xE9; au troisi&#xE8;me jeu selon les donn&#xE9;es num&#xE9;riques re&#xE7;ues.
+    Figure abr&#xE9;g&#xE9;&#xA0;: figure 7
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230727</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145109" date-produced="20240105" kind="A1" doc-number="3137503" country="FR" id="2306553" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137503</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145109">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306553</doc-number>
+        <date>20230623</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306553</doc-number>
+        <date>20230623</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">PROC&#xC9;D&#xC9; DE PR&#xC9;PARATION D&#x2019;UN MAT&#xC9;RIAU D&#x2019;ANODE EN CARBONE DUR ET UTILISATION DE CELUI-CI</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>YICHANG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>Room 6013 Innovation and Entrepreneurship Service Center, Development Avenue No. 57-5, Yichang Zone China (Hubei) Free Trade Zone, Yichang</address-1>
+              <city>Hubei</city>
+              <postcode>443000</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>YICHANG BRUNP CONTEMPORARY AMPEREX CO., LTD.</orgname>
+            <address>
+              <address-1>Room 6213, Innovation and Entrepreneurship Service Center, Development Avenue No. 57-5, Yichang Zone China (Hubei) Free Trade Zone, Yichang</address-1>
+              <city>Hubei</city>
+              <postcode>443000</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>No.6 Zhixin Avenue, Leping Town, Sanshui District, Foshan</address-1>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>No.508 East Jinning Road, Hi-tech Zone, Ningxiang, Changsha,</address-1>
+              <city>Hunan</city>
+              <postcode>410600</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>FAN</last-name>
+            <first-name>Xia</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LI</last-name>
+            <first-name>Changdong</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>FENG</last-name>
+            <first-name>Maohua</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>ZHENG</last-name>
+            <first-name>Shuang</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>MAO</last-name>
+            <first-name>Linlin</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="6">
+          <addressbook lang="fr">
+            <last-name>RUAN</last-name>
+            <first-name>Dingshan</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>YICHANG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>Room 6013 Innovation and Entrepreneurship Service Center, Development Avenue No. 57-5, Yichang Zone China (Hubei) Free Trade Zone, Yichang</address-1>
+            <city>Hubei</city>
+            <postcode>443000</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>YICHANG BRUNP CONTEMPORARY AMPEREX CO., LTD.</orgname>
+          <address>
+            <address-1>Room 6213, Innovation and Entrepreneurship Service Center, Development Avenue No. 57-5, Yichang Zone China (Hubei) Free Trade Zone, Yichang</address-1>
+            <city>Hubei</city>
+            <postcode>443000</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="3">
+        <addressbook lang="fr">
+          <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>No.6 Zhixin Avenue, Leping Town, Sanshui District, Foshan</address-1>
+            <city>Guangdong</city>
+            <postcode>528137</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="4">
+        <addressbook lang="fr">
+          <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>No.508 East Jinning Road, Hi-tech Zone, Ningxiang, Changsha,</address-1>
+            <city>Hunan</city>
+            <postcode>410600</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01M   4/133       20230101AFI20231113BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01M   4/13        20230101ALI20231113BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-priority-claims>
+      <fr-priority-claim sequence="1">
+        <country>CN</country>
+        <doc-number>202210751507.5</doc-number>
+        <date>20220629</date>
+      </fr-priority-claim>
+    </fr-priority-claims>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente invention divulgue un proc&#xE9;d&#xE9; de pr&#xE9;paration d&#x2019;un mat&#xE9;riau d&#x2019;anode en carbone dur et son utilisation. L&#x2019;amidon est m&#xE9;lang&#xE9; avec de la nano-silice, le m&#xE9;lange obtenu est trait&#xE9; thermiquement &#xE0; une temp&#xE9;rature allant de 150&#xB0;C &#xE0; 240&#xB0;C sous une atmosph&#xE8;re inerte, le premier produit fritt&#xE9; obtenu est trait&#xE9; thermiquement &#xE0; une temp&#xE9;rature allant de 180&#xB0;C &#xE0; 220&#xB0;C sous une atmosph&#xE8;re contenant de l&#x2019;oxyg&#xE8;ne, le deuxi&#xE8;me produit fritt&#xE9; est s&#xE9;par&#xE9; de mani&#xE8;re cyclonique pour &#xE9;liminer la nano-silice afin d&#x2019;obtenir des microsph&#xE8;res pr&#xE9;oxyd&#xE9;es &#xE0; base d&#x2019;amidon, et les microsph&#xE8;res pr&#xE9;oxyd&#xE9;es &#xE0; base d&#x2019;amidon subissent un traitement de carbonisation sous une atmosph&#xE8;re inerte pour obtenir le mat&#xE9;riau d&#x2019;anode en carbone dur. Dans la pr&#xE9;sente invention, les particules de silice peuvent &#xEA;tre adsorb&#xE9;es sur la surface de la mati&#xE8;re premi&#xE8;re d&#x2019;amidon, et la r&#xE9;ticulation se produit entre les cha&#xEE;nes mol&#xE9;culaires d&#x2019;amidon au cours du processus de traitement thermique, et sous la barri&#xE8;re du dioxyde de silicium, les particules d&#x2019;amidon ne seront pas r&#xE9;ticul&#xE9;es mais fusionn&#xE9;es pour former une structure sph&#xE9;rique. L&#x2019;introduction d&#x2019;atomes d&#x2019;oxyg&#xE8;ne au cours du processus de pr&#xE9;oxydation produit une lacune d&#x2019;oxyg&#xE8;ne et augmente les sites actifs pour le stockage d&#x2019;ions sodium apr&#xE8;s la carbonisation, augmentant ainsi la capacit&#xE9; r&#xE9;versible des batteries au sodium-ion.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

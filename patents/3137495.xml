@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145096" date-produced="20240105" kind="A3" doc-number="3137495" country="FR" id="2212302" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137495</doc-number>
+          <kind>A3</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Certificat d'utilit&#xE9;</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145096">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2212302</doc-number>
+        <date>20221124</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2212302</doc-number>
+        <date>20221124</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">MODULE PHOTOVOLTA&#xCF;QUE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Zhejiang Jinko Solar Co., Ltd.</orgname>
+            <address>
+              <address-1>No. 58, yuan xi road Yuan Hua Town</address-1>
+              <city>HAINING, ZHEJIANG</city>
+              <postcode>314416</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>JINKO SOLAR CO., LTD</orgname>
+            <address>
+              <address-1>No. 1, Jinko road, shangrao economic development zone</address-1>
+              <city>JIANGXI</city>
+              <postcode>334100</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>PENG</last-name>
+            <first-name>Yingying</first-name>
+            <address>
+              <address-1/>
+              <city>HAINING, ZHEJIANG</city>
+              <postcode>314416</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>WU</last-name>
+            <first-name>Yuhao</first-name>
+            <address>
+              <address-1/>
+              <city>HAINING, ZHEJIANG</city>
+              <postcode>314416</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>GUO</last-name>
+            <first-name>Liang</first-name>
+            <address>
+              <address-1/>
+              <city>HAINING, ZHEJIANG</city>
+              <postcode>314416</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Zhejiang Jinko Solar Co., Ltd.</orgname>
+          <address>
+            <address-1>No. 58, yuan xi road Yuan Hua Town</address-1>
+            <city>HAINING, ZHEJIANG</city>
+            <postcode>314416</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>JINKO SOLAR CO., LTD</orgname>
+          <address>
+            <address-1>No. 1, Jinko road, shangrao economic development zone</address-1>
+            <city>JIANGXI</city>
+            <postcode>334100</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01L  31/05        20230101AFI20231205BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-priority-claims>
+      <fr-priority-claim sequence="1">
+        <country>CN</country>
+        <doc-number>202210732068.3</doc-number>
+        <date>20220627</date>
+      </fr-priority-claim>
+    </fr-priority-claims>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Module photovolta&#xEF;que, comprenant une pluralit&#xE9; de cellules solaires comprenant chacune un substrat semi-conducteur et une couche de passivation, le substrat semi-conducteur est pourvu d&#x2019;une &#xE9;lectrode comprenant des barres omnibus, des doigts et des pastilles d&#x2019;&#xE9;lectrode, chacune des cellules solaires comprend 9 &#xE0; 20 barres omnibus, chacune des cellules solaires comprennent 40 &#xE0; 100 doigts, et chacune des barres omnibus est reli&#xE9;e &#xE0; 3 &#xE0; 10 pastilles d&#x2019;&#xE9;lectrode&#xA0;; une pluralit&#xE9; de bandes de soudure configur&#xE9;es pour relier la pluralit&#xE9; de cellules solaires les unes aux autres, chacune des bandes de soudure s&#x2019;ajuste aux barres omnibus et comprend au moins une portion de bossage soud&#xE9;e avec les pastilles d&#x2019;&#xE9;lectrode, et une inclinaison d&#x2019;une surface ext&#xE9;rieure de la portion de bossage le long d&#x2019;une direction d&#x2019;extension de la bande de soudure se trouve dans une plage allant de 0&#xB0; &#xE0; 10&#xB0;.
+    (Fig. 1)
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20231120</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20241202</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

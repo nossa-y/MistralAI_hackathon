@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145073" date-produced="20240105" kind="A1" doc-number="3137507" country="FR" id="2206774" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137507</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145073">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206774</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206774</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif intercalaire pour dispositif de stockage &#xE9;lectrique</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO SYSTEMES THERMIQUES</orgname>
+            <iid>331312108</iid>
+            <address>
+              <address-1>8 rue Louis Lormand La Verri&#xE8;re</address-1>
+              <city>Le Mesnil-Saint-Denis</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>TANGHE</last-name>
+            <first-name>Alcina</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>AUBRY</last-name>
+            <first-name>Franck</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>CHAPELLE</last-name>
+            <first-name>Arnaud</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>HAVET</last-name>
+            <first-name>Peggy</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>JOUIN</last-name>
+            <first-name>William</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="6">
+          <addressbook lang="fr">
+            <last-name>MACEIRA</last-name>
+            <first-name>Eva</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="7">
+          <addressbook lang="fr">
+            <last-name>ROTONDO</last-name>
+            <first-name>Claudia</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="8">
+          <addressbook lang="fr">
+            <last-name>SEGURA</last-name>
+            <first-name>Marianne</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="9">
+          <addressbook lang="fr">
+            <last-name>GUINAULT</last-name>
+            <first-name>Alain</first-name>
+            <address>
+              <address-1/>
+              <city>LE MESNIL SAINT DENIS</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO</orgname>
+            <address>
+              <address-1>VALEO SYSTEMES THERMIQUES - Service propri&#xE9;t&#xE9; intellectuelle  8 rue Louis Lormand</address-1>
+              <city>La Verri&#xE8;re</city>
+              <postcode>78320</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>VALEO SYSTEMES THERMIQUES</orgname>
+          <iid>331312108</iid>
+          <address>
+            <address-1>8 rue Louis Lormand La Verri&#xE8;re</address-1>
+            <city>Le Mesnil-Saint-Denis</city>
+            <postcode>78320</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01M  50/489       20220101AFI20221017BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01M  50/403       20220101ALI20221017BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H01M  10/613       20220101ALI20221017BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>H01M  10/6556      20220101ALI20221017BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Titre&#xA0;: Dispositif intercalaire pour dispositif de stockage &#xE9;lectrique
+    La pr&#xE9;sente invention concerne un dispositif intercalaire (6) configur&#xE9; pour s&#x2019;&#xE9;tendre entre deux rang&#xE9;es (4) de batteries (2) d&#x2019;un dispositif de stockage &#xE9;lectrique (1), le dispositif intercalaire (6) s&#x2019;&#xE9;tendant principalement selon une direction longitudinale (L) et pr&#xE9;sentant au moins un corps interne recouvert d&#x2019;une couche externe, le corps interne  et la couche externe &#xE9;tant faits respectivement d&#x2019;un premier mat&#xE9;riau et d&#x2019;un deuxi&#xE8;me mat&#xE9;riau diff&#xE9;rent du premier mat&#xE9;riau, le deuxi&#xE8;me mat&#xE9;riau pr&#xE9;sentant une tension de surface sup&#xE9;rieure &#xE0; une tension de surface du premier mat&#xE9;riau. 
+    (figure 2)
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2021/013471 A1 (HONDA TATSUHIKO [JP] ET
+AL) 14 janvier 2021 (2021-01-14)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021013471-A1</doc-number>
+            <date>20210114</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2022/131208 A1 (ZHANG YA [CN] ET AL)
+28 avril 2022 (2022-04-28)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2022131208-A1</doc-number>
+            <date>20220428</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2011/159340 A1 (HU HSIEN-LIN [TW] ET
+AL) 30 juin 2011 (2011-06-30)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2011159340-A1</doc-number>
+            <date>20110630</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2021/163303 A1 (EVANS OWEN R [US] ET
+AL) 3 juin 2021 (2021-06-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021163303-A1</doc-number>
+            <date>20210603</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 107 068 928 A (SINOEV  TECH CO LTD)
+18 ao&#xFB;t 2017 (2017-08-18)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-107068928-A</doc-number>
+            <date>20170818</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP 2014 157747 A (TOYOTA MOTOR CORP)
+28 ao&#xFB;t 2014 (2014-08-28)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-2014157747-A</doc-number>
+            <date>20140828</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>Anonymous:  "Surface Properties",
+,
+2 f&#xE9;vrier 2023 (2023-02-02), 2 f&#xE9;vrier
+2023 (2023-02-02), pages 1-3, XP093020453,
+Extrait de l'Internet:
+URL:https://polymerdatabase.com/polymer%20
+physics/SurfaceTension.html
+[extrait le 2023-02-02]</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>CHARFEDDINE ILHEM ET AL:  "Surface tension
+and interfacial tension of polyolefins and
+polyolefin blends",
+JOURNAL OF APPLIED POLYMER SCIENCE,
+[Online]
+vol. 139, no. 14,
+11 novembre 2021 (2021-11-11), page 51885,
+XP093020455,
+US
+ISSN: 0021-8995, DOI: 10.1002/app.51885
+Extrait de l'Internet:
+URL:https://onlinelibrary.wiley.com/doi/fu
+ll-xml/10.1002/app.51885&gt;
+[extrait le 2023-02-02]</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>Gagnon Kyle:  "Understanding Basic
+Viscosity Measurements - Technical Support
+Knowledge Base - Confluence",
+,
+25 ao&#xFB;t 2021 (2021-08-25), pages 1-4,
+XP055939833,
+Extrait de l'Internet:
+URL:https://brookfield.atlassian.net/wiki/
+spaces/TSKB/pages/308477957/Understanding+
+Basic+Viscosity+Measurements
+[extrait le 2022-07-07]</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230727</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145100" date-produced="20240105" kind="A3" doc-number="3137304" country="FR" id="2300527" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137304</doc-number>
+          <kind>A3</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Certificat d'utilit&#xE9;</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145100">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2300527</doc-number>
+        <date>20230120</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2300527</doc-number>
+        <date>20230120</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Bloc silencieux &#xE0; filtre int&#xE9;gr&#xE9;, notamment pour ventilateur m&#xE9;dical</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE</orgname>
+            <address>
+              <address-1>75 Quai d'Orsay</address-1>
+              <city>Paris</city>
+              <postcode>75007</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>CHANCEL</last-name>
+            <first-name>Fabien</first-name>
+            <address>
+              <address-1/>
+              <city>Jouy en Josas</city>
+              <postcode>78350</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE</orgname>
+            <address>
+              <address-1>75 Quai d'Orsay</address-1>
+              <city>Paris Cedex 07</city>
+              <postcode>75321</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE</orgname>
+          <address>
+            <address-1>75 Quai d'Orsay</address-1>
+            <city>Paris</city>
+            <postcode>75007</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B01D  46/42        20230101AFI20230414BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61M  16/10        20230101ALI20230414BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B01D  35/02        20230101ALI20230414BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Titre de l&#x2019;invention 
+    Bloc silencieux &#xE0; filtre int&#xE9;gr&#xE9;, notamment pour ventilateur m&#xE9;dical 
+    L&#x2019;invention concerne un bloc (1) silencieux &#xE0; filtre int&#xE9;gr&#xE9;, notamment pour ventilateur m&#xE9;dical ou un autre appareil (30) aspirant de l&#x2019;air ambiant comprenant&#xA0;un corps de bloc (10) comprenant&#xA0;un orifice d&#x2019;entr&#xE9;e (11) d&#x2019;air et un orifice de sortie d&#x2019;air purifi&#xE9; (12), une chambre de r&#xE9;partition d&#x2019;air (13), un logement &#xE0; filtre (14) pour recevoir un filtre &#xE0; air (20) amovible, des moyens de fixation de filtre (16), et une chambre d&#x2019;insonorisation (15) en communication fluidique avec l&#x2019;orifice de sortie d&#x2019;air purifi&#xE9; (12). La chambre de r&#xE9;partition d&#x2019;air (13), le logement &#xE0; filtre (14) et la chambre d&#x2019;insonorisation (15) sont agenc&#xE9;s en s&#xE9;rie. Le corps de bloc (10) comprend des moyens de raccordement (17) pour assurer un raccordement fluidique du bloc (1) &#xE0; l&#x2019;entr&#xE9;e d&#x2019;air du circuit d&#x2019;air interne de l&#x2019;appareil (30), tel le ventilateur m&#xE9;dical, pour lui fournir de l&#x2019;air purifi&#xE9;.
+    Figure de l&#x2019;abr&#xE9;g&#xE9; : Fig. 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20240131</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

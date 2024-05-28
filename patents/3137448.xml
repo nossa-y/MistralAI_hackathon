@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145067" date-produced="20240105" kind="A1" doc-number="3137448" country="FR" id="2206767" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137448</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145067">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206767</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206767</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Matrice de filtrage multispectral &#xE0; filtres de Fabry-P&#xE9;rot incurv&#xE9;s et proc&#xE9;d&#xE9;s de fabrication</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Commissariat &#xE0; l'Energie Atomique et aux Energies Alternatives</orgname>
+            <address>
+              <address-1>25 Rue Leblanc Bat Le Ponant</address-1>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>PALANCHOKE</last-name>
+            <first-name>Ujwol</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE CEDEX 09</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BERARD-BERGERY</last-name>
+            <first-name>S&#xE9;bastien</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE CEDEX 09</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>LANDIS</last-name>
+            <first-name>Stefan</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE CEDEX 09</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET CAMUS LEBKIRI</orgname>
+            <address>
+              <address-1>25 Rue de Maubeuge</address-1>
+              <city>PARIS</city>
+              <postcode>75009</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Commissariat &#xE0; l'Energie Atomique et aux Energies Alternatives</orgname>
+          <address>
+            <address-1>25 Rue Leblanc Bat Le Ponant</address-1>
+            <city>PARIS</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G01J   3/26        20220101AFI20221012BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G02B   5/28        20220101ALI20221012BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Matrice de filtrage multispectral &#xE0; filtres de Fabry-P&#xE9;rot incurv&#xE9;s et proc&#xE9;d&#xE9;s de fabrication
+    Un aspect de l&#x2019;invention concerne une matrice (10) de filtrage multispectral pour une onde &#xE9;lectromagn&#xE9;tique, la matrice comportant au moins un premier (E1) et un deuxi&#xE8;me &#xE9;l&#xE9;ments opto&#xE9;lectroniques (E2), chaque &#xE9;l&#xE9;ment opto&#xE9;lectronique (Ei) comprenant un filtre de couleur (Fi) et un transducteur photo&#xE9;lectrique (Ti) en regard dudit filtre (Fi), chaque filtre de couleur (Fi) formant une cavit&#xE9; Fabry-P&#xE9;rot comportant une premi&#xE8;re couche r&#xE9;fl&#xE9;chissante (Cr1i), une deuxi&#xE8;me couche r&#xE9;fl&#xE9;chissante (Cr2i) et une couche en mat&#xE9;riau di&#xE9;lectrique (CFPi) de cavit&#xE9; de Fabry-P&#xE9;rot entre la premi&#xE8;re couche r&#xE9;fl&#xE9;chissante (Cr1i) et la deuxi&#xE8;me couche r&#xE9;fl&#xE9;chissante (Cr2i), la couche de mat&#xE9;riau di&#xE9;lectrique (CFPi) comportant :
+    une surface inf&#xE9;rieure (Sinf_i), au contact de la premi&#xE8;re couche r&#xE9;fl&#xE9;chissante (Cr1i); la surface inf&#xE9;rieure (Sinf_i) &#xE9;tant courbe;Une surface sup&#xE9;rieure (Ssup_i) au contact de la deuxi&#xE8;me couche r&#xE9;fl&#xE9;chissante (Cr1i), la surface sup&#xE9;rieure (Ssup_i) &#xE9;tant courbe;
+    les &#xE9;paisseurs moyennes des deux couches en mat&#xE9;riau di&#xE9;lectrique (CFP1, CFP2) des deux filtres (F1, F2) &#xE9;tant diff&#xE9;rentes.
+    Figure &#xE0; publier avec l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 2
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2011/043823 A1 (HILLMER HARTMUT [DE] ET
+AL) 24 f&#xE9;vrier 2011 (2011-02-24)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2011043823-A1</doc-number>
+            <date>20110224</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 4 466 699 A (DROESSLER JUSTIN G [US] ET
+AL) 21 ao&#xFB;t 1984 (1984-08-21)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4466699-A</doc-number>
+            <date>19840821</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2014/217625 A1 (HAZART J&#xC9;R&#xD4;ME [FR] ET
+AL) 7 ao&#xFB;t 2014 (2014-08-07)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014217625-A1</doc-number>
+            <date>20140807</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2012/182619 A1 (GELIKONOV GRIGORY
+VALENTINOVICH [RU] ET AL)
+19 juillet 2012 (2012-07-19)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2012182619-A1</doc-number>
+            <date>20120719</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230724</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144964" date-produced="20240105" kind="A1" doc-number="3137319" country="FR" id="2206648" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137319</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144964">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206648</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206648</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif de conditionnement et distributeur de pastilles carbures</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>DUREL MACHINES</orgname>
+            <iid>914077284</iid>
+            <address>
+              <address-1>Parc d'Activit&#xE9;s Les Jacquins 198 Rue des Amis de l'Industrie</address-1>
+              <city>Neulise</city>
+              <postcode>42590</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DUREL</last-name>
+            <first-name>Pierre Jean</first-name>
+            <address>
+              <address-1/>
+              <city>Neulise</city>
+              <postcode>42590</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Laurent et Charras</orgname>
+            <address>
+              <address-1>15 Rue Camille de Rochetaill&#xE9;e CS 70 203</address-1>
+              <city>Saint-Etienne Cedex 1</city>
+              <postcode>42005</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>DUREL MACHINES</orgname>
+          <iid>914077284</iid>
+          <address>
+            <address-1>Parc d'Activit&#xE9;s Les Jacquins 198 Rue des Amis de l'Industrie</address-1>
+            <city>Neulise</city>
+            <postcode>42590</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B23K  31/02        20220101AFI20221014BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un distributeur de pastilles carbures (2) destin&#xE9; &#xE0; alimenter une machine &#xE0; braser ou &#xE0; souder des pastilles (2) sur une lame de scie.Selon l&#x2019;invention, le distributeur comprend&#xA0;:- un support (8) d&#x2019;un dispositif de conditionnement (1) de pastilles carbures (2) coll&#xE9;es les unes &#xE0; la suite des autres et selon des orientations identiques sur un ruban (4) adh&#xE9;sif enroul&#xE9; en bobine (5) ;- des moyens de d&#xE9;roulage (9) d&#x2019;un ruban (4) adh&#xE9;sif issu du dispositif de conditionnement (1)&#xA0;;- des moyens de s&#xE9;paration (10) des pastilles carbures (2) du ruban (4) sur lequel lesdites pastilles carbures (2) sont coll&#xE9;es&#xA0;;- des moyens de guidage (12) des pastilles (2) d&#xE9;coll&#xE9;es vers des moyens d&#x2019;&#xE9;jection (13)&#xA0;;- lesdits moyens d&#x2019;&#xE9;jection (13) des pastilles (2), une &#xE0; une et selon une orientation pr&#xE9;d&#xE9;termin&#xE9;e, vers une sortie destin&#xE9;e &#xE0; alimenter une machine &#xE0; braser ou &#xE0; souder.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 4
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 4 061 057 A (GRAY GORMAN D)
+6 d&#xE9;cembre 1977 (1977-12-06)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4061057-A</doc-number>
+            <date>19771206</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 4 205 564 A (KOLB GERHARD G [US] ET AL)
+3 juin 1980 (1980-06-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4205564-A</doc-number>
+            <date>19800603</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 3 960 310 A (NUSSBAUM LUCIAN)
+1 juin 1976 (1976-06-01)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-3960310-A</doc-number>
+            <date>19760601</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 02/44051 A2 (BEERS IND DIAMONDS PTY LTD
+DE [ZA]; CULLEN BARRY JAMES [IE] ET AL.)
+6 juin 2002 (2002-06-06)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-0244051-A2</doc-number>
+            <date>20020606</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 101 829 869 A (ZHENG YUANCONG)
+15 septembre 2010 (2010-09-15)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-101829869-A</doc-number>
+            <date>20100915</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230627</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

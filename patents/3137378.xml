@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145082" date-produced="20240105" kind="A1" doc-number="3137378" country="FR" id="2206787" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137378</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145082">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206787</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206787</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">S&#xE9;parateur de sels int&#xE9;gr&#xE9;, comprenant une vis sans fin creuse et des billes formant des supports de pr&#xE9;cipitation et d&#x2019;&#xE9;vacuation de sels, Installation de gaz&#xE9;ification de biomasse associ&#xE9;e.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>COMMISSARIAT A L'ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES</orgname>
+            <iid>775685019</iid>
+            <address>
+              <address-1>B&#xE2;timent Le Ponant 25 rue Leblanc</address-1>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>RATEL</last-name>
+            <first-name>Gilles</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>CHATAING</last-name>
+            <first-name>Thierry</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>DELATTRE</last-name>
+            <first-name>Olivier</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>DEMEY CEDENO</last-name>
+            <first-name>Hary</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38054</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Cabinet NONY</orgname>
+            <address>
+              <address-1>11 rue Saint-Georges</address-1>
+              <city>PARIS</city>
+              <postcode>75009</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>COMMISSARIAT A L'ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES</orgname>
+          <iid>775685019</iid>
+          <address>
+            <address-1>B&#xE2;timent Le Ponant 25 rue Leblanc</address-1>
+            <city>PARIS</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>C02F   1/02        20220101AFI20220913BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B01J   3/00        20220101ALI20220913BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B01J  19/18        20220101ALI20220913BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    S&#xE9;parateur de sels int&#xE9;gr&#xE9;, comprenant une vis sans fin creuse et des billes formant des supports de pr&#xE9;cipitation et d&#x2019;&#xE9;vacuation de sels, Installation de gaz&#xE9;ification de biomasse associ&#xE9;e.
+    L&#x2019;invention concerne un s&#xE9;parateur de sels contenus dans une solution qui est port&#xE9;e avec des billes en d&#xE9;placement au moyen d&#x2019;une vis san fin, dans des conditions supercritiques. 
+    Le d&#xE9;placement des billes chauff&#xE9;es les am&#xE8;ne dans le cylindre creux de la vis sans fin o&#xF9; leur temp&#xE9;rature sup&#xE9;rieure &#xE0; la temp&#xE9;rature de pr&#xE9;cipitation des sels, permet aux sels de se d&#xE9;poser sur la surface des billes. 
+    Le d&#xE9;placement en boucle des billes chauff&#xE9;es, permet en premier lieu de r&#xE9;chauffer la solution &#xE0; convertir jusqu&#x2019;&#xE0; une temp&#xE9;rature garantissant la pr&#xE9;cipitation des sels sur les billes puis de s&#xE9;parer la solution &#xE0; convertir en un flux appauvri en sels qui est &#xE9;vacu&#xE9; du s&#xE9;parateur pour &#xEA;tre dirig&#xE9; vers un r&#xE9;acteur de conversion, notamment un r&#xE9;acteur de gaz&#xE9;ification, et en un flux charg&#xE9; en sels dissous &#xE0; extraire sous la forme d&#x2019;une saumure &#xE9;vacu&#xE9; par vidange de pr&#xE9;f&#xE9;rence gravitaire au travers d&#x2019;une grille.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9; : fig. 3 
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>WO 2014/089443 A1 (ADVANCED WATER RECOVERY
+LLC [US]) 12 juin 2014 (2014-06-12)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2014089443-A1</doc-number>
+            <date>20140612</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 4 891 190 A (CARTER DON E [US] ET AL)
+2 janvier 1990 (1990-01-02)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4891190-A</doc-number>
+            <date>19900102</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 111 533 227 A (BEIJING LUCENCY ENVIRO
+TECH CO LTD) 14 ao&#xFB;t 2020 (2020-08-14)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-111533227-A</doc-number>
+            <date>20200814</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 3 386 230 A (RIESBERG KENNETH D ET AL)
+4 juin 1968 (1968-06-04)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-3386230-A</doc-number>
+            <date>19680604</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230724</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

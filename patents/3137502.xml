@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145111" date-produced="20240105" kind="A1" doc-number="3137502" country="FR" id="2306742" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137502</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145111">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306742</doc-number>
+        <date>20230627</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306742</doc-number>
+        <date>20230627</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">MAT&#xC9;RIAU D&#x2019;&#xC9;LECTRODE POSITIVE, PROC&#xC9;D&#xC9; DE PR&#xC9;PARATION DE CELUI-CI ET SON APPLICATION</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>No.6 Zhixin Avenue, Leping Town, Sanshui District, Foshan</address-1>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>No.508 East Jinning Road, Hi-tech Zone, Ningxiang, Changsha,</address-1>
+              <city>Hunan 410600</city>
+              <postcode>410600</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>LI</last-name>
+            <first-name>Aixia</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>YU</last-name>
+            <first-name>Haijun</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>XIE</last-name>
+            <first-name>Yinghao</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>LI</last-name>
+            <first-name>Changdong</first-name>
+            <address>
+              <address-1/>
+              <city>Guangdong</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET GERMAIN ET MAUREAU</orgname>
+            <address>
+              <address-1>12 rue Boileau</address-1>
+              <city>LYON</city>
+              <postcode>69006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>No.6 Zhixin Avenue, Leping Town, Sanshui District, Foshan</address-1>
+            <city>Guangdong</city>
+            <postcode>528137</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>No.508 East Jinning Road, Hi-tech Zone, Ningxiang, Changsha,</address-1>
+            <city>Hunan 410600</city>
+            <postcode>410600</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01M   4/13        20230101AFI20231113BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01M   4/139       20230101ALI20231113BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-priority-claims>
+      <fr-priority-claim sequence="1">
+        <country>CN</country>
+        <doc-number>202210750189.0</doc-number>
+        <date>20220629</date>
+      </fr-priority-claim>
+    </fr-priority-claims>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente demande divulgue un mat&#xE9;riau d&#x2019;&#xE9;lectrode positive, un proc&#xE9;d&#xE9; de pr&#xE9;paration de celui-ci et son utilisation. Le mat&#xE9;riau d&#x2019;&#xE9;lectrode positive selon la pr&#xE9;sente demande comprend un mat&#xE9;riau d&#x2019;&#xE9;lectrode positive en couches avec une formule chimique LixMO2 et une substance de rev&#xEA;tement, o&#xF9; x se trouve dans la plage allant de 0,95 &#xE0; 1,1 et M est un m&#xE9;tal de transition, y compris le Mn. La substance de rev&#xEA;tement est pr&#xE9;vue sur la surface du mat&#xE9;riau d&#x2019;&#xE9;lectrode positive en couches et est partiellement dop&#xE9;e dans la couche de surface du mat&#xE9;riau d&#x2019;&#xE9;lectrode positive en couches. La substance de rev&#xEA;tement comprend du mangan&#xE8;se t&#xE9;travalent, un ion lithium et un ion phosphate. Le mat&#xE9;riau d&#x2019;&#xE9;lectrode positive selon la pr&#xE9;sente demande peut inhiber efficacement la lixiviation du mangan&#xE8;se dans un mat&#xE9;riau d&#x2019;&#xE9;lectrode positive contenant du mangan&#xE8;se et am&#xE9;liorer les performances de cyclage. La pr&#xE9;sente demande fournit en outre un proc&#xE9;d&#xE9; de pr&#xE9;paration et l&#x2019;utilisation du mat&#xE9;riau d&#x2019;&#xE9;lectrode positive ci-dessus.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

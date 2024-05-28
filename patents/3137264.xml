@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145090" date-produced="20240105" kind="A1" doc-number="3137264" country="FR" id="2206808" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137264</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145090">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206808</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206808</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Guide pour instrument m&#xE9;dical, ensemble d&#x2019;un guide et d&#x2019;un tel instrument, installation comprenant un tel ensemble</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>KOELIS</orgname>
+            <iid>492218375</iid>
+            <address>
+              <address-1>16 Chemin du vieux ch&#xEA;ne Inovall&#xE9;e</address-1>
+              <city>MEYLAN</city>
+              <postcode>38240</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET BOETTCHER</orgname>
+            <address>
+              <address-1>16 5, RUE DE VIENNE</address-1>
+              <city>PARIS</city>
+              <postcode>75008</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>KOELIS</orgname>
+          <iid>492218375</iid>
+          <address>
+            <address-1>16 Chemin du vieux ch&#xEA;ne Inovall&#xE9;e</address-1>
+            <city>MEYLAN</city>
+            <postcode>38240</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61B  10/04        20230101AFI20230921BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61B  17/34        20230101ALI20220914BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-extension>
+      <fr-extension-territory>Polyn&#xE9;sie fran&#xE7;aise</fr-extension-territory>
+    </fr-extension>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Ensemble d&#x2019;un guide et d&#x2019;un instrument m&#xE9;dical, le guide comprenant&#xA0;:
+    - une base destin&#xE9;e &#xE0; &#xEA;tre port&#xE9;e par un appareil comprenant une sonde d&#x2019;imagerie m&#xE9;dicale associ&#xE9;e &#xE0; l&#x2019;instrument m&#xE9;dical, et 
+    - un support prolongeant la base et dans lequel est m&#xE9;nag&#xE9; au moins une colonne d&#x2019;orifice, la colonne s&#x2019;&#xE9;tendant selon un premier axe, l&#x2019;instrument m&#xE9;dical &#xE9;tant apte &#xE0; s&#x2019;&#xE9;tendre &#xE0; travers au moins l&#x2019;un des orifices entre une face proximale et une face distale du support, 
+    L&#x2019;ensemble &#xE9;tant caract&#xE9;ris&#xE9; en ce qu&#x2019;il autorise un d&#xE9;battement d&#x2019;au moins une partie de l&#x2019;instrument m&#xE9;dical relativement &#xE0; la face distale du support selon au moins un axe de d&#xE9;battement qui est inclin&#xE9; ou orthogonal au premier axe.
+    Guide et installation correspondants.
+    FIGURE DE L&#x2019;ABREGE&#xA0;: [Fig. 2]
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230725</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-application-refused>
+        <date>20231113</date>
+      </fr-date-application-refused>
+    </fr-date-availability>
+    <fr-status-list>
+      <fr-status lang="fr">
+        <fr-nature>Rejet&#xE9;</fr-nature>
+        <date/>
+        <p/>
+      </fr-status>
+    </fr-status-list>
+  </fr-patent-life>
+</fr-patent-document>

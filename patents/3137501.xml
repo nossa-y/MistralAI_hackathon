@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145117" date-produced="20240105" kind="A1" doc-number="3137501" country="FR" id="2306985" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137501</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145117">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306985</doc-number>
+        <date>20230630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2306985</doc-number>
+        <date>20230630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">ENSEMBLE DE D&#xC9;MAGN&#xC9;TISATION ET DISPOSITIF DE D&#xC9;MAGN&#xC9;TISATION</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>Block 2, 7 and 9,  No. 6 Zhixin Avenue, Leping Town Sanshui District Foshan City</address-1>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+            <address>
+              <address-1>No. 508 East Jinning Road Hi-Tech Zone, Ningxiang Changsha City</address-1>
+              <city>HUNAN PROVINCE</city>
+              <postcode>410600</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>LI</last-name>
+            <first-name>Aixia</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>YU</last-name>
+            <first-name>Haijun</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>XIE</last-name>
+            <first-name>Yinghao</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>LI</last-name>
+            <first-name>Changdong</first-name>
+            <address>
+              <address-1/>
+              <city>GUANGDONG PROVINCE</city>
+              <postcode>528137</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CASALONGA</orgname>
+            <address>
+              <address-1>31 Rue de Fleurus</address-1>
+              <city>PARIS-6E-ARRONDISSEMENT</city>
+              <postcode>75006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>GUANGDONG BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>Block 2, 7 and 9,  No. 6 Zhixin Avenue, Leping Town Sanshui District Foshan City</address-1>
+            <city>GUANGDONG PROVINCE</city>
+            <postcode>528137</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+      <fr-owner sequence="2">
+        <addressbook lang="fr">
+          <orgname>HUNAN BRUNP RECYCLING TECHNOLOGY CO., LTD.</orgname>
+          <address>
+            <address-1>No. 508 East Jinning Road Hi-Tech Zone, Ningxiang Changsha City</address-1>
+            <city>HUNAN PROVINCE</city>
+            <postcode>410600</postcode>
+            <country>CN</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01M   4/04        20230101AFI20231127BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-priority-claims>
+      <fr-priority-claim sequence="1">
+        <country>CN</country>
+        <doc-number>202210760614.4</doc-number>
+        <date>20220630</date>
+      </fr-priority-claim>
+    </fr-priority-claims>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    La pr&#xE9;sente divulgation concerne un ensemble de d&#xE9;magn&#xE9;tisation et un dispositif de d&#xE9;magn&#xE9;tisation. L&#x2019;ensemble de d&#xE9;magn&#xE9;tisation comporte un organe de d&#xE9;magn&#xE9;tisation et une couche d&#x2019;&#xE9;chappement, o&#xF9; l&#x2019;organe de d&#xE9;magn&#xE9;tisation est dot&#xE9; d&#x2019;un canal de d&#xE9;magn&#xE9;tisation qui est muni d&#x2019;un canal de sortie, la couche d&#x2019;&#xE9;chappement est agenc&#xE9;e sur une paroi interne du canal de d&#xE9;magn&#xE9;tisation et est munie d&#x2019;un canal d&#x2019;entr&#xE9;e et d&#x2019;au moins un canal d&#x2019;&#xE9;chappement inclin&#xE9;, le canal d&#x2019;entr&#xE9;e communique avec le canal de sortie par le biais du canal d&#x2019;&#xE9;chappement inclin&#xE9;, et le canal d&#x2019;&#xE9;chappement inclin&#xE9; est configur&#xE9; pour pousser des substances &#xE9;trang&#xE8;res magn&#xE9;tiques afin qu&#x2019;elles se d&#xE9;placent vers le canal de sortie lorsque le canal d&#x2019;entr&#xE9;e est gonfl&#xE9;. L&#x2019;ensemble de d&#xE9;magn&#xE9;tisation est simple et pratique et peut garantir de mani&#xE8;re exhaustive et efficace le d&#xE9;tachement de substances &#xE9;trang&#xE8;res magn&#xE9;tiques de la couche d&#x2019;&#xE9;chappement.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-next-fee-payement percentile="1">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

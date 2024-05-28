@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145044" date-produced="20240105" kind="A1" doc-number="3137298" country="FR" id="2206740" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137298</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145044">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206740</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206740</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Insert diffusant la lumi&#xE8;re pour le traitement par phototh&#xE9;rapie</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>LUCIBEL SA</orgname>
+            <iid>507422913</iid>
+            <address>
+              <address-1>Parc d Activit&#xE9;s du Hoquet 101 All&#xE9;e des Vergers</address-1>
+              <city>BARENTIN</city>
+              <postcode>76360</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DAVID</last-name>
+            <first-name>Thibault</first-name>
+            <address>
+              <address-1/>
+              <city>BONSECOURS</city>
+              <postcode>76240</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>GROS-DAILLON</last-name>
+            <first-name>Thibault</first-name>
+            <address>
+              <address-1/>
+              <city>CRIQUETOT-SUR-LONGUEVILLE</city>
+              <postcode>76590</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>LUCIBEL SA</orgname>
+          <iid>507422913</iid>
+          <address>
+            <address-1>Parc d Activit&#xE9;s du Hoquet 101 All&#xE9;e des Vergers</address-1>
+            <city>BARENTIN</city>
+            <postcode>76360</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61N   5/06        20220101AFI20221019BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un insert (40) diffusant la lumi&#xE8;re rouge pour une utilisation dans le domaine du traitement dermo-cosm&#xE9;tique par phototh&#xE9;rapie, comprenant une paroi de contact dermique (42) destin&#xE9;e &#xE0; &#xEA;tre intercal&#xE9;e entre la peau d&#x2019;un utilisateur en contact direct et un corps d&#x2019;&#xE9;mission lumineuse (20) d&#x2019;un dispositif de photo-th&#xE9;rapie (30). Selon l&#x2019;invention, le mat&#xE9;riau de la paroi de contact dermique (42) de l&#x2019;insert (40) est obtenu par d&#xE9;p&#xF4;t de soie naturelle s&#xE9;cr&#xE9;t&#xE9;e par un ver &#xE0; soie sur une matrice de support afin de former un voile de textile non tiss&#xE9; de soie naturelle lib&#xE9;rable de la matrice de support pour former la paroi de contact dermique (42) de l&#x2019;insert (40).
+    Figure 1 _
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2014/334005 A1 (OMENETTO FIORENZO [US]
+ET AL) 13 novembre 2014 (2014-11-13)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2014334005-A1</doc-number>
+            <date>20141113</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 106 350 998 A (ZHOU NANYAN)
+25 janvier 2017 (2017-01-25)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-106350998-A</doc-number>
+            <date>20170125</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 109 998 773 A (JIANGSU HONGDOU IND CO
+LTD) 12 juillet 2019 (2019-07-12)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-109998773-A</doc-number>
+            <date>20190712</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 3 988 013 A1 (AMENGINE CORP [TW])
+27 avril 2022 (2022-04-27)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3988013-A1</doc-number>
+            <date>20220427</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2013/310908 A1 (OMENETTO FIORENZO [US]
+ET AL) 21 novembre 2013 (2013-11-21)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2013310908-A1</doc-number>
+            <date>20131121</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230308</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

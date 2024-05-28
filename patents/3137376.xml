@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145015" date-produced="20240105" kind="A3" doc-number="3137376" country="FR" id="2206705" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137376</doc-number>
+          <kind>A3</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Certificat d'utilit&#xE9;</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145015">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206705</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206705</doc-number>
+        <date>20220701</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">pont &#xE9;l&#xE9;vateur losange quinze profil&#xE9;s acier</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>Colombani</last-name>
+            <first-name>Jean luc</first-name>
+            <address>
+              <address-1>2 Rue Andr&#xE9; Abry</address-1>
+              <city>GRENOBLE</city>
+              <postcode>38100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>Colombani</last-name>
+            <first-name>Jean luc</first-name>
+            <address>
+              <address-1/>
+              <city>GRENOBLE</city>
+              <postcode>38100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <last-name>Colombani</last-name>
+          <first-name>Jean luc</first-name>
+          <address>
+            <address-1>2 Rue Andr&#xE9; Abry</address-1>
+            <city>GRENOBLE</city>
+            <postcode>38100</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B66F   7/00        20220101AFI20220909BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Pont &#xE9;l&#xE9;vateur losange quinze profil&#xE9;s acier, comportant quatre ensembles de plusieurs tubes, d&#x2019;axes de liaison et goupilles, d&#x2019;un fer u, d&#x2019;une chaine de transmission, deux axes cannel&#xE9;s avec un engrenage conique, quatre pignons de chaine, d&#x2019;un v&#xE9;rin hydraulique, d&#x2019;une pompe &#xE0; pied, et d&#x2019;une barre &#xE0; main.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 4
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="3">
+        <date>20230807</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="4">
+        <date>20250731</date>
+      </fr-next-fee-payement>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

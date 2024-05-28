@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144863" date-produced="20240105" kind="A1" doc-number="3137324" country="FR" id="2206525" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137324</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144863">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206525</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206525</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Assemblage d&#x2019;une pi&#xE8;ce m&#xE9;tallique et d&#x2019;une pi&#xE8;ce en mat&#xE9;riau composite</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Institut de Recherche Technologique Jules Verne</orgname>
+            <address>
+              <address-1>Technocampus EMC2  ZI DU CHAFFAULT</address-1>
+              <city>BOUGUENAIS</city>
+              <postcode>44340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>VINCENT</last-name>
+            <first-name>Guillaume</first-name>
+            <address>
+              <address-1/>
+              <city>NANTES</city>
+              <postcode>44000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>GUINOISEAU</last-name>
+            <first-name>Alexandre</first-name>
+            <address>
+              <address-1/>
+              <city>LA CHEVROLIERE</city>
+              <postcode>44118</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>De PARSCAU Du PLESSIX</last-name>
+            <first-name>Basile</first-name>
+            <address>
+              <address-1/>
+              <city>ORVAULT</city>
+              <postcode>44700</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET NONY</orgname>
+            <address>
+              <address-1>11 rue Saint-Georges</address-1>
+              <city>PARIS</city>
+              <postcode>75009</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Institut de Recherche Technologique Jules Verne</orgname>
+          <address>
+            <address-1>Technocampus EMC2  ZI DU CHAFFAULT</address-1>
+            <city>BOUGUENAIS</city>
+            <postcode>44340</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B29C  65/48        20220101AFI20221025BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B29C  65/64        20220101ALI20221025BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B29C  70/08        20220101ALI20221025BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Assemblage d&#x2019;une pi&#xE8;ce m&#xE9;tallique et d&#x2019;une pi&#xE8;ce en mat&#xE9;riau composite
+    Proc&#xE9;d&#xE9; d&#x2019;assemblage d&#x2019;une pi&#xE8;ce m&#xE9;tallique (12) et d&#x2019;une pi&#xE8;ce en mat&#xE9;riau composite (1) &#xE0; matrice polym&#xE8;re thermoplastique &#xE0; l&#x2019;aide d&#x2019;un outillage (10) comportant une premi&#xE8;re (11) et une deuxi&#xE8;me partie (13) et pouvant prendre des configurations ouverte et ferm&#xE9;e, le proc&#xE9;d&#xE9; comportant les &#xE9;tapes suivantes&#xA0;:
+    positionner la pi&#xE8;ce m&#xE9;tallique (12) dans la premi&#xE8;re partie (11) de l&#x2019;outillage (10) en configuration ouverte,positionner la pi&#xE8;ce en mat&#xE9;riau composite (1) entre la pi&#xE8;ce m&#xE9;tallique (12) et la deuxi&#xE8;me partie (13) de l&#x2019;outillage, la pi&#xE8;ce en mat&#xE9;riau composite (1) et la pi&#xE8;ce m&#xE9;tallique (12) ayant &#xE0; ce stade du proc&#xE9;d&#xE9; des faces (4, 15) en regard de formes non enti&#xE8;rement correspondantes, 
+    amener l&#x2019;outillage (10) en configuration ferm&#xE9;e pour rapprocher la deuxi&#xE8;me partie de la premi&#xE8;re et d&#xE9;former plastiquement la pi&#xE8;ce en mat&#xE9;riau composite (1) sur et &#xE0; la forme de la pi&#xE8;ce m&#xE9;tallique (12), au moins un agent de liaison (5, 22) &#xE9;tant pr&#xE9;sent entre la pi&#xE8;ce m&#xE9;tallique (12) et la pi&#xE8;ce en mat&#xE9;riau composite (1) avant la fermeture de l&#x2019;outillage (10).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 3 296 089 A1 (PLASTIC OMNIUM CIE [FR])
+21 mars 2018 (2018-03-21)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3296089-A1</doc-number>
+            <date>20180321</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230426</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

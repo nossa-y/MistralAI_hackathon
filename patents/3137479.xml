@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144962" date-produced="20240105" kind="A1" doc-number="3137479" country="FR" id="2206646" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137479</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144962">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206646</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206646</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de reconnaissance biom&#xE9;trique</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>IDEMIA IDENTITY &amp; SECURITY FRANCE</orgname>
+            <address>
+              <address-1>2, place Samuel de Champlain</address-1>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>GENTRIC</last-name>
+            <first-name>STEPHANE</first-name>
+            <address>
+              <address-1/>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>IDEMIA FRANCE</orgname>
+            <address>
+              <address-1>2 place Samuel de Champlain</address-1>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>IDEMIA IDENTITY &amp; SECURITY FRANCE</orgname>
+          <address>
+            <address-1>2, place Samuel de Champlain</address-1>
+            <city>COURBEVOIE</city>
+            <postcode>92400</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G06V  40/10        20220101AFI20221024BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G06V  10/764       20220101ALI20221024BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>G06F  21/32        20220101ALI20221024BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Proc&#xE9;d&#xE9; de reconnaissance biom&#xE9;trique comprenant des &#xE9;tapes de :
+    - classification (E_CLA) des donn&#xE9;es biom&#xE9;triques d&#x2019;apprentissage parmi au moins deux groupes;
+    - g&#xE9;n&#xE9;ration d&#x2019;au moins une fonction de densit&#xE9; de probabilit&#xE9; de transition&#xA0;;
+    - classification (E_CLA) d&#x2019;une donn&#xE9;e biom&#xE9;trique candidate (DBC) parmi lesdits groupes (G1);
+    - calcul d&#x2019;un score de similarit&#xE9; (SSC) de la donn&#xE9;e biom&#xE9;trique candidate (DBC);
+    - d&#xE9;termination (E_DPDF) de la fonction de densit&#xE9; de probabilit&#xE9; de transition (PDFT1,C) propre audit groupe de ladite donn&#xE9;e biom&#xE9;trique candidate (DBC) en fonction du score de similarit&#xE9; (SSC) calcul&#xE9; pour ladite donn&#xE9;e biom&#xE9;trique candidate (DBC) ;    
+    - d&#xE9;termination (E_DSR) d&#x2019;un score de reconnaissance (SRC) de ladite donn&#xE9;e biom&#xE9;trique candidate (DBC), ledit score de reconnaissance (SRC) r&#xE9;sultant du tirage al&#xE9;atoire avec ladite fonction de densit&#xE9; de probabilit&#xE9; de transition (PDFT1,C);
+    - d&#xE9;cision (E_DEC) validant ou refusant la reconnaissance en fonction du score de reconnaissance (SRC). 
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <nplcit>
+          <text>TIAGO SALVADOR ET AL:  "FairCal: Fairness
+Calibration for Face Verification",
+ARXIV.ORG, CORNELL UNIVERSITY LIBRARY, 201
+OLIN LIBRARY CORNELL UNIVERSITY ITHACA, NY
+14853,
+30 mars 2022 (2022-03-30), XP091169330,</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>RAY JIANG ET AL:  "Wasserstein Fair
+Classification",
+ARXIV.ORG, CORNELL UNIVERSITY LIBRARY, 201
+OLIN LIBRARY CORNELL UNIVERSITY ITHACA, NY
+14853,
+28 juillet 2019 (2019-07-28), XP081450601,</text>
+        </nplcit>
+      </citation>
+      <citation>
+        <nplcit>
+          <text>RUICHENG XIAN ET AL:  "Fair and Optimal
+Classification via Post-Processing
+Predictors",
+ARXIV.ORG, CORNELL UNIVERSITY LIBRARY, 201
+OLIN LIBRARY CORNELL UNIVERSITY ITHACA, NY
+14853,
+29 janvier 2023 (2023-01-29), XP091424528,</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

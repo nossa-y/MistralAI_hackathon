@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144890" date-produced="20240105" kind="A1" doc-number="3137436" country="FR" id="2206552" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137436</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144890">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206552</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206552</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Module lumineux pour v&#xE9;hicule automobile.</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VALEO VISION</orgname>
+            <iid>950344333</iid>
+            <address>
+              <address-1>34 Rue Saint-Andr&#xE9;</address-1>
+              <city>BOBIGNY CEDEX</city>
+              <postcode>93012</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>HARIVEL</last-name>
+            <first-name>Antoine</first-name>
+            <address>
+              <address-1/>
+              <city>Bobigny Cedex</city>
+              <postcode>93012</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BAI</last-name>
+            <first-name>Lu</first-name>
+            <address>
+              <address-1/>
+              <city>Wuhan</city>
+              <postcode>430014</postcode>
+              <country>CN</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>VALEO VISION</orgname>
+          <iid>950344333</iid>
+          <address>
+            <address-1>34 Rue Saint-Andr&#xE9;</address-1>
+            <city>BOBIGNY CEDEX</city>
+            <postcode>93012</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F21S  41/33        20220101AFI20221102BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F21W 102/14        20220101ALI20221102BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Titre&#xA0;: Module lumineux pour v&#xE9;hicule automobile.
+    La pr&#xE9;sente invention concerne un module lumineux (1) pour dispositif d&#x2019;&#xE9;clairage d&#x2019;un v&#xE9;hicule, comprenant au moins une source lumineuse (6) apte &#xE0; &#xE9;mettre des rayons lumineux pour former un faisceau d&#x2019;&#xE9;clairage, le module lumineux (1) comprenant un collecteur (7) comportant une surface r&#xE9;fl&#xE9;chissante (72) destin&#xE9;e &#xE0; collecter et &#xE0; r&#xE9;fl&#xE9;chir au moins une partie des rayons lumineux &#xE9;mis par ladite source lumineuse (6) en direction d&#x2019;une lentille de projection (3) du module lumineux (1), caract&#xE9;ris&#xE9; en ce que le module lumineux (1) comprend une surface optique plane (71) prolongeant la surface r&#xE9;fl&#xE9;chissante (72) du collecteur (7), la surface optique plane (71) comportant une d&#xE9;formation locale (74) formant une zone de d&#xE9;viation des rayons lumineux &#xE9;mis par la source lumineuse (6).
+    (Figure 2)
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>CN 210 740 275 U (HASCO VISION TECH
+SHANGHAI CO LTD) 12 juin 2020 (2020-06-12)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-210740275-U</doc-number>
+            <date>20200612</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/129420 A1 (VALEO VISION [FR])
+23 juin 2022 (2022-06-23)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022129420-A1</doc-number>
+            <date>20220623</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2022/129426 A1 (VALEO VISION [FR])
+23 juin 2022 (2022-06-23)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2022129426-A1</doc-number>
+            <date>20220623</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 10 2016 103225 A1 (PANASONIC IP MAN CO
+LTD [JP]) 15 septembre 2016 (2016-09-15)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-102016103225-A1</doc-number>
+            <date>20160915</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 20 2017 102646 U1 (YUJING TECH CO LTD
+[TW]) 29 mai 2017 (2017-05-29)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-202017102646-U1</doc-number>
+            <date>20170529</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 2 733 413 A1 (VALEO VISION [FR])
+21 mai 2014 (2014-05-21)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-2733413-A1</doc-number>
+            <date>20140521</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230622</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

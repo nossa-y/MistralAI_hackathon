@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144882" date-produced="20240105" kind="A1" doc-number="3137428" country="FR" id="2206544" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137428</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144882">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206544</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206544</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Vanne thermostatique &#xE0; manchon</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>VERNET</orgname>
+            <iid>308528827</iid>
+            <address>
+              <address-1>21/27 Route d'Arpajon</address-1>
+              <city>OLLAINVILLE</city>
+              <postcode>91340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>GAUTIER GRAINDORGE</last-name>
+            <first-name>Guillaume</first-name>
+            <address>
+              <address-1/>
+              <city>MONTIGNY LE BRETONNEUX</city>
+              <postcode>78180</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>MARAUX</last-name>
+            <first-name>Thierry</first-name>
+            <address>
+              <address-1/>
+              <city>LES CLAYES SOUS BOIS</city>
+              <postcode>78340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Lavoix</orgname>
+            <address>
+              <address-1>62, rue de Bonnel</address-1>
+              <city>LYON CEDEX 03</city>
+              <postcode>69448</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>VERNET</orgname>
+          <iid>308528827</iid>
+          <address>
+            <address-1>21/27 Route d'Arpajon</address-1>
+            <city>OLLAINVILLE</city>
+            <postcode>91340</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F16K  31/64        20220101AFI20220908BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Vanne thermostatique  &#xE0; manchon  
+    Cette vanne (1) comporte un &#xE9;l&#xE9;ment thermostatique (20) &#xE0; mati&#xE8;re thermodilatable (22), incluant une partie fixe (23), li&#xE9;e fixement &#xE0; un bo&#xEE;tier (10), et une partie mobile (21), d&#xE9;pla&#xE7;able selon un axe (X-X). La vanne comporte aussi un clapet (30) d&#xE9;pla&#xE7;able selon l&#x2019;axe par rapport &#xE0; un si&#xE8;ge de clapet, port&#xE9; fixement par le bo&#xEE;tier, pour commander un &#xE9;coulement de fluide entre deux chambres (C1, C2) du bo&#xEE;tier. La vanne comporte &#xE9;galement un manchon (40) d&#xE9;pla&#xE7;able selon l&#x2019;axe pour passer entre une premi&#xE8;re configuration, o&#xF9; le manchon est appuy&#xE9; contre un si&#xE8;ge de manchon, port&#xE9; fixement par le bo&#xEE;tier, pour emp&#xEA;cher le fluide de s&#x2019;&#xE9;couler entre les deux chambres, et une seconde configuration, o&#xF9; le manchon est &#xE9;cart&#xE9; du si&#xE8;ge de manchon. Le clapet est li&#xE9; &#xE0; la partie mobile et au manchon de sorte que lors de la dilatation de la mati&#xE8;re thermodilatable, la partie mobile ouvre le clapet jusqu&#x2019;&#xE0; une position interm&#xE9;diaire tandis que le manchon reste dans sa premi&#xE8;re configuration, puis le clapet ouvert est entra&#xEE;n&#xE9; par la partie mobile au-del&#xE0; de la position interm&#xE9;diaire, tout en entra&#xEE;nant le manchon de la premi&#xE8;re &#xE0; la seconde configuration.
+    Figure pour l'abr&#xE9;g&#xE9; : Figure 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2017/220056 A1 (GRUMER BERNHARD [IL] ET
+AL) 3 ao&#xFB;t 2017 (2017-08-03)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2017220056-A1</doc-number>
+            <date>20170803</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 4 055 298 A (WILSON EARL L)
+25 octobre 1977 (1977-10-25)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4055298-A</doc-number>
+            <date>19771025</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230509</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145072" date-produced="20240105" kind="A1" doc-number="3137303" country="FR" id="2206773" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137303</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145072">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206773</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206773</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; et syst&#xE8;me de s&#xE9;paration d&#x2019;un solide et d&#x2019;au moins un liquide d&#x2019;une suspension</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>OCP SA</orgname>
+            <address>
+              <address-1>Hay Erraha Rue Al Abtal n&#xB0; 2-4</address-1>
+              <city>CASABLANCA</city>
+              <postcode>20200</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>HAFID</last-name>
+            <first-name>ZOUHAI</first-name>
+            <address>
+              <address-1/>
+              <city>NOUACEUR, CASABLANCA</city>
+              <postcode>27000</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>BOUALI</last-name>
+            <first-name>Ali</first-name>
+            <address>
+              <address-1/>
+              <city>KHOURIBGA</city>
+              <postcode>25023</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>EL YAZGHI EZZAHER</last-name>
+            <first-name>AMINE</first-name>
+            <address>
+              <address-1/>
+              <city>BERRECHID</city>
+              <postcode>26100</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>OABI</last-name>
+            <first-name>OMAR</first-name>
+            <address>
+              <address-1/>
+              <city>KHOURIBGA</city>
+              <postcode>25023</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="5">
+          <addressbook lang="fr">
+            <last-name>JOUTI</last-name>
+            <first-name>MOULAY BRAHIM</first-name>
+            <address>
+              <address-1/>
+              <city>KHOURIBGA</city>
+              <postcode>25010</postcode>
+              <country>MA</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>REGIMBEAU</orgname>
+            <address>
+              <address-1>20, rue de Chazelles</address-1>
+              <city>PARIS CEDEX 17</city>
+              <postcode>75847</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>OCP SA</orgname>
+          <address>
+            <address-1>Hay Erraha Rue Al Abtal n&#xB0; 2-4</address-1>
+            <city>CASABLANCA</city>
+            <postcode>20200</postcode>
+            <country>MA</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B01D  37/02        20220101AFI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B01D  33/76        20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B01D  33/06        20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>B01D  29/82        20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>B04B   1/20        20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>B01F  27/1143      20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+        La pr&#xE9;sente invention concerne un proc&#xE9;d&#xE9; de s&#xE9;paration d&#x2019;un solide et d&#x2019;au moins un liquide contenus dans une suspension par un syst&#xE8;me de s&#xE9;paration (1) configur&#xE9; pour s&#xE9;parer le solide et le liquide de la suspension, le syst&#xE8;me de s&#xE9;paration (1) comprenant au moins un r&#xE9;servoir (2) et une vis (4) configur&#xE9;e pour, lorsqu&#x2019;elle est mise en rotation, permettre le d&#xE9;placement de la suspension &#xE0; l&#x2019;int&#xE9;rieur du r&#xE9;servoir (2), le proc&#xE9;d&#xE9; &#xE9;tant caract&#xE9;ris&#xE9; en ce qu&#x2019;il comprend une &#xE9;tape de : 
+    a) introduction dans le r&#xE9;servoir (2) d&#x2019;un modificateur de rh&#xE9;ologie adapt&#xE9; pour fluidifier la suspension.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2006/283799 A1 (HOMANN THORSTEN [DE] ET
+AL) 21 d&#xE9;cembre 2006 (2006-12-21)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2006283799-A1</doc-number>
+            <date>20061221</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 4 559 143 A (ASADA HIROSHI [JP] ET AL)
+17 d&#xE9;cembre 1985 (1985-12-17)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4559143-A</doc-number>
+            <date>19851217</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP H04 66298 A (ISHIGAKI MECH IND)
+2 mars 1992 (1992-03-02)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-H0466298-A</doc-number>
+            <date>19920302</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP S59 113997 A (OZAWA MASAKATSU)
+30 juin 1984 (1984-06-30)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-S59113997-A</doc-number>
+            <date>19840630</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>JP H06 343998 A (ORGANO KK)
+20 d&#xE9;cembre 1994 (1994-12-20)</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>JP-H06343998-A</doc-number>
+            <date>19941220</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230614</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

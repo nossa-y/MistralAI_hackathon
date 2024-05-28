@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145039" date-produced="20240105" kind="A1" doc-number="3137521" country="FR" id="2206735" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137521</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145039">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206735</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206735</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif de capture d&#x2019;image et syst&#xE8;me de surveillance d&#x2019;un conducteur d&#x2019;un v&#xE9;hicule</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Valeo Comfort and Driving Assistance</orgname>
+            <address>
+              <address-1>6 rue Daniel Costantini</address-1>
+              <city>Cr&#xE9;teil</city>
+              <postcode>94000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>POPOVIC</last-name>
+            <first-name>Aleksandar</first-name>
+            <address>
+              <address-1/>
+              <city>Cr&#xE9;teil</city>
+              <postcode>94000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>DLIH</last-name>
+            <first-name>Salim</first-name>
+            <address>
+              <address-1/>
+              <city>Cr&#xE9;teil</city>
+              <postcode>94000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>Valeo Comfort and Driving Assistance</orgname>
+          <address>
+            <address-1>6 rue Daniel Costantini</address-1>
+            <city>Cr&#xE9;teil</city>
+            <postcode>94000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H04N  25/50        20230101AFI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H04N   5/33        20230101ALI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H04N  23/70        20230101ALI20220905BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>H01L  27/14        20230101ALI20220905BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un dispositif de capture d&#x2019;image comprenant&#xA0;:    - au moins un pixel transparent (41) qui est sensible &#xE0; toutes les longueurs d&#x2019;onde comprises dans le domaine visible&#xA0;; et    - au moins un pixel infrarouge (42) qui est moins sensible que le pixel transparent aux longueurs d&#x2019;onde comprises dans le domaine visible et qui est sensible &#xE0; une plage de longueurs d&#x2019;onde donn&#xE9;e du domaine infrarouge.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 3
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2015/130708 A1 (KANG HWA-YONG [KR] ET
+AL) 14 mai 2015 (2015-05-14)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2015130708-A1</doc-number>
+            <date>20150514</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2006/097172 A1 (PARK GYUTAE [KR])
+11 mai 2006 (2006-05-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2006097172-A1</doc-number>
+            <date>20060511</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2020/304732 A1 (FINLAYSON GRAHAM [GB]
+ET AL) 24 septembre 2020 (2020-09-24)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2020304732-A1</doc-number>
+            <date>20200924</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 104 363 A1 (VALEO COMFORT &amp; DRIVING
+ASSISTANCE [FR]) 11 juin 2021 (2021-06-11)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3104363-A1</doc-number>
+            <date>20210611</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230727</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

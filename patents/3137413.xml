@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144969" date-produced="20240105" kind="A1" doc-number="3137413" country="FR" id="2206653" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137413</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144969">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206653</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206653</doc-number>
+        <date>20220630</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">M&#xE9;langeur de r&#xE9;ducteur pour gaz d&#x2019;&#xE9;chappement</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>FAURECIA SYSTEMES D'ECHAPPEMENT</orgname>
+            <iid>420797433</iid>
+            <address>
+              <address-1>23-27 Avenue des Champs Pierreux</address-1>
+              <city>NANTERRE</city>
+              <postcode>92000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>VICAIRE</last-name>
+            <first-name>Nicolas</first-name>
+            <address>
+              <address-1/>
+              <city>ECOT</city>
+              <postcode>25150</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>POINSOT</last-name>
+            <first-name>Laurent</first-name>
+            <address>
+              <address-1/>
+              <city>HERICOURT</city>
+              <postcode>70400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>DHONDT</last-name>
+            <first-name>Sylvain</first-name>
+            <address>
+              <address-1/>
+              <city>SAINT-GERMAIN</city>
+              <postcode>70200</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Lavoix</orgname>
+            <address>
+              <address-1>2, place d'Estienne d'Orves</address-1>
+              <city>PARIS CEDEX 09</city>
+              <postcode>75441</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>FAURECIA SYSTEMES D'ECHAPPEMENT</orgname>
+          <iid>420797433</iid>
+          <address>
+            <address-1>23-27 Avenue des Champs Pierreux</address-1>
+            <city>NANTERRE</city>
+            <postcode>92000</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>F01N   3/10        20220101AFI20220909BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>F01N  13/08        20220101ALI20220909BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    M&#xE9;langeur de r&#xE9;ducteur pour gaz d&#x2019;&#xE9;chappement
+    L&#x2019;invention concerne un m&#xE9;langeur (1), pour m&#xE9;langer des gaz d&#x2019;&#xE9;chappement avec un fluide r&#xE9;ducteur, comprenant une canalisation (5-8) dans laquelle circule le gaz d&#x2019;&#xE9;chappement, depuis une entr&#xE9;e (2) jusqu&#x2019;&#xE0; une sortie (3) et un pulv&#xE9;risateur  (4) pour pulv&#xE9;riser le fluide r&#xE9;ducteur dans la circulation de gaz d&#x2019;&#xE9;chappement, o&#xF9; la canalisation (5-8) comprend, de l&#x2019;amont &#xE0;  l&#x2019;aval, une conduite amont (5) reliant l&#x2019;entr&#xE9;e (2) &#xE0; une disjonction (9), au moins deux sous-conduites (6, 7) interm&#xE9;diaires reliant la disjonction (9) &#xE0; une jonction (10) et une conduite avale (8) reliant la jonction (10) &#xE0; la sortie (3), o&#xF9;, &#xE0; la jonction (10), les au moins deux sous-conduites (6, 7) sont agenc&#xE9;es de mani&#xE8;re &#xE0; ce que la circulation de gaz d&#x2019;&#xE9;chappement forme un tourbillon dans la conduite avale (8) et o&#xF9; le pulv&#xE9;risateur (4) est dispos&#xE9; &#xE0; la jonction (10) de mani&#xE8;re &#xE0; pulv&#xE9;riser dans la conduite avale (8), pr&#xE9;f&#xE9;rentiellement coaxialement.
+    Figure pour l'abr&#xE9;g&#xE9; : 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>CN 112 627 951 B (BEIJING INSTITUTE TECH)
+19 novembre 2021 (2021-11-19)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-112627951-B</doc-number>
+            <date>20211119</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>DE 11 2012 000089 T5 (KOMATSU MFG CO LTD
+[JP]) 12 septembre 2013 (2013-09-12)</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>DE-112012000089-T5</doc-number>
+            <date>20130912</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 4 063 626 A1 (PUREM GMBH [DE])
+28 septembre 2022 (2022-09-28)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-4063626-A1</doc-number>
+            <date>20220928</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

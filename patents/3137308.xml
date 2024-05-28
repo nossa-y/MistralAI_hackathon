@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144896" date-produced="20240105" kind="A1" doc-number="3137308" country="FR" id="2206558" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137308</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144896">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206558</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206558</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">DISPOSITIF ET PROC&#xC9;D&#xC9; DE CAPTURE CRYOG&#xC9;NIQUE DE DIOXYDE DE CARBONE CONTENU DANS UN FLUX DE FLUIDE CIBLE</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>ENGIE</orgname>
+            <iid>542107651</iid>
+            <address>
+              <address-1>1 Place Samuel de Champlain</address-1>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>HUBERT</last-name>
+            <first-name>Audrey</first-name>
+            <address>
+              <address-1/>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>JALIA</last-name>
+            <first-name>Florian</first-name>
+            <address>
+              <address-1/>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>DETOURNAY</last-name>
+            <first-name>Cl&#xE9;mence</first-name>
+            <address>
+              <address-1/>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CASSIOPI</orgname>
+            <address>
+              <address-1>230 Avenue de l'Aube Rouge</address-1>
+              <city>CASTELNAU LE LEZ</city>
+              <postcode>34170</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>ENGIE</orgname>
+          <iid>542107651</iid>
+          <address>
+            <address-1>1 Place Samuel de Champlain</address-1>
+            <city>COURBEVOIE</city>
+            <postcode>92400</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B01D   7/02        20220101AFI20220908BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B01D  53/62        20220101ALI20220908BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>F25J   5/00        20220101ALI20220908BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    TITRE DE L&#x2019;INVENTION&#xA0;: DISPOSITIF ET PROC&#xC9;D&#xC9; DE CAPTURE CRYOG&#xC9;NIQUE DE DIOXYDE DE CARBONE CONTENU DANS UN FLUX DE FLUIDE CIBLE
+    Le dispositif (200) de capture cryog&#xE9;nique de dioxyde de carbone contenu dans un fluide cible, au moins partielle, comporte au moins&#xA0;:- un circuit de transport (210) d&#x2019;un fluide cible,- un circuit ferm&#xE9; de circulation (240) d&#x2019;un premier fluide r&#xE9;frig&#xE9;rant,- un circuit d&#x2019;acheminement (261) d&#x2019;un deuxi&#xE8;me fluide r&#xE9;frig&#xE9;rant, - un groupe d&#x2019;au moins trois &#xE9;changeurs thermiques, comportant&#xA0;:- un premier &#xE9;changeur thermique (215) de pr&#xE9;-refroidissement entre au moins le fluide cible et le premier fluide r&#xE9;frig&#xE9;rant&#xA0;;- un deuxi&#xE8;me &#xE9;changeur thermique (216) de pr&#xE9;-refroidissement entre au moins le fluide cible et le premier fluide r&#xE9;frig&#xE9;rant&#xA0;; et- un troisi&#xE8;me &#xE9;changeur thermique, appel&#xE9; &#xAB;&#xA0;ensemble d&#x2019;anti-sublimation&#xA0;&#xBB; (225) du dioxyde de carbone dans le fluide cible, configur&#xE9; pour r&#xE9;aliser un &#xE9;change thermique entre le fluide cible et au moins le premier fluide r&#xE9;frig&#xE9;rant et le deuxi&#xE8;me fluide r&#xE9;frig&#xE9;rant.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Figure 2
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2008/302133 A1 (SAYSSET SAMUEL [FR] ET
+AL) 11 d&#xE9;cembre 2008 (2008-12-11)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2008302133-A1</doc-number>
+            <date>20081211</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2013/062922 A1 (BAXTER LARRY L [US])
+2 mai 2013 (2013-05-02)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2013062922-A1</doc-number>
+            <date>20130502</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

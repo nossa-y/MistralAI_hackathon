@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145040" date-produced="20240105" kind="A1" doc-number="3137471" country="FR" id="2206736" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137471</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145040">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206736</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206736</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de gestion de droits d&#x2019;acc&#xE8;s de r&#xE9;gions m&#xE9;moires et syst&#xE8;me sur puce correspondant</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>STMicroelectronics (Grand Ouest) SAS</orgname>
+            <iid>409768520</iid>
+            <address>
+              <address-1>11 rue Pierre Felix Delarue</address-1>
+              <city>LE MANS</city>
+              <postcode>72100</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>PALLARDY</last-name>
+            <first-name>Loic</first-name>
+            <address>
+              <address-1/>
+              <city>ROUILLON</city>
+              <postcode>72700</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>DEBIEVE</last-name>
+            <first-name>Lionel</first-name>
+            <address>
+              <address-1/>
+              <city>ALLONNES</city>
+              <postcode>72700</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CASALONGA</orgname>
+            <address>
+              <address-1>31 Rue de Fleurus,</address-1>
+              <city>PARIS-6E-ARRONDISSEMENT</city>
+              <postcode>75006</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>STMicroelectronics (Grand Ouest) SAS</orgname>
+          <iid>409768520</iid>
+          <address>
+            <address-1>11 rue Pierre Felix Delarue</address-1>
+            <city>LE MANS</city>
+            <postcode>72100</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G06F  12/14        20220101AFI20221025BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G06F  13/16        20220101ALI20221025BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Le proc&#xE9;d&#xE9; de gestion de droits d&#x2019;acc&#xE8;s de r&#xE9;gions m&#xE9;moires (R1, R2) d&#x2019;une m&#xE9;moire (MEM) comprend une attribution d&#x2019;un statut de permission d&#x2019;ex&#xE9;cution (E, NE) pour chaque r&#xE9;gion m&#xE9;moire dans un dispositif de pare-feu (FWL) d&#xE9;di&#xE9; &#xE0; la m&#xE9;moire, de sorte que le contenu d&#x2019;une r&#xE9;gion m&#xE9;moire ayant un statut ex&#xE9;cutable (E) est apte &#xE0; &#xEA;tre ex&#xE9;cut&#xE9; par un processeur (CPU), et que le contenu d&#x2019;une r&#xE9;gion m&#xE9;moire ayant un statut non-ex&#xE9;cutable (NE) ne peut pas &#xEA;tre ex&#xE9;cut&#xE9; par le processeur (CPU).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2007/226795 A1 (CONTI GREGORY R [FR] ET
+AL) 27 septembre 2007 (2007-09-27)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2007226795-A1</doc-number>
+            <date>20070927</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 1 987 430 B1 (TEXAS INSTRUMENTS INC
+[US]) 14 ao&#xFB;t 2019 (2019-08-14)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-1987430-B1</doc-number>
+            <date>20190814</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 3 675 125 A1 (SECURE IC SAS [FR])
+1 juillet 2020 (2020-07-01)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3675125-A1</doc-number>
+            <date>20200701</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 3 462 362 A1 (ST MICROELECTRONICS INC
+[US]) 3 avril 2019 (2019-04-03)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3462362-A1</doc-number>
+            <date>20190403</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230621</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

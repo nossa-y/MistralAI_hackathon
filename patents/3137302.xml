@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144900" date-produced="20240105" kind="A1" doc-number="3137302" country="FR" id="2206562" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137302</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144900">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206562</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206562</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Syst&#xE8;me et proc&#xE9;d&#xE9; d&#x2019;extraction de mol&#xE9;cules volatiles provenant de mati&#xE8;re premi&#xE8;re v&#xE9;g&#xE9;tales</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>JAFER ENTERPRISES R&amp;D, S.L.U.</orgname>
+            <address>
+              <address-1>Av Sant Juli&#xE0; 260-266, Pol&#xED;gono Industrial Congost</address-1>
+              <city>Granollers</city>
+              <postcode>08403</postcode>
+              <country>ES</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>MASSON</last-name>
+            <first-name>J&#xE9;r&#xF4;me</first-name>
+            <address>
+              <address-1/>
+              <city>PEYMEINADE</city>
+              <postcode>06530</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>LE MASSON</last-name>
+            <first-name>Julien</first-name>
+            <address>
+              <address-1/>
+              <city>MOUANS SARTOUX</city>
+              <postcode>06370</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>MAESTRO</last-name>
+            <first-name>Yannick</first-name>
+            <address>
+              <address-1/>
+              <city>MOUANS SARTOUX</city>
+              <postcode>06370</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>RENARD IP</orgname>
+            <address>
+              <address-1>4 B AVENUE DE LORRAINE</address-1>
+              <city>GARCHES</city>
+              <postcode>92380</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>JAFER ENTERPRISES R&amp;D, S.L.U.</orgname>
+          <address>
+            <address-1>Av Sant Juli&#xE0; 260-266, Pol&#xED;gono Industrial Congost</address-1>
+            <city>Granollers</city>
+            <postcode>08403</postcode>
+            <country>ES</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B01D  11/00        20220101AFI20220906BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un syst&#xE8;me d&#x2019;extraction (1) de mol&#xE9;cules volatiles provenant d&#x2019;une mati&#xE8;re premi&#xE8;re v&#xE9;g&#xE9;tale, telle que des fleurs, comportant&#xA0;:
+    - au moins une enceinte (10) comportant une pluralit&#xE9; de r&#xE9;ceptacles (18), configur&#xE9;s pour recevoir une mati&#xE8;re premi&#xE8;re v&#xE9;g&#xE9;tale telles que des fleurs (2) fraiches, l&#x2019;enceinte (10) &#xE9;tant herm&#xE9;tique aux gaz et comportant une entr&#xE9;e (102) et une sortie (106) dispos&#xE9;es respectivement &#xE0; deux extr&#xE9;mit&#xE9;s oppos&#xE9;es de l&#x2019;enceinte, l&#x2019;entr&#xE9;e &#xE9;tant reli&#xE9; &#xE0; une colonne de distribution (20) de gaz ou d&#x2019;air, la colonne de distribution (20) comportant des orifices (204) de distribution au niveau de chaque r&#xE9;ceptacle (18)&#xA0;;
+    - un dispositif de compression (12), configur&#xE9; pour faire circuler de l&#x2019;air ou un gaz depuis l&#x2019;enceinte (10) vers un syst&#xE8;me de capture (14, 16) avec une pression relative sup&#xE9;rieure ou &#xE9;gale &#xE0; 2 bars&#xA0;;
+    le syst&#xE8;me de capture comportant
+    - un premier dispositif de capture (14), au moins partiellement rempli d&#x2019;un premier solvant de fa&#xE7;on &#xE0; permettre un &#xE9;change entre le premier solvant et le gaz compress&#xE9; entrain&#xE9; par le dispositif de compression (12)&#xA0;; et
+    - un deuxi&#xE8;me dispositif de capture (16), le deuxi&#xE8;me dispositif de capture &#xE9;tant au moins partiellement rempli d&#x2019;un deuxi&#xE8;me solvant, de fa&#xE7;on &#xE0; permettre un &#xE9;change entre le deuxi&#xE8;me solvant et le gaz compress&#xE9; entrain&#xE9; par le dispositif de compression (12).
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 1
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 2 644 039 A1 (RAUSCHE HELMUT [DE])
+2 octobre 2013 (2013-10-02)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-2644039-A1</doc-number>
+            <date>20131002</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 103 245 536 A (YANG TIEZHAO)
+14 ao&#xFB;t 2013 (2013-08-14)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-103245536-A</doc-number>
+            <date>20130814</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2016/161420 A1 (NATURAL EXTRACTION SYS
+LLC [US]) 6 octobre 2016 (2016-10-06)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2016161420-A1</doc-number>
+            <date>20161006</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 108 801 714 A (LIN JIAPING)
+13 novembre 2018 (2018-11-13)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-108801714-A</doc-number>
+            <date>20181113</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 204 694 513 U (INST PLANT PROTECTION
+IPP CAAS) 7 octobre 2015 (2015-10-07)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-204694513-U</doc-number>
+            <date>20151007</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230601</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

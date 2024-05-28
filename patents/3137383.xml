@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145074" date-produced="20240105" kind="A1" doc-number="3137383" country="FR" id="2206775" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137383</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145074">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206775</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206775</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Proc&#xE9;d&#xE9; de s&#xE9;chage solaire de boues issues de stations d&#x2019;&#xE9;puration</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SUEZ International</orgname>
+            <iid>569800873</iid>
+            <address>
+              <address-1>16 Place de l'Iris - Tour CB21</address-1>
+              <city>Paris La D&#xE9;fense Cedex</city>
+              <postcode>92040</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>KESSAS</last-name>
+            <first-name>Sid Ahmed</first-name>
+            <address>
+              <address-1/>
+              <city>CERGY</city>
+              <postcode>95800</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>VIDIL</last-name>
+            <first-name>Pascal</first-name>
+            <address>
+              <address-1/>
+              <city>MAISONS-LAFFITTE</city>
+              <postcode>78600</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>PARDO</last-name>
+            <first-name>Pierre-Emmanuel</first-name>
+            <address>
+              <address-1/>
+              <city>PALAISEAU</city>
+              <postcode>91120</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>IPAZ</orgname>
+            <address>
+              <address-1>16 rue Gaillon</address-1>
+              <city>PARIS</city>
+              <postcode>75002</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SUEZ International</orgname>
+          <iid>569800873</iid>
+          <address>
+            <address-1>16 Place de l'Iris - Tour CB21</address-1>
+            <city>Paris La D&#xE9;fense Cedex</city>
+            <postcode>92040</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>C02F  11/13        20220101AFI20220915BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>C02F   1/14        20220101ALI20220915BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+    <fr-extension>
+      <fr-extension-territory>Polyn&#xE9;sie fran&#xE7;aise</fr-extension-territory>
+    </fr-extension>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un proc&#xE9;d&#xE9; de traitement de boues d&#x2019;&#xE9;puration comprenant dans cet ordre :
+    une &#xE9;tape de pr&#xE9;-s&#xE9;chage thermique des boues dans une unit&#xE9; de s&#xE9;chage thermique,
+    une &#xE9;tape de s&#xE9;chage solaire des boues dans une unit&#xE9; de s&#xE9;chage solaire.
+    Figure  1.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>FR 2 960 871 A1 (DEGREMONT [FR])
+9 d&#xE9;cembre 2011 (2011-12-09)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2960871-A1</doc-number>
+            <date>20111209</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>CN 111 039 539 A (UNIV ANHUI TECHNOLOGY)
+21 avril 2020 (2020-04-21)</text>
+          <document-id>
+            <country>CN</country>
+            <doc-number>CN-111039539-A</doc-number>
+            <date>20200421</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 2 943 409 A1 (DEBUIRE JACQUES [FR])
+24 septembre 2010 (2010-09-24)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-2943409-A1</doc-number>
+            <date>20100924</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230725</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

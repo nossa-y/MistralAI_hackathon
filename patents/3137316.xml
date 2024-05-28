@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800144857" date-produced="20240105" kind="A1" doc-number="3137316" country="FR" id="2206516" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137316</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800144857">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206516</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206516</doc-number>
+        <date>20220629</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Noyau c&#xE9;ramique pour aube de turbine creuse &#xE0; per&#xE7;ages externes</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>SAFRAN AIRCRAFT ENGINES</orgname>
+            <iid>414815217</iid>
+            <address>
+              <address-1>2 boulevard du G&#xE9;n&#xE9;ral Martial Valin</address-1>
+              <city>PARIS</city>
+              <postcode>75015</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>DOUIN</last-name>
+            <first-name>Antoine</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>ZLATIC</last-name>
+            <first-name>Thomas</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>THURISSET</last-name>
+            <first-name>Lucas Etienne Valery</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="4">
+          <addressbook lang="fr">
+            <last-name>BAUDRIBOS</last-name>
+            <first-name>Alexandre</first-name>
+            <address>
+              <address-1/>
+              <city>MOISSY-CRAMAYEL</city>
+              <postcode>77550</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>CABINET BEAU DE LOMENIE</orgname>
+            <address>
+              <address-1>158 RUE DE L'UNIVERSITE</address-1>
+              <city>PARIS CEDEX 07</city>
+              <postcode>75340</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>SAFRAN AIRCRAFT ENGINES</orgname>
+          <iid>414815217</iid>
+          <address>
+            <address-1>2 boulevard du G&#xE9;n&#xE9;ral Martial Valin</address-1>
+            <city>PARIS</city>
+            <postcode>75015</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B22C   9/10        20220101AFI20221006BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B22C   9/04        20220101ALI20221006BHFR        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>F01D   5/18        20220101ALI20221006BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    Noyau c&#xE9;ramique  pour aube de turbine creuse &#xE0; per&#xE7;ages externes
+    Noyau c&#xE9;ramique utilis&#xE9; pour la fabrication d&#x2019;une aube de turbine creuse selon la technique de la fonderie &#xE0; la cire perdue, l&#x2019;aube comportant au moins une cavit&#xE9; et une paroi externe pourvue de perforations externes d&#xE9;bouchant au moins dans cette cavit&#xE9;, noyau (10) comportant une pluralit&#xE9; de picots (30) correspondant &#xE0; ces perforations externes et destin&#xE9;s avec le noyau &#xE0; &#xEA;tre recouverts de cire perdue puis de m&#xE9;tal en fusion afin d&#x2019;obtenir une aube de turbine creuse brute de fonderie int&#xE9;grant directement ces perforations externes sans usinage d&#xE9;di&#xE9;.
+    Figure pour l&#x2019;abr&#xE9;g&#xE9;&#xA0;: Fig. 2.
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>US 2021/187594 A1 (OSTINO LEANDRE [FR] ET
+AL) 24 juin 2021 (2021-06-24)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2021187594-A1</doc-number>
+            <date>20210624</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 4 811 778 A (ALLEN DAVID J [GB] ET AL)
+14 mars 1989 (1989-03-14)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-4811778-A</doc-number>
+            <date>19890314</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 10 022 790 B2 (SIEMENS ENERGY INC [US];
+SIEMENS AG [DE]; MIKRO SYSTEMS INC [US])
+17 juillet 2018 (2018-07-17)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-10022790-B2</doc-number>
+            <date>20180717</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 9 057 277 B2 (MIKRO SYSTEMS INC [US])
+16 juin 2015 (2015-06-16)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-9057277-B2</doc-number>
+            <date>20150616</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 3 808 473 A1 (RAYTHEON TECH CORP [US])
+21 avril 2021 (2021-04-21)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-3808473-A1</doc-number>
+            <date>20210421</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>WO 2014/113184 A1 (GEN ELECTRIC [US])
+24 juillet 2014 (2014-07-24)</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>WO-2014113184-A1</doc-number>
+            <date>20140724</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230523</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240701</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>

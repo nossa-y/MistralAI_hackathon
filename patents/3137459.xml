@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<fr-patent-document family-id="1800145058" date-produced="20240105" kind="A1" doc-number="3137459" country="FR" id="2206755" status="NEW" dtd-version="1.6.0" lang="fr">
+  <fr-bibliographic-data>
+    <fr-publication-data>
+      <fr-publication-reference data-format="inpi">
+        <document-id>
+          <country>FR</country>
+          <doc-number>3137459</doc-number>
+          <kind>A1</kind>
+          <date>20240105</date>
+        </document-id>
+        <fr-bopinum>2024-01</fr-bopinum>
+        <fr-nature>Demande fran&#xE7;aise</fr-nature>
+      </fr-publication-reference>
+    </fr-publication-data>
+    <fr-application-reference data-format="inpi" doc-id="800145058">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206755</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <fr-application-reference data-format="docdb">
+      <document-id>
+        <country>FR</country>
+        <doc-number>2206755</doc-number>
+        <date>20220704</date>
+      </document-id>
+    </fr-application-reference>
+    <invention-title lang="fr">Dispositif et proc&#xE9;d&#xE9; de maintien de l'int&#xE9;grit&#xE9; du positionnement d'un v&#xE9;hicule ind&#xE9;pendamment de la vuln&#xE9;rabilit&#xE9; de donn&#xE9;es satellitaires</invention-title>
+    <parties>
+      <applicants>
+        <applicant designation="all" app-type="applicant" data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <orgname>THALES</orgname>
+            <iid>552059024</iid>
+            <address>
+              <address-1>Tour Carpe Diem Place des Corolles Esplanade Nord</address-1>
+              <city>COURBEVOIE</city>
+              <postcode>92400</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="liste" sequence="1">
+          <addressbook lang="fr">
+            <last-name>NGUYEN</last-name>
+            <first-name>Emmanuel</first-name>
+            <address>
+              <address-1/>
+              <city>VALENCE</city>
+              <postcode>26000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="2">
+          <addressbook lang="fr">
+            <last-name>CHOPARD</last-name>
+            <first-name>Vincent</first-name>
+            <address>
+              <address-1/>
+              <city>VALENCE</city>
+              <postcode>26000</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor data-format="liste" sequence="3">
+          <addressbook lang="fr">
+            <last-name>LESAGE</last-name>
+            <first-name>Thomas</first-name>
+            <address>
+              <address-1/>
+              <city>CHATELLERAULT</city>
+              <postcode>86101</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent rep-type="agent" sequence="1">
+          <addressbook lang="fr">
+            <orgname>Lavoix</orgname>
+            <address>
+              <address-1>2, place d'Estienne d'Orves</address-1>
+              <city>PARIS CEDEX 09</city>
+              <postcode>75441</postcode>
+              <country>FR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <fr-owners>
+      <fr-owner sequence="1">
+        <addressbook lang="fr">
+          <orgname>THALES</orgname>
+          <iid>552059024</iid>
+          <address>
+            <address-1>Tour Carpe Diem Place des Corolles Esplanade Nord</address-1>
+            <city>COURBEVOIE</city>
+            <postcode>92400</postcode>
+            <country>FR</country>
+          </address>
+        </addressbook>
+      </fr-owner>
+    </fr-owners>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G01S  19/00        20220101AFI20221216BHFR        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <language-of-filing>fr</language-of-filing>
+  </fr-bibliographic-data>
+  <abstract lang="fr">
+    <p>
+    L&#x2019;invention concerne un dispositif de maintien de l&#x2019;int&#xE9;grit&#xE9; du positionnement d&#x2019;un v&#xE9;hicule ind&#xE9;pendamment de la vuln&#xE9;rabilit&#xE9; de donn&#xE9;es satellitaires comprenant&#xA0;: 
+    - une unit&#xE9; de mesure inertielle,
+    - un r&#xE9;cepteur de donn&#xE9;es satellitaires, 
+    - un filtre de Kalman principal (32) configur&#xE9; pour calculer des corrections de donn&#xE9;es de navigation par hybridation permanente de donn&#xE9;es satellitaires et de donn&#xE9;es non satellitaires,
+    et en outre un banc de N sous-filtres (SF1, SF2, &#x2026;SFi, SFi+1, &#x2026;SFN) de Kalman en parall&#xE8;le, 
+    chaque sous-filtre de Kalman &#xE9;tant configur&#xE9; pour&#xA0;:
+    - calculer des corrections de donn&#xE9;es de navigation par hybridation ponctuelle, selon une fr&#xE9;quence de recalage FRi pr&#xE9;d&#xE9;termin&#xE9;e&#xA0;;
+    - en dehors de la mise en &#x153;uvre de ladite hybridation ponctuelle, calculer des corrections de donn&#xE9;es de navigation uniquement &#xE0; partir des donn&#xE9;es non satellitaires.
+    Figure 2
+  </p>
+  </abstract>
+  <fr-patent-life>
+    <references-cited>
+      <citation>
+        <patcit>
+          <text>EP 1 956 386 A1 (SAGEM DEFENSE SECURITE
+[FR]) 13 ao&#xFB;t 2008 (2008-08-13)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-1956386-A1</doc-number>
+            <date>20080813</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>US 2009/276155 A1 (JEERAGE MAHESH [US] ET
+AL) 5 novembre 2009 (2009-11-05)</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>US-2009276155-A1</doc-number>
+            <date>20091105</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>FR 3 026 195 A1 (THALES SA [FR])
+25 mars 2016 (2016-03-25)</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>FR-3026195-A1</doc-number>
+            <date>20160325</date>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit>
+          <text>EP 4 105 690 A1 (HONEYWELL INT INC [US])
+21 d&#xE9;cembre 2022 (2022-12-21)</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>EP-4105690-A1</doc-number>
+            <date>20221221</date>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <fr-date-availability>
+      <fr-last-fee-payement percentile="2">
+        <date>20230727</date>
+      </fr-last-fee-payement>
+      <fr-next-fee-payement percentile="3">
+        <date>20240731</date>
+      </fr-next-fee-payement>
+      <fr-date-search-completed>
+        <date>20240105</date>
+        <fr-bopinum>2024-01</fr-bopinum>
+      </fr-date-search-completed>
+    </fr-date-availability>
+  </fr-patent-life>
+</fr-patent-document>
