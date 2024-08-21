@@ -18,9 +18,6 @@ As it happens, our knowledge base of patent was in French, so we leveraged the m
 How it looks in the wild&nbsp;:  
 ![Demo](https://github.com/PatentBusters/development/assets/42514406/06151f93-10c9-4043-ba89-7921eb271d39)
 
-Meet the team&nbsp;:  
-![The 
-PatentBusters team](https://github.com/PatentBusters/development/assets/42514406/2c6aee0d-97ca-4cec-a128-b42dce2d85be)
 
 
 <p align="middle">
